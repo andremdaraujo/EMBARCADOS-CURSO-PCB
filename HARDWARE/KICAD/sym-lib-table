@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "EMBARCADOS - CURSO PCB")(type "KiCad")(uri "${KIPRJMOD}/EMBARCADOS - CURSO PCB.kicad_sym")(options "")(descr ""))
+)
