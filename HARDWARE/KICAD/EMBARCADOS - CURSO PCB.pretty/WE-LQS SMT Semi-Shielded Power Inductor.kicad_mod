@@ -1,0 +1,133 @@
+(footprint "WE-LQS SMT Semi-Shielded Power Inductor"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WE-LQS SMT Semi-Shielded Power Inductor")
+	(tags "WE-LQS SMT Semi-Shielded Power Inductor")
+	(property "Reference" "REF**"
+		(at 0 -1.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d354604d-9557-4c30-8787-aa0a3af4fcc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "WE-LQS SMT Semi-Shielded Power Inductor"
+		(at 0 2.4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7ba7a42c-da4b-4ba2-aa2c-253047ce3fa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd69f7b7-3a81-4ca3-932a-e4ff339bfc58")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74404024100.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9a9fef16-ed2b-4991-9829-babef665665a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "WE-LQS SMT Semi-Shielded Power Inductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6386b51-ea43-4783-b474-32ed8229c59d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -1.8 -1.2)
+		(end 1.8 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "e83bb950-f6a7-4f64-bd27-d8784638ce29")
+	)
+	(fp_rect
+		(start -1.8 -1.2)
+		(end 1.8 1.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "ce6f9a7a-2691-42c4-a35e-10d7ace886cd")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 4 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "798bf683-e60b-4f20-b1cc-e878026b88a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.95 0)
+		(size 1.1 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "78271bea-3f48-44b9-9a98-280b9b711e30")
+	)
+	(pad "2" smd roundrect
+		(at 0.95 0)
+		(size 1.1 2)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "84e0e82d-cae5-49a7-aa27-16959bd87c99")
+	)
+	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE LQS_252012 (rev1).igs"
+		(offset
+			(xyz 0 0 0.6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

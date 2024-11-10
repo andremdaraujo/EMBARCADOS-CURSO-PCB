@@ -1,0 +1,160 @@
+(footprint "WE-CNSW SMT Common Mode Line Filter"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "WE-CNSW SMT Common Mode Line Filter")
+	(tags "WE-CNSW SMT Common Mode Line Filter")
+	(property "Reference" "REF**"
+		(at 0 -1.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "8edfe0ec-b269-4af9-8c2e-720ae4547ecf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "WE-CNSW SMT Common Mode Line Filter"
+		(at 0 5.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "552a9c0e-57f1-4efd-b758-67b584ffb34c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a868a7e3-8a3f-4818-a2a4-e8912359dec4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/744232090.pdf"
+		(at 0 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8f6f882-f7f5-41b6-bc82-1d6258933cd8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "WE-CNSW SMT Common Mode Line Filter"
+		(at 0 4.8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e1aaa17-b86d-40fe-b2a1-0b14f6ec94a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -2.2 -1)
+		(end 2.2 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "a3f40ddc-70fb-489f-b865-4b1e4482e157")
+	)
+	(fp_circle
+		(center -2.6 0)
+		(end -2.4 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "e1a8a501-e83f-444a-b14b-4cfec7418bc4")
+	)
+	(fp_rect
+		(start -3 -1)
+		(end 2.2 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.CrtYd")
+		(uuid "597dbc39-6b47-4372-9d9c-4158fd75981d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 7.3 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "862c20b6-7d18-4d61-a57f-0dd65173781d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -1.35 0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "29627528-c2a5-498c-90ba-632ae7444eec")
+	)
+	(pad "2" smd roundrect
+		(at 1.35 0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "4d399d12-06f1-47e6-8bec-7f8d0609fe9b")
+	)
+	(pad "3" smd roundrect
+		(at 1.35 -0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "a30aaa19-0796-43f4-b9ad-1060f46c9271")
+	)
+	(pad "4" smd roundrect
+		(at -1.35 -0.5)
+		(size 1.1 0.6)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "3646bdc6-2cb1-4ca1-8c31-5733590d87ba")
+	)
+	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE CNSW_1206_CNSW (rev1).igs"
+		(offset
+			(xyz 0 0 1.2)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 180 0 0)
+		)
+	)
+)

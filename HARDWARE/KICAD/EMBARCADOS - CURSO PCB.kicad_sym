@@ -550,7 +550,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:Fiducial_0.75mm_Mask1.5mm"
 			(at 0.508 -2.794 0)
 			(effects
 				(font
@@ -695,7 +695,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
 			(at 0 0 0)
 			(effects
 				(font
@@ -876,7 +876,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:MountingHole_3.2mm_M3"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1062,7 +1062,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:BatteryHolder_Keystone_1060_1x2032"
 			(at 4.064 -7.366 90)
 			(effects
 				(font
@@ -1321,7 +1321,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1519,7 +1519,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
 			(at 0 0 0)
 			(effects
 				(font
