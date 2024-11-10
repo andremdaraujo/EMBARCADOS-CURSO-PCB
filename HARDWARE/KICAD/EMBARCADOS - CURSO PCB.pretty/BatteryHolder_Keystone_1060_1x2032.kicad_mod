@@ -239,6 +239,17 @@
 	)
 	(fp_circle
 		(center 0 0)
+		(end 10.6 0)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "393dc9a0-8bcc-490f-a3a8-a83919cf0ef9")
+	)
+	(fp_circle
+		(center 0 0)
 		(end -10.2 0)
 		(stroke
 			(width 0.3)
@@ -631,21 +642,23 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -14.65 0 180)
-		(size 2.6 3.6)
+		(size 3 4)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.08333333333)
 		(uuid "1571e2ed-fcd5-40b6-9d2a-092df1a13509")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at 14.65 0 180)
-		(size 2.6 3.6)
+		(size 3 4)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.08333333333)
 		(uuid "36eb9a8b-59c4-4efa-9800-b18b09afd892")
 	)
 	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE 79527141 (rev1).igs"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 0 0.1)
 		)
 		(scale
 			(xyz 1 1 1)

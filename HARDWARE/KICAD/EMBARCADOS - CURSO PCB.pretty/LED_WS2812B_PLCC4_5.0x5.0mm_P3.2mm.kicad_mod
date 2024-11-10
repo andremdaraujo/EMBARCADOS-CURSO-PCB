@@ -89,7 +89,7 @@
 	)
 	(fp_line
 		(start -3.5 2.75)
-		(end 3.05 2.75)
+		(end 2.9 2.75)
 		(stroke
 			(width 0.12)
 			(type solid)
@@ -118,8 +118,8 @@
 		(uuid "e48bb817-0d37-416b-af68-406e0f0e1db7")
 	)
 	(fp_line
-		(start 3.05 2.75)
-		(end 3.5 2.3)
+		(start 2.9 2.75)
+		(end 3.5 2.1)
 		(stroke
 			(width 0.12)
 			(type default)
@@ -128,7 +128,7 @@
 		(uuid "adcb7da5-562b-4661-a20c-0af79a7f5e56")
 	)
 	(fp_line
-		(start 3.5 2.3)
+		(start 3.5 2.1)
 		(end 3.5 -2.75)
 		(stroke
 			(width 0.12)
@@ -237,17 +237,6 @@
 		(fill none)
 		(layer "F.Fab")
 		(uuid "83b9b0b3-69d5-4d55-b734-61b11225d74a")
-	)
-	(fp_text user "1"
-		(at -4.15 -1.6 0)
-		(layer "F.SilkS")
-		(uuid "1dd9b978-b912-45e0-83fd-c616325b2a91")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)

@@ -70,8 +70,8 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -1.8 -1.2)
-		(end 1.8 1.2)
+		(start -1.7 -1.2)
+		(end 1.7 1.2)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -81,8 +81,8 @@
 		(uuid "e83bb950-f6a7-4f64-bd27-d8784638ce29")
 	)
 	(fp_rect
-		(start -1.8 -1.2)
-		(end 1.8 1.2)
+		(start -1.7 -1.2)
+		(end 1.7 1.2)
 		(stroke
 			(width 0.1)
 			(type default)

@@ -1717,7 +1717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
 			(at 0 0 0)
 			(effects
 				(font
@@ -1915,7 +1915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0805_2012Metric"
 			(at 0 0 0)
 			(effects
 				(font
@@ -2110,7 +2110,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:PinSocket_1x20_P2.54mm_Horizontal"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3083,7 +3083,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:PinSocket_2x05_P2.54mm_Horizontal"
 			(at -1.27 0 0)
 			(effects
 				(font
@@ -3516,7 +3516,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:BarrelJack_GCT_DCJ200-10-A_Horizontal"
 			(at 1.27 -1.016 0)
 			(effects
 				(font
@@ -3798,7 +3798,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:WE 693071020811"
 			(at 52.07 17.78 0)
 			(effects
 				(font
@@ -4281,7 +4281,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:USB_C_Receptacle_G-Switch_GT-USB-7010ASV"
 			(at 4.064 -31.75 0)
 			(effects
 				(font
@@ -5034,7 +5034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:Crystal_SMD_3215-2Pin_3.2x1.5mm"
 			(at -0.508 -6.35 0)
 			(effects
 				(font
@@ -5266,7 +5266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 0 -18.034 0)
 			(effects
 				(font
@@ -5581,7 +5581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:D_SOD-123"
 			(at 0 -4.445 0)
 			(effects
 				(font
@@ -5789,7 +5789,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-23-6"
 			(at 17.78 -6.35 0)
 			(effects
 				(font
@@ -6247,7 +6247,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-23-6"
 			(at 3.302 -5.207 0)
 			(effects
 				(font
@@ -6754,7 +6754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:OLED 128x64 1.3in"
 			(at 0 6.35 0)
 			(effects
 				(font
@@ -6969,7 +6969,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:L_0603_1608Metric"
 			(at -1.778 0 90)
 			(effects
 				(font
@@ -7174,7 +7174,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TSSOP-10_3x3mm_P0.5mm"
 			(at -0.254 -11.938 0)
 			(effects
 				(font
@@ -7499,7 +7499,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-5"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-23-5"
 			(at 0 -9.144 0)
 			(effects
 				(font
@@ -7748,7 +7748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-223-3_TabPin2"
 			(at 0 5.08 0)
 			(effects
 				(font
@@ -7947,7 +7947,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-223-3_TabPin2"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-223-3_TabPin2"
 			(at 0 5.08 0)
 			(effects
 				(font
@@ -8147,7 +8147,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:LQFP-64_10x10mm_P0.5mm"
 			(at -13.208 -67.818 0)
 			(effects
 				(font
@@ -9675,7 +9675,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TSSOP-14_4.4x5mm_P0.65mm"
 			(at -1.27 2.54 0)
 			(effects
 				(font
@@ -10125,7 +10125,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:WE-LQS SMT Semi-Shielded Power Inductor"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10356,7 +10356,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:WE-CNSW SMT Common Mode Line Filter"
 			(at 0 0 0)
 			(effects
 				(font
@@ -10778,7 +10778,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:LED_0603_1608Metric"
 			(at 0 0 0)
 			(effects
 				(font
@@ -11012,7 +11012,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm"
 			(at 1.27 -7.62 0)
 			(effects
 				(font
@@ -11326,7 +11326,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:LED_Inolux_IN-P55TATRGB_PLCC6_5.0x5.5mm_P1.8mm"
 			(at 0 -1.27 0)
 			(effects
 				(font
@@ -12024,7 +12024,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -12257,7 +12257,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -12490,7 +12490,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -12723,7 +12723,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -12956,7 +12956,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -13189,7 +13189,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -13422,7 +13422,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
 			(at 1.016 -0.254 90)
 			(effects
 				(font
@@ -13653,7 +13653,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:PKM13EPYH4000-A0"
 			(at -2.159 0 0)
 			(effects
 				(font
@@ -13899,7 +13899,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C&K PTS526SM20SMTR21 LFS"
 			(at 0 5.08 0)
 			(effects
 				(font
@@ -13908,7 +13908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.ckswitches.com/media/2122/pts-flyer.pdf"
+		(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
 			(at 0 5.08 0)
 			(effects
 				(font
@@ -14153,7 +14153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "EMBARCADOS - CURSO PCB:SOT-23"
 			(at 5.08 -1.905 0)
 			(effects
 				(font

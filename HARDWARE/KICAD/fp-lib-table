@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
   (lib (name "EMBARCADOS - CURSO PCB")(type "KiCad")(uri "${KIPRJMOD}/EMBARCADOS - CURSO PCB.pretty")(options "")(descr ""))
+  (lib (name "STM32XP")(type "KiCad")(uri "C:/Andre/PROJECTS/MECHATRONIX LAB/STM32 EXPLORER BOARD/HARDWARE/KICAD/STM32XP.pretty")(options "")(descr ""))
 )
