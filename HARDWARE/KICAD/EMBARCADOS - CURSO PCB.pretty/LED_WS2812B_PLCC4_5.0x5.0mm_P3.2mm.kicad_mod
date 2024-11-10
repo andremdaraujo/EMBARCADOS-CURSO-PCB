@@ -261,34 +261,35 @@
 		)
 	)
 	(pad "1" smd roundrect
-		(at -2.45 -1.65)
-		(size 1.5 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.1)
-		(uuid "303fa036-5e50-4d6d-bb86-5cdfd4b88a9f")
-	)
-	(pad "2" smd roundrect
-		(at -2.45 1.65)
-		(size 1.5 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(roundrect_rratio 0.1)
-		(uuid "19ff1e90-56ef-461a-889c-61ffea674474")
-	)
-	(pad "3" smd roundrect
 		(at 2.45 1.65)
 		(size 1.5 0.9)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.1)
 		(uuid "abc776f0-6816-4443-a596-fad8645d4ac8")
 	)
-	(pad "4" smd roundrect
+	(pad "2" smd roundrect
 		(at 2.45 -1.65)
 		(size 1.5 0.9)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(roundrect_rratio 0.1)
 		(uuid "e6e3b1bc-4064-4031-9b80-d1df61337d0a")
 	)
+	(pad "3" smd roundrect
+		(at -2.45 -1.65)
+		(size 1.5 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "303fa036-5e50-4d6d-bb86-5cdfd4b88a9f")
+	)
+	(pad "4" smd roundrect
+		(at -2.45 1.65)
+		(size 1.5 0.9)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.1)
+		(uuid "19ff1e90-56ef-461a-889c-61ffea674474")
+	)
 	(model "${KICAD8_3DMODEL_DIR}/LED_SMD.3dshapes/LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm.wrl"
+		(hide yes)
 		(offset
 			(xyz 0 0 0)
 		)
@@ -297,6 +298,17 @@
 		)
 		(rotate
 			(xyz 0 0 0)
+		)
+	)
+	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE IGS_WL-ICLED_1315050930002 (rev1).igs"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
 		)
 	)
 )

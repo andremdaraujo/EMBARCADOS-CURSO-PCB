@@ -312,9 +312,9 @@
 		(remove_unused_layers no)
 		(uuid "46f073f2-0168-4ed6-b5f6-d865f0efcbb7")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_GCT_DCJ200-10-A_Horizontal.wrl"
+	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE 694108301002 (rev1).iges"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 -10.3 5.5)
 		)
 		(scale
 			(xyz 1 1 1)

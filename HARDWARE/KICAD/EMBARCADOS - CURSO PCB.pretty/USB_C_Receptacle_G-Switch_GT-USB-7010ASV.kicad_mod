@@ -350,9 +350,9 @@
 		(remove_unused_layers no)
 		(uuid "9384f131-71cb-498f-9829-60301a016f43")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_G-Switch_GT-USB-7010ASV.wrl"
+	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/WE 629722000214 (rev1).iges"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 1.05 1.6)
 		)
 		(scale
 			(xyz 1 1 1)
