@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "baa06072-e5f8-4076-9a25-7d4af65bb0cc")
+	(uuid "2f9a9770-e879-4c08-b81b-b57ad2652ae7")
 	(paper "A4")
 	(lib_symbols
 		(symbol "EMBARCADOS - CURSO PCB:+5V"
@@ -3401,6 +3401,12 @@
 		(uuid "1ae4c93c-85fa-4378-9986-54e21f92dbe1")
 	)
 	(junction
+		(at 107.95 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3dfa7fd1-b9d5-4e27-8b4a-94323fd6977e")
+	)
+	(junction
 		(at 33.02 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3459,6 +3465,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aadcd7ca-ddfc-4c7b-80ce-7b5df3c923b7")
+	)
+	(junction
+		(at 107.95 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af77e652-06e8-4f86-9022-152b6fc301fc")
 	)
 	(junction
 		(at 40.64 190.5)
@@ -3529,6 +3541,16 @@
 			(type default)
 		)
 		(uuid "01c0ebda-5daf-4af4-bfd4-ae564ea6c088")
+	)
+	(wire
+		(pts
+			(xy 107.95 190.5) (xy 116.84 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01d660b9-372f-4281-aaae-f84001c18529")
 	)
 	(wire
 		(pts
@@ -3692,6 +3714,16 @@
 	)
 	(wire
 		(pts
+			(xy 168.91 115.57) (xy 186.69 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f0f02e4-92fc-4c00-9ac5-50a2945acbd6")
+	)
+	(wire
+		(pts
 			(xy 173.99 125.73) (xy 173.99 82.55)
 		)
 		(stroke
@@ -3762,6 +3794,16 @@
 	)
 	(wire
 		(pts
+			(xy 121.92 120.65) (xy 121.92 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48e36092-43f1-40f0-8104-e7d8c3b9a590")
+	)
+	(wire
+		(pts
 			(xy 58.42 54.61) (xy 133.35 54.61)
 		)
 		(stroke
@@ -3769,6 +3811,16 @@
 			(type default)
 		)
 		(uuid "4b696d14-7324-48b3-a318-0372b1783022")
+	)
+	(wire
+		(pts
+			(xy 116.84 187.96) (xy 116.84 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56fc8fd6-2b99-4355-a3c8-0fa94f5a4fac")
 	)
 	(wire
 		(pts
@@ -3789,6 +3841,16 @@
 			(type default)
 		)
 		(uuid "5b5dd8b6-6c8f-4e9a-a73b-6ba5887b2e46")
+	)
+	(wire
+		(pts
+			(xy 107.95 187.96) (xy 107.95 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ecfd0e5-a76c-4180-a5e4-2ff2fdcfa897")
 	)
 	(wire
 		(pts
@@ -4032,6 +4094,26 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 176.53) (xy 107.95 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ec3e129-a9fc-4eb0-9fe8-932d1804841f")
+	)
+	(wire
+		(pts
+			(xy 107.95 190.5) (xy 107.95 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91591109-2c81-4572-9f47-afdd1f22059d")
+	)
+	(wire
+		(pts
 			(xy 81.28 25.4) (xy 81.28 49.53)
 		)
 		(stroke
@@ -4049,6 +4131,16 @@
 			(type default)
 		)
 		(uuid "9a66f210-1c6a-4938-a26c-2771ff8ba247")
+	)
+	(wire
+		(pts
+			(xy 107.95 179.07) (xy 107.95 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fadb192-9287-490b-8d0b-d37c5c763570")
 	)
 	(wire
 		(pts
@@ -4132,6 +4224,16 @@
 	)
 	(wire
 		(pts
+			(xy 111.76 59.69) (xy 133.35 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8edc261-e386-4a42-9763-c47b2c3d2e8d")
+	)
+	(wire
+		(pts
 			(xy 25.4 187.96) (xy 25.4 190.5)
 		)
 		(stroke
@@ -4152,6 +4254,16 @@
 	)
 	(wire
 		(pts
+			(xy 107.95 179.07) (xy 116.84 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9e73531-3586-4488-bf9e-d16468d108c8")
+	)
+	(wire
+		(pts
 			(xy 43.18 38.1) (xy 46.99 38.1)
 		)
 		(stroke
@@ -4159,6 +4271,16 @@
 			(type default)
 		)
 		(uuid "ba0eea56-f1d4-4c4f-ab3e-47e7995e70c4")
+	)
+	(wire
+		(pts
+			(xy 133.35 120.65) (xy 121.92 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbe98ba8-9aac-4a94-81a6-03b1a597e4a6")
 	)
 	(wire
 		(pts
@@ -4179,6 +4301,16 @@
 			(type default)
 		)
 		(uuid "be4c82d0-fea4-480f-b2b3-319b78553c80")
+	)
+	(wire
+		(pts
+			(xy 116.84 182.88) (xy 116.84 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "befa9bb9-388d-46dd-89e2-0023a96a94a9")
 	)
 	(wire
 		(pts
@@ -4379,6 +4511,666 @@
 			(type default)
 		)
 		(uuid "fc9b3a67-d9b6-4438-879d-68d4226d680b")
+	)
+	(global_label "PWM BUZZER"
+		(shape output)
+		(at 31.75 130.81 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "091b91fc-1405-4212-9a01-348e3ff27472")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.3141 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SD CARD ~{IN}"
+		(shape input)
+		(at 236.22 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "181bfd84-8b2c-4637-9cfe-29f8658c5c35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.4538 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NRST"
+		(shape input)
+		(at 111.76 59.69 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "19ad6801-3519-4372-8202-2911d84a423e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 103.9972 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI MISO"
+		(shape input)
+		(at 236.22 109.22 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "28da9a9f-a00d-4f1f-88ab-b4fa3a861a4e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8533 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON 2"
+		(shape input)
+		(at 43.18 116.84 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "2a42040d-fa6e-44d8-879d-730428e1fb84")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.821 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DEBUG RX"
+		(shape input)
+		(at 237.49 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "3b9f73d4-ac48-44ad-bdd5-322ce058460e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 250.2118 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C SCL 5V"
+		(shape output)
+		(at 269.24 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f93bb42-9fa7-49b9-b6d7-e289afa5ae2d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 283.0504 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM GREEN"
+		(shape output)
+		(at 31.75 139.7 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "52fe75f3-8d13-4d95-8379-199423f747d9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 46.0441 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C SDA 5V"
+		(shape bidirectional)
+		(at 269.24 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "58974898-c3b1-496e-ab00-d01dfed97d7f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 284.2222 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB D+"
+		(shape bidirectional)
+		(at 237.49 60.96 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "66217115-bdc1-4714-9caf-ebda0fcf8045")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.2065 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C SCL 3.3V"
+		(shape output)
+		(at 236.22 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6e94cca2-972e-44aa-a48d-c2912226a775")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 251.8447 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON CENTER"
+		(shape input)
+		(at 43.18 111.76 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "76e4bada-3e3e-474f-b5d3-4f259a98d47c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 24.8944 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON UP"
+		(shape input)
+		(at 43.18 106.68 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7b688374-6a1a-45c8-b2ae-1303f660c874")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 29.43 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM BLUE"
+		(shape output)
+		(at 31.75 142.24 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7c3d5518-ca05-4965-90a0-d1c2ec385217")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 44.6532 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI SCK"
+		(shape output)
+		(at 236.22 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "842a42ae-8d0a-4e56-a89d-61e29945f489")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.0066 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI NSS"
+		(shape output)
+		(at 236.22 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "859e49ef-8f1d-44ff-9441-9791dece2a5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.0066 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SPI MOSI"
+		(shape output)
+		(at 236.22 106.68 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8aadfac7-cc37-42b2-8a20-dbb810673e70")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.8533 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "I2C SDA 3.3V"
+		(shape bidirectional)
+		(at 236.22 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9896f76c-6c45-430a-b35b-3a0d29c48d3e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 253.0165 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWDIO"
+		(shape bidirectional)
+		(at 237.49 38.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99822612-fbae-4e11-a4c5-6e0718050fa8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 247.4527 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWO"
+		(shape output)
+		(at 237.49 35.56 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9c6ceb4a-19bd-445e-b82d-02e7c3bc195c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 244.4666 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON 1"
+		(shape input)
+		(at 43.18 114.3 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b36051e5-597a-4505-a465-b6cc669c5afb")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 30.821 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON DOWN"
+		(shape input)
+		(at 43.18 109.22 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "b918378e-9881-4fa7-8251-09c54fab8a53")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.6481 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEOPIXEL DIN"
+		(shape output)
+		(at 31.75 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "bdc248be-980f-403e-a11b-d58b4296a57d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 47.9795 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "DEBUG TX"
+		(shape output)
+		(at 237.49 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "be478ed1-aa75-477d-b600-86a4c7d54cec")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.9094 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BOOT0"
+		(shape input)
+		(at 186.69 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5597ab0-519a-4a45-9c51-ab5081a604fe")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 195.7833 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PWM RED"
+		(shape output)
+		(at 31.75 137.16 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d6ee49e3-6918-48a8-a78a-112f70efcd3f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 43.5646 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB D-"
+		(shape bidirectional)
+		(at 237.49 63.5 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "dda8fa1b-bf7d-4aab-b24e-ed4d740f6217")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 249.2065 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON LEFT"
+		(shape input)
+		(at 43.18 101.6 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e20b5ed7-893f-40cf-bd5c-d0845220420e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 27.7972 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "BUTTON RIGHT"
+		(shape input)
+		(at 43.18 104.14 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ee4d5e1b-1d99-4e42-aeaa-85dcda6b3993")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 26.5876 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SWCLK"
+		(shape input)
+		(at 237.49 40.64 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f4e5d8ba-1957-41b2-bbb3-01f104578c05")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 246.7042 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
@@ -5028,6 +5820,127 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 107.95 176.53 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2f3310ed-c60d-4aeb-b2b2-a3e394a97712")
+		(property "Reference" "#PWR045"
+			(at 107.95 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VCORE"
+			(at 107.95 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 107.95 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "26e1633b-4949-440d-a94b-82f2bb522851")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "#PWR045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CRYSTAL 3.2x2.5 12MHz 18pF 20ppm ABRACON ABM8-12.000MHZ-D2Y-T")
 		(at 58.42 60.96 90)
 		(unit 1)
@@ -5543,6 +6456,138 @@
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(at 107.95 185.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "60d7c815-1fde-481d-9be6-47eb308d8f92")
+		(property "Reference" "C20"
+			(at 105.41 186.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10µF 16V"
+			(at 110.49 189.23 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0805_2012Metric"
+			(at 107.95 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+			(at 107.95 191.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 0805 10uH 16V AVX"
+			(at 107.95 194.818 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM21AR71C106K "
+			(at 107.95 204.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KYOCERA/AVX "
+			(at 108.204 202.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 107.696 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 107.95 208.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C15850 "
+			(at 107.95 200.914 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "CL21A106KAYNNNE "
+			(at 108.458 196.596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "SAMSUNG "
+			(at 108.204 198.882 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0dfb6dc8-b17a-4a62-9271-599e2345c69d")
+		)
+		(pin "2"
+			(uuid "227a1118-c8ca-42d4-9034-a8d266283427")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -6573,6 +7618,127 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 121.92 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9e0d7c3e-21f9-471f-88d6-919c68d13ea2")
+		(property "Reference" "#PWR044"
+			(at 121.92 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VCORE"
+			(at 121.92 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 121.92 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "611e58e6-8dbf-489c-9a73-ffb2c44e7993")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
 		(at 173.99 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7078,6 +8244,73 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
+		(at 107.95 193.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bba144e9-6d08-4d6a-a001-6de8111ac753")
+		(property "Reference" "#PWR046"
+			(at 107.95 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 107.95 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 107.95 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 107.95 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 107.95 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "dd9a0ac0-e923-4380-a86a-6922a56e6633")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "#PWR046")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
 		(at 72.39 185.42 0)
 		(unit 1)
@@ -7457,6 +8690,138 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
+		(at 116.84 185.42 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e6ef2e52-5496-4580-8066-f01b27b7c5e1")
+		(property "Reference" "C21"
+			(at 114.3 186.69 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF 50V"
+			(at 119.38 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
+			(at 116.84 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+			(at 116.84 179.832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 0603 100nF 50V AVX"
+			(at 116.84 176.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM15BR71H104K "
+			(at 116.84 166.116 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KYOCERA/AVX "
+			(at 116.586 168.148 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 117.094 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 116.84 162.052 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663 "
+			(at 116.84 169.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "CC0603KRX7R9BB104 "
+			(at 116.332 174.244 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "YAGEO "
+			(at 116.586 171.958 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "993c4fc4-a92f-4fde-8cb9-f8c7bb88131b")
+		)
+		(pin "1"
+			(uuid "2187d7aa-6e66-46ed-81b7-f282c6418a1b")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "C21")
 					(unit 1)
 				)
 			)
