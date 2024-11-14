@@ -2,7 +2,7 @@
 	(version 20231120)
 	(generator "eeschema")
 	(generator_version "8.0")
-	(uuid "31ce3578-dfc7-4a0f-844f-ad396cc2b668")
+	(uuid "baa06072-e5f8-4076-9a25-7d4af65bb0cc")
 	(paper "A4")
 	(lib_symbols
 		(symbol "EMBARCADOS - CURSO PCB:+5V"
@@ -3389,140 +3389,150 @@
 		)
 	)
 	(junction
-		(at 62.23 74.93)
+		(at 58.42 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "169cbdbc-f725-4745-a697-aba50c83bb6f")
+		(uuid "08dcc9dc-1bb2-429f-a8a4-2b4ac27db074")
 	)
 	(junction
-		(at 44.45 74.93)
+		(at 43.18 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "30ad5bda-0fe2-452e-b552-ff25e865c5ac")
+		(uuid "1ae4c93c-85fa-4378-9986-54e21f92dbe1")
 	)
 	(junction
-		(at 50.8 44.45)
+		(at 33.02 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "44d97fd1-0297-465e-8e37-b2e6d6c61635")
+		(uuid "4433944d-1c76-46ad-8fc8-69f27bb31082")
 	)
 	(junction
-		(at 128.27 109.22)
+		(at 130.81 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "459e7dc6-084e-46fe-9a8f-14b681b80b2f")
 	)
 	(junction
-		(at 44.45 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4e128137-85f1-4888-b43f-6c5fd6103a14")
-	)
-	(junction
-		(at 62.23 59.69)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5384705c-9cfe-4bd7-aad5-bebf4d6128b4")
-	)
-	(junction
-		(at 128.27 142.24)
+		(at 130.81 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5567c23b-c1a4-46c4-b909-c11bd6f5d75e")
 	)
 	(junction
-		(at 176.53 142.24)
+		(at 128.27 92.71)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "585a56be-4667-4c76-9c40-ca0055d2ac51")
+		(uuid "5d8976db-556a-4077-8e8a-67b3c020b83c")
 	)
 	(junction
-		(at 57.15 25.4)
+		(at 49.53 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5dc0ba08-020a-476f-b211-02d499333d92")
 	)
 	(junction
-		(at 62.23 99.06)
+		(at 58.42 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9b7bfdfc-b8c7-4a29-bd10-9f4dc8dbfa30")
+		(uuid "6b514ff0-3e92-4d58-b6af-f1312817043c")
 	)
 	(junction
-		(at 44.45 92.71)
+		(at 171.45 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ea6f2da-16f5-4257-b51a-20ae35abc393")
+	)
+	(junction
+		(at 58.42 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7ede5152-be5e-4b49-a4a2-92d6ec21d82c")
+	)
+	(junction
+		(at 43.18 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a065dcea-fcbe-4d59-a66f-30a845fa591a")
 	)
 	(junction
-		(at 38.1 25.4)
+		(at 25.4 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "ab2698e4-fd08-4c1d-b238-1e306f8c2551")
+		(uuid "aadcd7ca-ddfc-4c7b-80ce-7b5df3c923b7")
 	)
 	(junction
-		(at 50.8 25.4)
+		(at 40.64 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c47dbdfa-e59f-43cc-9897-4a3f76f926b6")
+		(uuid "cd4396fb-888d-4bbc-b71f-19f0dbd24004")
 	)
 	(junction
-		(at 38.1 44.45)
+		(at 33.02 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "c9d78c02-f572-49ae-870a-e16ab8b9da7c")
+		(uuid "d1c8ead6-bb40-4b7d-b9eb-43b18ee89011")
 	)
 	(junction
-		(at 57.15 44.45)
+		(at 49.53 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d447ed04-84d4-4848-a9c9-14410eedfdc5")
 	)
 	(junction
-		(at 74.93 25.4)
+		(at 58.42 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4c61766-e949-4984-9a17-6cfa97318e8d")
+	)
+	(junction
+		(at 72.39 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d5f5e7bf-3175-4d1e-9e1b-c2075ff8a2ff")
 	)
 	(junction
-		(at 120.65 111.76)
+		(at 25.4 179.07)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d616e56a-c22c-4b27-9b4e-b958df8ae8c5")
+		(uuid "e33cc1ef-2b87-4351-92e9-c417a895f58c")
 	)
 	(junction
-		(at 44.45 25.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ddd2cb6a-c7c0-40fb-b813-163b582e15bc")
-	)
-	(junction
-		(at 62.23 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "de285e25-13f8-4944-8d73-ecde742988fd")
-	)
-	(junction
-		(at 74.93 44.45)
+		(at 72.39 190.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4612a54-e072-44d6-9e21-21af220af33c")
 	)
 	(junction
-		(at 44.45 99.06)
+		(at 43.18 67.31)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4db7de2-51f0-4d4c-b02a-65101ac97ed4")
 	)
 	(junction
-		(at 181.61 101.6)
+		(at 173.99 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7d82477-6fc3-46ca-9b7c-46daba29c661")
 	)
+	(junction
+		(at 40.64 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f76af105-ba71-4ef5-bd1e-4749131c70cf")
+	)
 	(wire
 		(pts
-			(xy 166.37 99.06) (xy 176.53 99.06)
+			(xy 78.74 38.1) (xy 78.74 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01c0ebda-5daf-4af4-bfd4-ae564ea6c088")
+	)
+	(wire
+		(pts
+			(xy 168.91 80.01) (xy 171.45 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3532,7 +3542,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 142.24) (xy 128.27 142.24)
+			(xy 133.35 123.19) (xy 130.81 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3542,7 +3552,17 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 25.4) (xy 44.45 36.83)
+			(xy 168.91 82.55) (xy 173.99 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08aec46c-dc75-4a4e-8119-a9f5266aa5c4")
+	)
+	(wire
+		(pts
+			(xy 33.02 179.07) (xy 33.02 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3552,17 +3572,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 25.4) (xy 50.8 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0a8ce7e2-af4d-48ea-8865-9e2102ff6bab")
-	)
-	(wire
-		(pts
-			(xy 44.45 86.36) (xy 46.99 86.36)
+			(xy 43.18 54.61) (xy 46.99 54.61)
 		)
 		(stroke
 			(width 0)
@@ -3572,7 +3582,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 25.4) (xy 38.1 25.4)
+			(xy 17.78 179.07) (xy 25.4 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3582,7 +3592,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 59.69) (xy 62.23 59.69)
+			(xy 52.07 25.4) (xy 58.42 25.4)
 		)
 		(stroke
 			(width 0)
@@ -3592,7 +3602,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 36.83) (xy 31.75 25.4)
+			(xy 17.78 182.88) (xy 17.78 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3602,17 +3612,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 25.4) (xy 74.93 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d3b434d-8cf0-4c3a-94e2-449a2577dd69")
-	)
-	(wire
-		(pts
-			(xy 44.45 77.47) (xy 44.45 74.93)
+			(xy 43.18 38.1) (xy 43.18 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3622,7 +3622,7 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 101.6) (xy 181.61 48.26)
+			(xy 173.99 82.55) (xy 173.99 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3632,17 +3632,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 76.2) (xy 100.33 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e99339c-197e-4110-a1d5-7c3c91a4e066")
-	)
-	(wire
-		(pts
-			(xy 128.27 109.22) (xy 128.27 142.24)
+			(xy 130.81 90.17) (xy 130.81 123.19)
 		)
 		(stroke
 			(width 0)
@@ -3652,7 +3642,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 76.2) (xy 130.81 76.2)
+			(xy 77.47 67.31) (xy 81.28 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3662,7 +3652,17 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 22.86) (xy 57.15 25.4)
+			(xy 58.42 35.56) (xy 58.42 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "238eeb15-b279-41af-8997-7a70d1f45675")
+	)
+	(wire
+		(pts
+			(xy 49.53 176.53) (xy 49.53 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3672,37 +3672,27 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 101.6) (xy 181.61 101.6)
+			(xy 81.28 49.53) (xy 133.35 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2a2e10ca-df7f-437f-8470-3a04d0d574c1")
+		(uuid "28472040-b12c-4edf-8169-622c4f42a30f")
 	)
 	(wire
 		(pts
-			(xy 85.09 71.12) (xy 85.09 74.93)
+			(xy 40.64 179.07) (xy 49.53 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "2ace6333-ca3e-41bc-8225-ef19bebd4ca2")
+		(uuid "2e25ed84-0948-4600-b4ee-d91b6e747353")
 	)
 	(wire
 		(pts
-			(xy 38.1 44.45) (xy 44.45 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "349a68bd-2697-4986-bc08-1c8b3c5fe890")
-	)
-	(wire
-		(pts
-			(xy 181.61 144.78) (xy 181.61 101.6)
+			(xy 173.99 125.73) (xy 173.99 82.55)
 		)
 		(stroke
 			(width 0)
@@ -3712,7 +3702,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 22.86) (xy 74.93 25.4)
+			(xy 72.39 176.53) (xy 72.39 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3722,17 +3712,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 73.66) (xy 95.25 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3da7260c-2d69-40f8-ae13-e304653949ee")
-	)
-	(wire
-		(pts
-			(xy 125.73 93.98) (xy 125.73 55.88)
+			(xy 127 74.93) (xy 127 36.83)
 		)
 		(stroke
 			(width 0)
@@ -3742,7 +3722,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 41.91) (xy 44.45 44.45)
+			(xy 33.02 187.96) (xy 33.02 190.5)
 		)
 		(stroke
 			(width 0)
@@ -3752,7 +3732,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 25.4) (xy 38.1 36.83)
+			(xy 25.4 179.07) (xy 25.4 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3762,7 +3742,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 36.83) (xy 81.28 25.4)
+			(xy 81.28 182.88) (xy 81.28 179.07)
 		)
 		(stroke
 			(width 0)
@@ -3772,7 +3752,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 41.91) (xy 57.15 44.45)
+			(xy 49.53 187.96) (xy 49.53 190.5)
 		)
 		(stroke
 			(width 0)
@@ -3782,57 +3762,17 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 59.69) (xy 62.23 59.69)
+			(xy 58.42 54.61) (xy 133.35 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "499a8ed6-dd04-457a-ad59-847f280e431b")
+		(uuid "4b696d14-7324-48b3-a318-0372b1783022")
 	)
 	(wire
 		(pts
-			(xy 95.25 86.36) (xy 62.23 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c755659-74c8-4c8f-aa88-80d3458e0352")
-	)
-	(wire
-		(pts
-			(xy 85.09 74.93) (xy 62.23 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ce3b9f1-668c-4d57-813a-ea919b7def84")
-	)
-	(wire
-		(pts
-			(xy 166.37 144.78) (xy 181.61 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4d94720a-d1ad-4361-90d9-81968d317c5e")
-	)
-	(wire
-		(pts
-			(xy 130.81 73.66) (xy 95.25 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4fc6de1c-f801-48e9-a420-9c2e62a33546")
-	)
-	(wire
-		(pts
-			(xy 128.27 91.44) (xy 128.27 109.22)
+			(xy 130.81 72.39) (xy 130.81 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3842,7 +3782,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 22.86) (xy 95.25 36.83)
+			(xy 92.71 176.53) (xy 92.71 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3852,7 +3792,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 142.24) (xy 128.27 149.86)
+			(xy 130.81 123.19) (xy 130.81 130.81)
 		)
 		(stroke
 			(width 0)
@@ -3862,7 +3802,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 74.93) (xy 62.23 74.93)
+			(xy 52.07 38.1) (xy 58.42 38.1)
 		)
 		(stroke
 			(width 0)
@@ -3872,7 +3812,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 99.06) (xy 62.23 99.06)
+			(xy 52.07 67.31) (xy 58.42 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3882,7 +3822,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 25.4) (xy 57.15 36.83)
+			(xy 49.53 179.07) (xy 49.53 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3892,7 +3832,27 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 55.88) (xy 115.57 63.5)
+			(xy 33.02 179.07) (xy 40.64 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6580e5f7-fe0b-494c-a3f1-25ea9b60b77b")
+	)
+	(wire
+		(pts
+			(xy 43.18 38.1) (xy 43.18 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a457616-8aff-4a46-a535-2241cfba5f67")
+	)
+	(wire
+		(pts
+			(xy 132.08 41.91) (xy 132.08 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3902,27 +3862,17 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 59.69) (xy 62.23 63.5)
+			(xy 58.42 25.4) (xy 81.28 25.4)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6bde2fc9-006b-42c7-a911-4810ab0efbf2")
+		(uuid "6d978ec6-8578-487d-8e0b-87cea5c758b9")
 	)
 	(wire
 		(pts
-			(xy 44.45 74.93) (xy 44.45 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6d8239a4-9509-455f-9f97-207bc6cbe4e7")
-	)
-	(wire
-		(pts
-			(xy 44.45 99.06) (xy 44.45 92.71)
+			(xy 43.18 67.31) (xy 43.18 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3932,7 +3882,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 81.28 44.45)
+			(xy 72.39 190.5) (xy 81.28 190.5)
 		)
 		(stroke
 			(width 0)
@@ -3942,27 +3892,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 68.58) (xy 85.09 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "722e2011-c5e1-4c7d-b2d1-6a53b4340256")
-	)
-	(wire
-		(pts
-			(xy 130.81 71.12) (xy 85.09 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "750a51a3-d02d-4ba8-ba21-bddd1c59e035")
-	)
-	(wire
-		(pts
-			(xy 50.8 25.4) (xy 50.8 36.83)
+			(xy 40.64 179.07) (xy 40.64 182.88)
 		)
 		(stroke
 			(width 0)
@@ -3972,7 +3902,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 44.45) (xy 57.15 46.99)
+			(xy 49.53 190.5) (xy 49.53 193.04)
 		)
 		(stroke
 			(width 0)
@@ -3982,7 +3912,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 99.06) (xy 46.99 99.06)
+			(xy 43.18 67.31) (xy 46.99 67.31)
 		)
 		(stroke
 			(width 0)
@@ -3992,7 +3922,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 86.36) (xy 62.23 88.9)
+			(xy 58.42 54.61) (xy 58.42 57.15)
 		)
 		(stroke
 			(width 0)
@@ -4002,7 +3932,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 48.26) (xy 120.65 111.76)
+			(xy 25.4 179.07) (xy 33.02 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f696f89-d168-4ca9-bf19-73c4a0af7b4e")
+	)
+	(wire
+		(pts
+			(xy 121.92 31.75) (xy 121.92 92.71)
 		)
 		(stroke
 			(width 0)
@@ -4012,7 +3952,7 @@
 	)
 	(wire
 		(pts
-			(xy 67.31 92.71) (xy 69.85 92.71)
+			(xy 63.5 60.96) (xy 66.04 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4022,7 +3962,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 111.76) (xy 120.65 144.78)
+			(xy 78.74 52.07) (xy 133.35 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff7efa4-ed9f-4a5f-bd44-574f9ab8be52")
+	)
+	(wire
+		(pts
+			(xy 128.27 92.71) (xy 128.27 125.73)
 		)
 		(stroke
 			(width 0)
@@ -4032,7 +3982,7 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 92.71) (xy 69.85 95.25)
+			(xy 66.04 60.96) (xy 66.04 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4042,7 +3992,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 101.6) (xy 44.45 99.06)
+			(xy 43.18 69.85) (xy 43.18 67.31)
 		)
 		(stroke
 			(width 0)
@@ -4052,7 +4002,7 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 44.45) (xy 38.1 44.45)
+			(xy 17.78 190.5) (xy 25.4 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4062,7 +4012,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 25.4) (xy 74.93 36.83)
+			(xy 72.39 179.07) (xy 72.39 182.88)
 		)
 		(stroke
 			(width 0)
@@ -4072,7 +4022,17 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 68.58) (xy 85.09 59.69)
+			(xy 58.42 25.4) (xy 58.42 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d9ca833-518e-45fa-a5a0-88e4b2bb8549")
+	)
+	(wire
+		(pts
+			(xy 81.28 25.4) (xy 81.28 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4082,7 +4042,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 93.98) (xy 125.73 93.98)
+			(xy 133.35 74.93) (xy 127 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4092,7 +4052,17 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 86.36) (xy 62.23 86.36)
+			(xy 40.64 190.5) (xy 49.53 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a02b3629-1bf5-486f-be30-61b4e14aa758")
+	)
+	(wire
+		(pts
+			(xy 52.07 54.61) (xy 58.42 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4102,7 +4072,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 25.4) (xy 81.28 25.4)
+			(xy 72.39 179.07) (xy 81.28 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4112,27 +4082,17 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 25.4) (xy 50.8 25.4)
+			(xy 128.27 92.71) (xy 121.92 92.71)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a8632a15-fbd4-4c83-9ced-0f7c141bcc53")
+		(uuid "aa3cc1c6-05c7-417a-93a8-45c1aba31093")
 	)
 	(wire
 		(pts
-			(xy 57.15 44.45) (xy 50.8 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b069b577-79a6-417e-8f23-0ee0729a8248")
-	)
-	(wire
-		(pts
-			(xy 62.23 99.06) (xy 62.23 96.52)
+			(xy 58.42 67.31) (xy 58.42 64.77)
 		)
 		(stroke
 			(width 0)
@@ -4142,17 +4102,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 76.2) (xy 100.33 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b48d2fbe-7a79-4275-97ce-8b9277dcfe3e")
-	)
-	(wire
-		(pts
-			(xy 81.28 41.91) (xy 81.28 44.45)
+			(xy 81.28 187.96) (xy 81.28 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4162,7 +4112,17 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 44.45) (xy 74.93 46.99)
+			(xy 58.42 67.31) (xy 69.85 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8156296-7487-4119-a99c-c1a74982ba9e")
+	)
+	(wire
+		(pts
+			(xy 72.39 190.5) (xy 72.39 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4172,7 +4132,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 41.91) (xy 38.1 44.45)
+			(xy 25.4 187.96) (xy 25.4 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4182,7 +4142,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 142.24) (xy 176.53 142.24)
+			(xy 168.91 123.19) (xy 171.45 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4192,7 +4152,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 74.93) (xy 46.99 74.93)
+			(xy 43.18 38.1) (xy 46.99 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4202,7 +4162,27 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 25.4) (xy 63.5 25.4)
+			(xy 25.4 190.5) (xy 33.02 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc200bad-e132-4403-842c-f2b7289c9244")
+	)
+	(wire
+		(pts
+			(xy 81.28 57.15) (xy 133.35 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4c82d0-fea4-480f-b2b3-319b78553c80")
+	)
+	(wire
+		(pts
+			(xy 49.53 179.07) (xy 58.42 179.07)
 		)
 		(stroke
 			(width 0)
@@ -4212,7 +4192,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 63.5) (xy 130.81 63.5)
+			(xy 132.08 44.45) (xy 133.35 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4222,7 +4202,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 41.91) (xy 74.93 44.45)
+			(xy 72.39 187.96) (xy 72.39 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4232,7 +4212,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 59.69) (xy 46.99 59.69)
+			(xy 43.18 25.4) (xy 46.99 25.4)
 		)
 		(stroke
 			(width 0)
@@ -4242,7 +4222,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 92.71) (xy 57.15 92.71)
+			(xy 43.18 60.96) (xy 53.34 60.96)
 		)
 		(stroke
 			(width 0)
@@ -4252,27 +4232,17 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 111.76) (xy 130.81 111.76)
+			(xy 63.5 179.07) (xy 72.39 179.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ca86e7c4-9c6e-456c-83d8-b222976ce2a0")
+		(uuid "cbeca945-6183-4670-a705-b2c305e9dad4")
 	)
 	(wire
 		(pts
-			(xy 100.33 99.06) (xy 62.23 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d078dd5b-f5c8-4de0-a67f-01e748bbe427")
-	)
-	(wire
-		(pts
-			(xy 176.53 99.06) (xy 176.53 142.24)
+			(xy 171.45 80.01) (xy 171.45 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4282,17 +4252,27 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 44.45) (xy 50.8 44.45)
+			(xy 78.74 38.1) (xy 58.42 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1ae957a-0320-465d-a43d-703307b843e8")
+		(uuid "d5536b5a-640f-45db-87ce-ea65991066d0")
 	)
 	(wire
 		(pts
-			(xy 31.75 41.91) (xy 31.75 44.45)
+			(xy 168.91 125.73) (xy 173.99 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5e10be7-b347-4e44-b680-ec095afa34f7")
+	)
+	(wire
+		(pts
+			(xy 17.78 187.96) (xy 17.78 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4302,27 +4282,17 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 25.4) (xy 44.45 25.4)
+			(xy 81.28 67.31) (xy 81.28 57.15)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d9e87b5a-3c24-4c5a-821f-2c1c09f5004c")
+		(uuid "dc90840a-fbba-43cb-b987-a85842e8c95a")
 	)
 	(wire
 		(pts
-			(xy 62.23 71.12) (xy 62.23 74.93)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dd353321-7982-484d-b330-ab5cc7a42572")
-	)
-	(wire
-		(pts
-			(xy 50.8 41.91) (xy 50.8 44.45)
+			(xy 40.64 187.96) (xy 40.64 190.5)
 		)
 		(stroke
 			(width 0)
@@ -4332,7 +4302,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 91.44) (xy 128.27 91.44)
+			(xy 133.35 72.39) (xy 130.81 72.39)
 		)
 		(stroke
 			(width 0)
@@ -4342,7 +4312,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 109.22) (xy 128.27 109.22)
+			(xy 133.35 90.17) (xy 130.81 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4352,7 +4322,7 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 144.78) (xy 120.65 144.78)
+			(xy 133.35 125.73) (xy 128.27 125.73)
 		)
 		(stroke
 			(width 0)
@@ -4362,7 +4332,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 41.91) (xy 95.25 46.99)
+			(xy 92.71 187.96) (xy 92.71 193.04)
 		)
 		(stroke
 			(width 0)
@@ -4372,7 +4342,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 92.71) (xy 44.45 86.36)
+			(xy 43.18 60.96) (xy 43.18 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4382,7 +4352,7 @@
 	)
 	(wire
 		(pts
-			(xy 176.53 142.24) (xy 176.53 149.86)
+			(xy 171.45 123.19) (xy 171.45 130.81)
 		)
 		(stroke
 			(width 0)
@@ -4390,9 +4360,29 @@
 		)
 		(uuid "ecf985a2-20a2-4660-97ef-2848e6f65a6f")
 	)
+	(wire
+		(pts
+			(xy 33.02 190.5) (xy 40.64 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1414522-1e14-4ffa-862f-af9c0901132b")
+	)
+	(wire
+		(pts
+			(xy 128.27 92.71) (xy 133.35 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc9b3a67-d9b6-4438-879d-68d4226d680b")
+	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 57.15 46.99 0)
+		(at 49.53 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4401,7 +4391,7 @@
 		(fields_autoplaced yes)
 		(uuid "0a5c697c-79ab-4c06-8a9c-b210abd8499d")
 		(property "Reference" "#PWR037"
-			(at 57.15 53.34 0)
+			(at 49.53 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4410,7 +4400,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 57.15 52.07 0)
+			(at 49.53 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4419,7 +4409,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 46.99 0)
+			(at 49.53 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4428,7 +4418,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 46.99 0)
+			(at 49.53 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4437,7 +4427,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 57.15 46.99 0)
+			(at 49.53 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4459,16 +4449,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 10pF 50V AVX KGM15ACG1H100G")
-		(at 49.53 99.06 90)
+		(at 49.53 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "12ba4038-63e8-4e31-aea7-493133b75805")
 		(property "Reference" "C19"
-			(at 49.5363 92.71 90)
+			(at 49.53 64.77 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4476,7 +4465,7 @@
 			)
 		)
 		(property "Value" "10pF 50V"
-			(at 49.5363 95.25 90)
+			(at 49.53 69.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4484,7 +4473,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 49.53 99.06 0)
+			(at 49.53 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4493,7 +4482,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/C0GNP0-KGM.pdf"
-			(at 55.118 99.06 0)
+			(at 55.118 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4502,7 +4491,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 10pF 50V AVX"
-			(at 58.928 99.06 0)
+			(at 58.928 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4511,7 +4500,7 @@
 			)
 		)
 		(property "MPN" "KGM15ACG1H100G "
-			(at 68.834 99.06 0)
+			(at 68.834 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4520,7 +4509,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 66.802 98.806 0)
+			(at 66.802 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4529,7 +4518,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 71.12 99.314 0)
+			(at 71.12 67.564 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4538,7 +4527,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 72.898 99.06 0)
+			(at 72.898 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4547,7 +4536,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1634 "
-			(at 65.024 99.06 0)
+			(at 65.024 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4556,7 +4545,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL10C100JB8NNNC "
-			(at 60.706 98.552 0)
+			(at 60.706 66.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4565,7 +4554,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 62.992 98.806 0)
+			(at 62.992 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4590,16 +4579,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:FB 0603 600R 800mA WÜRTH ELEKTRONIK  742792651")
-		(at 66.04 25.4 90)
+		(at 60.96 179.07 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "20e86c34-df8a-4e5b-a0f7-4ffcb627a0b6")
 		(property "Reference" "FB2"
-			(at 66.0019 19.05 90)
+			(at 60.96 175.26 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4607,7 +4595,7 @@
 			)
 		)
 		(property "Value" "600R 800mA"
-			(at 66.0019 21.59 90)
+			(at 60.96 182.88 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4615,7 +4603,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:L_0603_1608Metric"
-			(at 66.04 27.178 90)
+			(at 60.96 180.848 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4612,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/742792651.pdf"
-			(at 77.47 25.4 0)
+			(at 72.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4633,7 +4621,7 @@
 			)
 		)
 		(property "Description" "Ferrite bead, small symbol"
-			(at 77.47 25.4 0)
+			(at 72.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4642,7 +4630,7 @@
 			)
 		)
 		(property "MPN" "742792651 "
-			(at 75.692 24.892 0)
+			(at 70.612 178.562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4651,7 +4639,7 @@
 			)
 		)
 		(property "Manufacturer" "WÜRTH ELEKTRONIK "
-			(at 77.47 25.4 0)
+			(at 72.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4660,7 +4648,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 79.502 25.4 0)
+			(at 74.422 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4669,7 +4657,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 80.772 25.4 0)
+			(at 75.692 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4678,7 +4666,7 @@
 			)
 		)
 		(property "LCSC Part # " "C963865 "
-			(at 79.502 25.4 0)
+			(at 74.422 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4687,7 +4675,7 @@
 			)
 		)
 		(property "LCSC MPN " "ACMS160808A1213A "
-			(at 77.47 25.4 0)
+			(at 72.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4696,7 +4684,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "HYHONGYEX "
-			(at 77.47 25.4 0)
+			(at 72.39 179.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4721,7 +4709,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 38.1 39.37 180)
+		(at 25.4 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4729,7 +4717,7 @@
 		(dnp no)
 		(uuid "22bd62ac-c3ac-4d30-af03-aef0130fb45b")
 		(property "Reference" "C8"
-			(at 36.83 38.1 90)
+			(at 22.86 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4738,7 +4726,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 39.37 38.1 90)
+			(at 27.94 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4747,7 +4735,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 38.1 39.37 0)
+			(at 25.4 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4756,7 +4744,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 38.1 33.782 0)
+			(at 25.4 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4765,7 +4753,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 38.1 29.972 0)
+			(at 25.4 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4774,7 +4762,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 38.1 20.066 0)
+			(at 25.4 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4783,7 +4771,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 37.846 22.098 0)
+			(at 25.146 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4792,7 +4780,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 38.354 17.78 0)
+			(at 25.654 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4801,7 +4789,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 38.1 16.002 0)
+			(at 25.4 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4810,7 +4798,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 38.1 23.876 0)
+			(at 25.4 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4819,7 +4807,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 37.592 28.194 0)
+			(at 24.892 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4828,7 +4816,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 37.846 25.908 0)
+			(at 25.146 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4853,16 +4841,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 74.93 22.86 0)
+		(at 72.39 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2c2b4275-d42a-4f0c-9c60-a753f40ad529")
 		(property "Reference" "#PWR033"
-			(at 74.93 26.67 0)
+			(at 72.39 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4871,7 +4858,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 74.93 17.78 0)
+			(at 72.39 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4879,7 +4866,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4888,7 +4875,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4897,7 +4884,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4906,7 +4893,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4914,7 +4901,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4922,7 +4909,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4930,7 +4917,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4938,7 +4925,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4946,7 +4933,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4954,7 +4941,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 74.93 22.86 0)
+			(at 72.39 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +4962,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 128.27 149.86 0)
+		(at 130.81 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4984,7 +4971,7 @@
 		(fields_autoplaced yes)
 		(uuid "2f07a63f-2715-4bab-9f03-924f69be10ab")
 		(property "Reference" "#PWR030"
-			(at 128.27 156.21 0)
+			(at 130.81 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4993,7 +4980,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 128.27 154.94 0)
+			(at 130.81 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +4989,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 128.27 149.86 0)
+			(at 130.81 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +4998,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 128.27 149.86 0)
+			(at 130.81 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +5007,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 128.27 149.86 0)
+			(at 130.81 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5042,16 +5029,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CRYSTAL 3.2x2.5 12MHz 18pF 20ppm ABRACON ABM8-12.000MHZ-D2Y-T")
-		(at 62.23 92.71 90)
+		(at 58.42 60.96 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "3dc976c3-ad67-43f7-8221-45247b736961")
 		(property "Reference" "Y1"
-			(at 73.66 87.7568 90)
+			(at 64.77 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5059,7 +5045,7 @@
 			)
 		)
 		(property "Value" "12MHz 18pF"
-			(at 73.66 90.2968 90)
+			(at 69.85 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5067,7 +5053,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:Crystal_SMD_3225-4Pin_3.2x2.5mm"
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5076,7 +5062,7 @@
 			)
 		)
 		(property "Datasheet" "https://abracon.com/Resonators/abm8.pdf"
-			(at 76.962 92.71 0)
+			(at 73.152 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5071,7 @@
 			)
 		)
 		(property "Description" "CRYSTAL 3.2x2.5 12MHz 18pF 20ppm ABRACON/FOX"
-			(at 75.438 92.71 0)
+			(at 71.628 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5094,7 +5080,7 @@
 			)
 		)
 		(property "MPN" "ABM8-12.000MHZ-D2Y-T"
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5103,7 +5089,7 @@
 			)
 		)
 		(property "Manufacturer" "ABRACON/FOX "
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5112,7 +5098,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5121,7 +5107,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5130,7 +5116,7 @@
 			)
 		)
 		(property "LCSC Part #" "C6071564 "
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5139,7 +5125,7 @@
 			)
 		)
 		(property "LCSC MPN " "3225 12M 18PF 20PPM "
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5148,7 +5134,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SST "
-			(at 80.264 92.71 0)
+			(at 76.454 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5179,7 +5165,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 69.85 95.25 0)
+		(at 66.04 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5188,7 +5174,7 @@
 		(fields_autoplaced yes)
 		(uuid "4ba412a1-22bf-47fd-84d0-fcee3390dfd1")
 		(property "Reference" "#PWR042"
-			(at 69.85 101.6 0)
+			(at 66.04 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5197,7 +5183,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 69.85 100.33 0)
+			(at 66.04 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5206,7 +5192,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 95.25 0)
+			(at 66.04 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5215,7 +5201,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 69.85 95.25 0)
+			(at 66.04 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5224,7 +5210,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 69.85 95.25 0)
+			(at 66.04 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5246,7 +5232,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:IC MCU STM32F411RET6")
-		(at 148.59 104.14 0)
+		(at 151.13 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5255,7 +5241,7 @@
 		(fields_autoplaced yes)
 		(uuid "5488440f-39bc-40ee-a0b5-61f4b9e0f49a")
 		(property "Reference" "U4"
-			(at 148.59 55.88 0)
+			(at 151.13 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5263,7 +5249,7 @@
 			)
 		)
 		(property "Value" "STM32F411RET6"
-			(at 148.59 58.42 0)
+			(at 151.13 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5271,7 +5257,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:LQFP-64_10x10mm_P0.5mm"
-			(at 135.382 171.958 0)
+			(at 137.922 152.908 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5281,7 +5267,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stm32f411re.pdf"
-			(at 148.844 176.276 0)
+			(at 151.384 157.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5290,7 +5276,7 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M4 MCU, 512KB flash, 128KB RAM, 100 MHz, 1.7-3.6V, 50 GPIO, LQFP64"
-			(at 148.844 176.276 0)
+			(at 151.384 157.226 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5299,7 +5285,7 @@
 			)
 		)
 		(property "MPN" "STM32F411RET6 "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5308,7 +5294,7 @@
 			)
 		)
 		(property "Manufacturer" "STMICROELECTRONICS "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5317,7 +5303,7 @@
 			)
 		)
 		(property "3D Model" "KICAD LQFP-64 "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5326,7 +5312,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5335,7 +5321,7 @@
 			)
 		)
 		(property "LCSC Part # " "C94355 "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5344,7 +5330,7 @@
 			)
 		)
 		(property "LCSC MPN " "STM32F411RET6 "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5353,7 +5339,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "STMICROELECTRONICS "
-			(at 148.59 104.14 0)
+			(at 151.13 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5564,7 +5550,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 81.28 39.37 180)
+		(at 81.28 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5572,7 +5558,7 @@
 		(dnp no)
 		(uuid "695f609e-00c7-4f18-b7fd-60fe56ddbce4")
 		(property "Reference" "C14"
-			(at 80.01 38.1 90)
+			(at 78.74 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5581,7 +5567,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 82.55 38.1 90)
+			(at 83.82 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5590,7 +5576,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 81.28 39.37 0)
+			(at 81.28 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5599,7 +5585,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 81.28 33.782 0)
+			(at 81.28 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5608,7 +5594,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 81.28 29.972 0)
+			(at 81.28 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5617,7 +5603,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 81.28 20.066 0)
+			(at 81.28 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5626,7 +5612,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 81.026 22.098 0)
+			(at 81.026 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5635,7 +5621,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 81.534 17.78 0)
+			(at 81.534 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5644,7 +5630,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 81.28 16.002 0)
+			(at 81.28 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5653,7 +5639,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 81.28 23.876 0)
+			(at 81.28 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5662,7 +5648,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 80.772 28.194 0)
+			(at 80.772 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5671,7 +5657,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 81.026 25.908 0)
+			(at 81.026 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5696,16 +5682,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 125.73 55.88 0)
+		(at 127 36.83 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "701e8a77-74d6-498d-9b44-9969641bc5ab")
 		(property "Reference" "#PWR034"
-			(at 125.73 59.69 0)
+			(at 127 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5714,7 +5699,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 125.73 50.8 0)
+			(at 127 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5722,7 +5707,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5731,7 +5716,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5740,7 +5725,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5749,7 +5734,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5757,7 +5742,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5765,7 +5750,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5773,7 +5758,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5781,7 +5766,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5789,7 +5774,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5797,7 +5782,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 125.73 55.88 0)
+			(at 127 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5818,7 +5803,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 44.45 77.47 0)
+		(at 43.18 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5827,7 +5812,7 @@
 		(fields_autoplaced yes)
 		(uuid "714efbe0-a77f-45cd-b8f2-c4e3119ca511")
 		(property "Reference" "#PWR043"
-			(at 44.45 83.82 0)
+			(at 43.18 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +5821,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.45 82.55 0)
+			(at 43.18 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5845,7 +5830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 77.47 0)
+			(at 43.18 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5854,7 +5839,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 77.47 0)
+			(at 43.18 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5863,7 +5848,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 77.47 0)
+			(at 43.18 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5885,16 +5870,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 120.65 48.26 0)
+		(at 121.92 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "82288bed-cba6-41dd-bd92-ec5446bb2e2c")
 		(property "Reference" "#PWR031"
-			(at 120.65 52.07 0)
+			(at 121.92 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5903,7 +5887,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 120.65 43.18 0)
+			(at 121.92 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5911,7 +5895,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5920,7 +5904,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5929,7 +5913,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5938,7 +5922,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5946,7 +5930,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5954,7 +5938,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5962,7 +5946,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5970,7 +5954,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5978,7 +5962,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5986,7 +5970,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 120.65 48.26 0)
+			(at 121.92 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6007,7 +5991,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 74.93 46.99 0)
+		(at 72.39 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6016,7 +6000,7 @@
 		(fields_autoplaced yes)
 		(uuid "88d060f0-8c7b-4afb-b477-dc033d2dd0cd")
 		(property "Reference" "#PWR038"
-			(at 74.93 53.34 0)
+			(at 72.39 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6025,7 +6009,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 52.07 0)
+			(at 72.39 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6034,7 +6018,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 46.99 0)
+			(at 72.39 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6043,7 +6027,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 46.99 0)
+			(at 72.39 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6052,7 +6036,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 46.99 0)
+			(at 72.39 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6074,7 +6058,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 95.25 39.37 180)
+		(at 92.71 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6082,7 +6066,7 @@
 		(dnp no)
 		(uuid "8f23472d-ab23-4e54-b9a0-163872644317")
 		(property "Reference" "C15"
-			(at 93.98 38.1 90)
+			(at 90.17 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6091,7 +6075,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 96.52 38.1 90)
+			(at 95.25 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6100,7 +6084,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 95.25 39.37 0)
+			(at 92.71 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6109,7 +6093,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 95.25 33.782 0)
+			(at 92.71 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,7 +6102,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 95.25 29.972 0)
+			(at 92.71 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6127,7 +6111,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 95.25 20.066 0)
+			(at 92.71 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6136,7 +6120,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 94.996 22.098 0)
+			(at 92.456 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6145,7 +6129,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 95.504 17.78 0)
+			(at 92.964 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6154,7 +6138,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 95.25 16.002 0)
+			(at 92.71 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6163,7 +6147,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 95.25 23.876 0)
+			(at 92.71 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6172,7 +6156,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 94.742 28.194 0)
+			(at 92.202 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6181,7 +6165,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 94.996 25.908 0)
+			(at 92.456 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6206,16 +6190,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 57.15 22.86 0)
+		(at 49.53 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "92b24179-30e0-47cf-9254-58c35262b77b")
 		(property "Reference" "#PWR032"
-			(at 57.15 26.67 0)
+			(at 49.53 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6224,7 +6207,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 57.15 17.78 0)
+			(at 49.53 172.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6232,7 +6215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +6224,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6250,7 +6233,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6259,7 +6242,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6267,7 +6250,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6275,7 +6258,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6283,7 +6266,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6291,7 +6274,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6299,7 +6282,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6307,7 +6290,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 57.15 22.86 0)
+			(at 49.53 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6328,16 +6311,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 10pF 50V AVX KGM15ACG1H100G")
-		(at 49.53 74.93 90)
+		(at 49.53 38.1 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9910dc54-75d7-443c-85a2-502e02965a0c")
 		(property "Reference" "C17"
-			(at 49.5363 68.58 90)
+			(at 49.53 35.56 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6345,7 +6327,7 @@
 			)
 		)
 		(property "Value" "10pF 50V"
-			(at 49.5363 71.12 90)
+			(at 49.53 40.64 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6353,7 +6335,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 49.53 74.93 0)
+			(at 49.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6362,7 +6344,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/C0GNP0-KGM.pdf"
-			(at 55.118 74.93 0)
+			(at 55.118 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6371,7 +6353,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 10pF 50V AVX"
-			(at 58.928 74.93 0)
+			(at 58.928 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6380,7 +6362,7 @@
 			)
 		)
 		(property "MPN" "KGM15ACG1H100G "
-			(at 68.834 74.93 0)
+			(at 68.834 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6389,7 +6371,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 66.802 74.676 0)
+			(at 66.802 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6398,7 +6380,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 71.12 75.184 0)
+			(at 71.12 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6407,7 +6389,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 72.898 74.93 0)
+			(at 72.898 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6416,7 +6398,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1634 "
-			(at 65.024 74.93 0)
+			(at 65.024 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6425,7 +6407,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL10C100JB8NNNC "
-			(at 60.706 74.422 0)
+			(at 60.706 37.592 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6434,7 +6416,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 62.992 74.676 0)
+			(at 62.992 37.846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6459,7 +6441,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 50.8 39.37 180)
+		(at 40.64 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6467,7 +6449,7 @@
 		(dnp no)
 		(uuid "9ade7191-3bb2-447f-81b2-5ee88220cf3b")
 		(property "Reference" "C10"
-			(at 49.53 38.1 90)
+			(at 38.1 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6476,7 +6458,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 52.07 38.1 90)
+			(at 43.18 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6485,7 +6467,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 50.8 39.37 0)
+			(at 40.64 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6494,7 +6476,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 50.8 33.782 0)
+			(at 40.64 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6503,7 +6485,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 50.8 29.972 0)
+			(at 40.64 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6494,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 50.8 20.066 0)
+			(at 40.64 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6521,7 +6503,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 50.546 22.098 0)
+			(at 40.386 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6530,7 +6512,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 51.054 17.78 0)
+			(at 40.894 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6539,7 +6521,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 50.8 16.002 0)
+			(at 40.64 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6548,7 +6530,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 50.8 23.876 0)
+			(at 40.64 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6557,7 +6539,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 50.292 28.194 0)
+			(at 40.132 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6566,7 +6548,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 50.546 25.908 0)
+			(at 40.386 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6591,16 +6573,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 181.61 48.26 0)
+		(at 173.99 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9f3e46d7-7d76-4bf4-bab5-2c826571651a")
 		(property "Reference" "#PWR035"
-			(at 181.61 52.07 0)
+			(at 173.99 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6609,7 +6590,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 181.61 43.18 0)
+			(at 173.99 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6617,7 +6598,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6626,7 +6607,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6635,7 +6616,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6644,7 +6625,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6652,7 +6633,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6660,7 +6641,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6668,7 +6649,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6676,7 +6657,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6684,7 +6665,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6692,7 +6673,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 181.61 48.26 0)
+			(at 173.99 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6713,7 +6694,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 0R VISHAY CRCW06030000Z0")
-		(at 111.76 76.2 90)
+		(at 73.66 67.31 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6721,7 +6702,7 @@
 		(dnp no)
 		(uuid "a411b07b-df83-4fb1-b964-8a315c04bc97")
 		(property "Reference" "R9"
-			(at 107.95 77.47 90)
+			(at 69.85 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6729,7 +6710,7 @@
 			)
 		)
 		(property "Value" "0R"
-			(at 115.57 77.47 90)
+			(at 77.47 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6737,7 +6718,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
-			(at 112.014 75.184 90)
+			(at 73.914 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6746,7 +6727,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300411821.pdf"
-			(at 125.73 75.438 0)
+			(at 87.63 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6755,7 +6736,7 @@
 			)
 		)
 		(property "Description" "RES 0603 0R VISHAY"
-			(at 128.016 75.946 0)
+			(at 89.916 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6764,7 +6745,7 @@
 			)
 		)
 		(property "MPN" "CRCW06030000Z0 "
-			(at 123.19 75.946 0)
+			(at 85.09 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6773,7 +6754,7 @@
 			)
 		)
 		(property "Manufacturer" "VISHAY "
-			(at 134.62 75.946 0)
+			(at 96.52 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6782,7 +6763,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 138.938 76.708 0)
+			(at 100.838 67.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6791,7 +6772,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 141.478 76.2 0)
+			(at 103.378 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6800,7 +6781,7 @@
 			)
 		)
 		(property "LCSC Part # " "C21189 "
-			(at 136.652 75.946 0)
+			(at 98.552 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6809,7 +6790,7 @@
 			)
 		)
 		(property "LCSC MPN " "0603WAF0000T5E "
-			(at 132.08 75.946 0)
+			(at 93.98 67.056 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6818,7 +6799,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "UNI-ROYAL "
-			(at 130.556 76.2 0)
+			(at 92.456 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6843,7 +6824,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CRYSTAL 2.0x1.2 32.768kHz 12.5pF ABRACON ABS06-32.768KHZ-T")
-		(at 62.23 67.31 90)
+		(at 58.42 31.75 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6852,7 +6833,7 @@
 		(fields_autoplaced yes)
 		(uuid "a87390a7-0f7b-42db-9dda-59ab5be331c3")
 		(property "Reference" "Y2"
-			(at 66.04 66.0399 90)
+			(at 62.23 30.4799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6861,7 +6842,7 @@
 			)
 		)
 		(property "Value" "32.768kHz 12.5pF"
-			(at 66.04 68.5799 90)
+			(at 62.23 33.0199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6851,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:Crystal_SMD_3215-2Pin_3.2x1.5mm"
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6879,7 +6860,7 @@
 			)
 		)
 		(property "Datasheet" "https://abracon.com/Resonators/ABS06.pdf"
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6888,7 +6869,7 @@
 			)
 		)
 		(property "Description" "CRYSTAL 2.0x1.2 32.768kHz 12.5pF ABRACON/FOX"
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6897,7 +6878,7 @@
 			)
 		)
 		(property "MPN" "ABS06-32.768KHZ-T "
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6906,7 +6887,7 @@
 			)
 		)
 		(property "Manufacturer" "ABRACON/FOX "
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6915,7 +6896,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6924,7 +6905,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6933,7 +6914,7 @@
 			)
 		)
 		(property "LCSC Part # " "C5563819 "
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6942,7 +6923,7 @@
 			)
 		)
 		(property "LCSC MPN " "3131M-32768DT06LLL "
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6951,7 +6932,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "HCI "
-			(at 68.58 67.818 0)
+			(at 64.77 32.258 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6976,7 +6957,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 95.25 22.86 0)
+		(at 92.71 176.53 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6985,7 +6966,7 @@
 		(fields_autoplaced yes)
 		(uuid "b99d2197-368e-41fd-bb4b-6f182e8ed373")
 		(property "Reference" "#PWR039"
-			(at 95.25 26.67 0)
+			(at 92.71 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6994,7 +6975,7 @@
 			)
 		)
 		(property "Value" "+3VBAT"
-			(at 95.25 17.78 0)
+			(at 92.71 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7002,7 +6983,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7011,7 +6992,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7020,7 +7001,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7029,7 +7010,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7037,7 +7018,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7045,7 +7026,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7053,7 +7034,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7061,7 +7042,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7069,7 +7050,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7077,7 +7058,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 95.25 22.86 0)
+			(at 92.71 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7098,7 +7079,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
-		(at 74.93 39.37 0)
+		(at 72.39 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7106,7 +7087,7 @@
 		(dnp no)
 		(uuid "c6205046-8f65-4fd6-b782-1bb8a99d89f7")
 		(property "Reference" "C13"
-			(at 73.66 38.1 90)
+			(at 69.85 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7115,7 +7096,7 @@
 			)
 		)
 		(property "Value" "10µF 16V"
-			(at 76.2 38.1 90)
+			(at 74.93 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7124,7 +7105,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0805_2012Metric"
-			(at 74.93 39.37 0)
+			(at 72.39 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7133,7 +7114,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 74.93 44.958 0)
+			(at 72.39 191.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7142,7 +7123,7 @@
 			)
 		)
 		(property "Description" "CAP 0805 10uH 16V AVX"
-			(at 74.93 48.768 0)
+			(at 72.39 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7151,7 +7132,7 @@
 			)
 		)
 		(property "MPN" "KGM21AR71C106K "
-			(at 74.93 58.674 0)
+			(at 72.39 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7160,7 +7141,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 75.184 56.642 0)
+			(at 72.644 202.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7169,7 +7150,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 74.676 60.96 0)
+			(at 72.136 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7178,7 +7159,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 74.93 62.738 0)
+			(at 72.39 208.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7187,7 +7168,7 @@
 			)
 		)
 		(property "LCSC Part #" "C15850 "
-			(at 74.93 54.864 0)
+			(at 72.39 200.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7196,7 +7177,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
-			(at 75.438 50.546 0)
+			(at 72.898 196.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7205,7 +7186,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 75.184 52.832 0)
+			(at 72.644 198.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7230,7 +7211,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
-		(at 57.15 39.37 0)
+		(at 49.53 185.42 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7238,7 +7219,7 @@
 		(dnp no)
 		(uuid "d8bd5861-0914-4704-81e3-e957913efa5b")
 		(property "Reference" "C12"
-			(at 55.88 38.1 90)
+			(at 46.99 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7247,7 +7228,7 @@
 			)
 		)
 		(property "Value" "10µF 16V"
-			(at 58.42 38.1 90)
+			(at 52.07 189.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7256,7 +7237,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0805_2012Metric"
-			(at 57.15 39.37 0)
+			(at 49.53 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7265,7 +7246,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 57.15 44.958 0)
+			(at 49.53 191.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7274,7 +7255,7 @@
 			)
 		)
 		(property "Description" "CAP 0805 10uH 16V AVX"
-			(at 57.15 48.768 0)
+			(at 49.53 194.818 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7283,7 +7264,7 @@
 			)
 		)
 		(property "MPN" "KGM21AR71C106K "
-			(at 57.15 58.674 0)
+			(at 49.53 204.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7292,7 +7273,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 57.404 56.642 0)
+			(at 49.784 202.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7301,7 +7282,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 56.896 60.96 0)
+			(at 49.276 207.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7310,7 +7291,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 57.15 62.738 0)
+			(at 49.53 208.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7319,7 +7300,7 @@
 			)
 		)
 		(property "LCSC Part #" "C15850 "
-			(at 57.15 54.864 0)
+			(at 49.53 200.914 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7328,7 +7309,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
-			(at 57.658 50.546 0)
+			(at 50.038 196.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7337,7 +7318,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 57.404 52.832 0)
+			(at 49.784 198.882 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7362,16 +7343,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 115.57 55.88 0)
+		(at 132.08 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e20f39fa-c49c-41fb-9ce4-98d11c5e791f")
 		(property "Reference" "#PWR029"
-			(at 115.57 59.69 0)
+			(at 132.08 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7380,7 +7360,7 @@
 			)
 		)
 		(property "Value" "+3VBAT"
-			(at 115.57 50.8 0)
+			(at 132.08 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7388,7 +7368,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7397,7 +7377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7406,7 +7386,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7415,7 +7395,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7423,7 +7403,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7431,7 +7411,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7439,7 +7419,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7447,7 +7427,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7455,7 +7435,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7463,7 +7443,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 115.57 55.88 0)
+			(at 132.08 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7484,7 +7464,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 95.25 46.99 0)
+		(at 92.71 193.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7493,7 +7473,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea9cccad-06fe-4e2c-a730-23630bf602f4")
 		(property "Reference" "#PWR040"
-			(at 95.25 53.34 0)
+			(at 92.71 199.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7502,7 +7482,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 95.25 52.07 0)
+			(at 92.71 198.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7511,7 +7491,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 95.25 46.99 0)
+			(at 92.71 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7520,7 +7500,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 95.25 46.99 0)
+			(at 92.71 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7529,7 +7509,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 95.25 46.99 0)
+			(at 92.71 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7551,7 +7531,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 31.75 39.37 180)
+		(at 17.78 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7559,7 +7539,7 @@
 		(dnp no)
 		(uuid "eb2c4c67-8b31-4e29-9d71-5ce468424d8a")
 		(property "Reference" "C11"
-			(at 30.48 38.1 90)
+			(at 15.24 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7568,7 +7548,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 33.02 38.1 90)
+			(at 20.32 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7577,7 +7557,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 31.75 39.37 0)
+			(at 17.78 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7586,7 +7566,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 31.75 33.782 0)
+			(at 17.78 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7595,7 +7575,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 31.75 29.972 0)
+			(at 17.78 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7604,7 +7584,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 31.75 20.066 0)
+			(at 17.78 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7613,7 +7593,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 31.496 22.098 0)
+			(at 17.526 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7622,7 +7602,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 32.004 17.78 0)
+			(at 18.034 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7631,7 +7611,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 31.75 16.002 0)
+			(at 17.78 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7640,7 +7620,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 31.75 23.876 0)
+			(at 17.78 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7649,7 +7629,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 31.242 28.194 0)
+			(at 17.272 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7658,7 +7638,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 31.496 25.908 0)
+			(at 17.526 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7683,7 +7663,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
-		(at 44.45 39.37 180)
+		(at 33.02 185.42 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7691,7 +7671,7 @@
 		(dnp no)
 		(uuid "ee6920df-150e-4114-8359-0653b8a42845")
 		(property "Reference" "C9"
-			(at 43.18 38.1 90)
+			(at 30.48 186.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7700,7 +7680,7 @@
 			)
 		)
 		(property "Value" "100nF 50V"
-			(at 45.72 38.1 90)
+			(at 35.56 190.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7709,7 +7689,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 44.45 39.37 0)
+			(at 33.02 185.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7718,7 +7698,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
-			(at 44.45 33.782 0)
+			(at 33.02 179.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7727,7 +7707,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 100nF 50V AVX"
-			(at 44.45 29.972 0)
+			(at 33.02 176.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7736,7 +7716,7 @@
 			)
 		)
 		(property "MPN" "KGM15BR71H104K "
-			(at 44.45 20.066 0)
+			(at 33.02 166.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7745,7 +7725,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 44.196 22.098 0)
+			(at 32.766 168.148 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7754,7 +7734,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 44.704 17.78 0)
+			(at 33.274 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7763,7 +7743,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 44.45 16.002 0)
+			(at 33.02 162.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7772,7 +7752,7 @@
 			)
 		)
 		(property "LCSC Part #" "C14663 "
-			(at 44.45 23.876 0)
+			(at 33.02 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7781,7 +7761,7 @@
 			)
 		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
-			(at 43.942 28.194 0)
+			(at 32.512 174.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7790,7 +7770,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
-			(at 44.196 25.908 0)
+			(at 32.766 171.958 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7815,7 +7795,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 44.45 101.6 0)
+		(at 43.18 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7824,7 +7804,7 @@
 		(fields_autoplaced yes)
 		(uuid "ef6ad6e7-d497-4b05-a8cc-cab66fa474a2")
 		(property "Reference" "#PWR041"
-			(at 44.45 107.95 0)
+			(at 43.18 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7833,7 +7813,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 44.45 106.68 0)
+			(at 43.18 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7842,7 +7822,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 44.45 101.6 0)
+			(at 43.18 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7851,7 +7831,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 44.45 101.6 0)
+			(at 43.18 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7860,7 +7840,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 44.45 101.6 0)
+			(at 43.18 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7882,16 +7862,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 10pF 50V AVX KGM15ACG1H100G")
-		(at 49.53 59.69 90)
+		(at 49.53 25.4 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f3f2fc77-2f93-4ca7-9584-250e259fdcc8")
 		(property "Reference" "C16"
-			(at 49.5363 53.34 90)
+			(at 49.53 22.86 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7899,7 +7878,7 @@
 			)
 		)
 		(property "Value" "10pF 50V"
-			(at 49.5363 55.88 90)
+			(at 49.53 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7907,7 +7886,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 49.53 59.69 0)
+			(at 49.53 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7916,7 +7895,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/C0GNP0-KGM.pdf"
-			(at 55.118 59.69 0)
+			(at 55.118 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7925,7 +7904,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 10pF 50V AVX"
-			(at 58.928 59.69 0)
+			(at 58.928 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7934,7 +7913,7 @@
 			)
 		)
 		(property "MPN" "KGM15ACG1H100G "
-			(at 68.834 59.69 0)
+			(at 68.834 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7943,7 +7922,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 66.802 59.436 0)
+			(at 66.802 25.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7952,7 +7931,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 71.12 59.944 0)
+			(at 71.12 25.654 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7961,7 +7940,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 72.898 59.69 0)
+			(at 72.898 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7970,7 +7949,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1634 "
-			(at 65.024 59.69 0)
+			(at 65.024 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7979,7 +7958,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL10C100JB8NNNC "
-			(at 60.706 59.182 0)
+			(at 60.706 24.892 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7988,7 +7967,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 62.992 59.436 0)
+			(at 62.992 25.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8013,7 +7992,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 176.53 149.86 0)
+		(at 171.45 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8022,7 +8001,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4df195e-d0f7-4838-bf36-90d433aef177")
 		(property "Reference" "#PWR036"
-			(at 176.53 156.21 0)
+			(at 171.45 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8031,7 +8010,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 176.53 154.94 0)
+			(at 171.45 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8040,7 +8019,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 176.53 149.86 0)
+			(at 171.45 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8049,7 +8028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 176.53 149.86 0)
+			(at 171.45 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8058,7 +8037,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 176.53 149.86 0)
+			(at 171.45 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8080,16 +8059,15 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 10pF 50V AVX KGM15ACG1H100G")
-		(at 49.53 86.36 90)
+		(at 49.53 54.61 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f5c6c304-7a32-4ccd-a12b-0ac7d794a270")
 		(property "Reference" "C18"
-			(at 49.5363 80.01 90)
+			(at 49.53 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8097,7 +8075,7 @@
 			)
 		)
 		(property "Value" "10pF 50V"
-			(at 49.5363 82.55 90)
+			(at 49.53 57.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8105,7 +8083,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
-			(at 49.53 86.36 0)
+			(at 49.53 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8114,7 +8092,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheets.kyocera-avx.com/C0GNP0-KGM.pdf"
-			(at 55.118 86.36 0)
+			(at 55.118 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8123,7 +8101,7 @@
 			)
 		)
 		(property "Description" "CAP 0603 10pF 50V AVX"
-			(at 58.928 86.36 0)
+			(at 58.928 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8132,7 +8110,7 @@
 			)
 		)
 		(property "MPN" "KGM15ACG1H100G "
-			(at 68.834 86.36 0)
+			(at 68.834 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8141,7 +8119,7 @@
 			)
 		)
 		(property "Manufacturer" "KYOCERA/AVX "
-			(at 66.802 86.106 0)
+			(at 66.802 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8150,7 +8128,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 71.12 86.614 0)
+			(at 71.12 54.864 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8159,7 +8137,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 72.898 86.36 0)
+			(at 72.898 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8168,7 +8146,7 @@
 			)
 		)
 		(property "LCSC Part #" "C1634 "
-			(at 65.024 86.36 0)
+			(at 65.024 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8177,7 +8155,7 @@
 			)
 		)
 		(property "LCSC MPN " "CL10C100JB8NNNC "
-			(at 60.706 85.852 0)
+			(at 60.706 54.102 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8186,7 +8164,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
-			(at 62.992 86.106 0)
+			(at 62.992 54.356 0)
 			(effects
 				(font
 					(size 1.27 1.27)
