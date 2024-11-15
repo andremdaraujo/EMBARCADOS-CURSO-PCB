@@ -379,6 +379,57 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "I2C 3.3V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(67, 179, 255)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "I2C 5V",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(9, 123, 197)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "SPI",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgb(14, 92, 176)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -414,6 +465,22 @@
       {
         "netclass": "+VCORE",
         "pattern": "+VCORE"
+      },
+      {
+        "netclass": "I2C 3.3V",
+        "pattern": "I2C*3.3*"
+      },
+      {
+        "netclass": "I2C 5V",
+        "pattern": "I2C*5*"
+      },
+      {
+        "netclass": "SPI",
+        "pattern": "SPI*"
+      },
+      {
+        "netclass": "SPI",
+        "pattern": "SD*"
       }
     ]
   },
@@ -542,6 +609,10 @@
     [
       "c29651ae-6018-447b-aeb5-0320701650ee",
       "MCU"
+    ],
+    [
+      "5c5c1b35-8adb-4bed-8f60-c08a0db2168d",
+      "IO"
     ]
   ],
   "text_variables": {}
