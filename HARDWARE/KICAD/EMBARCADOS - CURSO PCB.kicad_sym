@@ -1890,7 +1890,7 @@
 			)
 		)
 	)
-	(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K"
+	(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K"
 		(pin_numbers hide)
 		(pin_names
 			(offset 0.254) hide)
@@ -1933,7 +1933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 0 -9.398 0)
 			(effects
 				(font
@@ -2023,7 +2023,7 @@
 				(hide yes)
 			)
 		)
-		(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_0_1"
+		(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_0_1"
 			(polyline
 				(pts
 					(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -2049,7 +2049,7 @@
 				)
 			)
 		)
-		(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_1_1"
+		(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_1_1"
 			(pin passive line
 				(at 0 2.54 270)
 				(length 2.032)
