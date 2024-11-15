@@ -5023,7 +5023,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 55.88) (xy 73.66 68.58)
+			(xy 74.93 55.88) (xy 74.93 68.58)
 		)
 		(stroke
 			(width 0)
@@ -5353,7 +5353,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 39.37) (xy 168.91 60.96)
+			(xy 168.91 40.64) (xy 168.91 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5403,7 +5403,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 91.44) (xy 120.65 44.45)
+			(xy 120.65 91.44) (xy 120.65 45.72)
 		)
 		(stroke
 			(width 0)
@@ -5763,7 +5763,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 53.34) (xy 125.73 60.96)
+			(xy 125.73 50.8) (xy 125.73 60.96)
 		)
 		(stroke
 			(width 0)
@@ -5973,7 +5973,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 39.37) (xy 115.57 109.22)
+			(xy 115.57 40.64) (xy 115.57 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5993,7 +5993,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 68.58) (xy 128.27 68.58)
+			(xy 74.93 68.58) (xy 128.27 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6693,7 +6693,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 55.88) (xy 53.34 55.88)
+			(xy 74.93 55.88) (xy 53.34 55.88)
 		)
 		(stroke
 			(width 0)
@@ -11240,7 +11240,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 120.65 44.45 0)
+		(at 120.65 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11248,7 +11248,7 @@
 		(dnp no)
 		(uuid "701e8a77-74d6-498d-9b44-9969641bc5ab")
 		(property "Reference" "#PWR034"
-			(at 120.65 48.26 0)
+			(at 120.65 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11257,7 +11257,7 @@
 			)
 		)
 		(property "Value" "+3.3VA"
-			(at 120.65 40.64 0)
+			(at 120.65 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11265,7 +11265,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11274,7 +11274,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11283,7 +11283,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11292,7 +11292,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11300,7 +11300,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11308,7 +11308,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11316,7 +11316,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11324,7 +11324,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11332,7 +11332,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11340,7 +11340,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 120.65 44.45 0)
+			(at 120.65 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11690,7 +11690,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 115.57 39.37 0)
+		(at 115.57 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11698,7 +11698,7 @@
 		(dnp no)
 		(uuid "82288bed-cba6-41dd-bd92-ec5446bb2e2c")
 		(property "Reference" "#PWR031"
-			(at 115.57 43.18 0)
+			(at 115.57 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11707,7 +11707,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 115.57 35.56 0)
+			(at 115.57 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11715,7 +11715,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11724,7 +11724,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11733,7 +11733,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11742,7 +11742,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11750,7 +11750,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11758,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11766,7 +11766,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11774,7 +11774,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11782,7 +11782,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11790,7 +11790,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 115.57 39.37 0)
+			(at 115.57 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12908,7 +12908,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 168.91 39.37 0)
+		(at 168.91 40.64 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12916,7 +12916,7 @@
 		(dnp no)
 		(uuid "9f3e46d7-7d76-4bf4-bab5-2c826571651a")
 		(property "Reference" "#PWR035"
-			(at 168.91 43.18 0)
+			(at 168.91 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12925,7 +12925,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 168.91 35.56 0)
+			(at 168.91 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12933,7 +12933,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12942,7 +12942,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12951,7 +12951,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12960,7 +12960,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12968,7 +12968,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12976,7 +12976,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12984,7 +12984,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12992,7 +12992,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13000,7 +13000,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13008,7 +13008,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 168.91 39.37 0)
+			(at 168.91 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14321,7 +14321,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 125.73 53.34 0)
+		(at 125.73 50.8 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14329,7 +14329,7 @@
 		(dnp no)
 		(uuid "e20f39fa-c49c-41fb-9ce4-98d11c5e791f")
 		(property "Reference" "#PWR029"
-			(at 125.73 57.15 0)
+			(at 125.73 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14338,7 +14338,7 @@
 			)
 		)
 		(property "Value" "+3VBAT"
-			(at 125.73 45.72 0)
+			(at 125.73 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14346,7 +14346,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14355,7 +14355,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14364,7 +14364,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14373,7 +14373,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14381,7 +14381,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14389,7 +14389,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14397,7 +14397,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14405,7 +14405,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14413,7 +14413,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14421,7 +14421,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 125.73 53.34 0)
+			(at 125.73 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)

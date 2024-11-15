@@ -3321,16 +3321,16 @@
 		(uuid "237a61f8-7053-4c64-9aed-1f882f30e635")
 	)
 	(junction
-		(at 88.9 40.64)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2f5e33fb-9ed9-43be-9ec6-23eec29ae98e")
-	)
-	(junction
 		(at 190.5 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "506352e1-0d96-4ed8-bc89-a1360911d9c1")
+	)
+	(junction
+		(at 88.9 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d69e635-3ec7-4c06-8795-e37cca162a9f")
 	)
 	(junction
 		(at 114.3 116.84)
@@ -3444,16 +3444,6 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 29.21) (xy 97.79 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b2d8b40-2ba2-4d23-89a2-405d9ca48681")
-	)
-	(wire
-		(pts
 			(xy 127 185.42) (xy 127 187.96)
 		)
 		(stroke
@@ -3524,7 +3514,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 57.15) (xy 88.9 40.64)
+			(xy 88.9 57.15) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3794,7 +3784,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 40.64) (xy 101.6 38.1)
+			(xy 101.6 50.8) (xy 101.6 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4064,16 +4054,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 21.59) (xy 78.74 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad1357c4-68d3-4668-aadd-a115f566526c")
-	)
-	(wire
-		(pts
 			(xy 76.2 185.42) (xy 76.2 187.96)
 		)
 		(stroke
@@ -4081,16 +4061,6 @@
 			(type default)
 		)
 		(uuid "ad14e2ea-6333-4e68-81f5-270a0f322713")
-	)
-	(wire
-		(pts
-			(xy 101.6 29.21) (xy 101.6 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "af88a019-4025-402b-850e-8a70e3107a12")
 	)
 	(wire
 		(pts
@@ -4124,7 +4094,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 40.64) (xy 88.9 40.64)
+			(xy 76.2 50.8) (xy 88.9 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4174,7 +4144,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 39.37) (xy 78.74 40.64)
+			(xy 76.2 48.26) (xy 76.2 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4204,7 +4174,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 40.64) (xy 101.6 40.64)
+			(xy 88.9 50.8) (xy 101.6 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4221,16 +4191,6 @@
 			(type default)
 		)
 		(uuid "e2107826-da0d-48fa-9205-322888b143c8")
-	)
-	(wire
-		(pts
-			(xy 101.6 29.21) (xy 97.79 29.21)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e292a22b-86ea-447f-9fe4-a757520bc714")
 	)
 	(wire
 		(pts
@@ -4271,6 +4231,16 @@
 			(type default)
 		)
 		(uuid "e9f14540-6992-47c5-be53-a2d7c383b20e")
+	)
+	(wire
+		(pts
+			(xy 76.2 40.64) (xy 76.2 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef2742c3-77ff-4cd5-8870-24064ed8040e")
 	)
 	(wire
 		(pts
@@ -4347,6 +4317,19 @@
 			)
 		)
 		(uuid "c697a04a-ab16-4112-b791-f5db4e801534")
+	)
+	(text "INCLUIR MPN E MANUF.\nINCLUIR RANGE DE ENTRADA\n"
+		(exclude_from_sim no)
+		(at 41.91 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(color 255 0 0 1)
+			)
+		)
+		(uuid "f37727da-3e72-4b00-87ab-93fb17f65970")
 	)
 	(label "BOOST IN"
 		(at 140.97 57.15 0)
@@ -4933,7 +4916,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:DIODE SCHOTTKY 1N5819WS SOD-123 DIODES INC")
-		(at 78.74 35.56 90)
+		(at 76.2 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4941,7 +4924,7 @@
 		(dnp no)
 		(uuid "1d468a7b-7adb-4b41-88bb-45d9dd7193b3")
 		(property "Reference" "D1"
-			(at 81.28 35.56 0)
+			(at 78.74 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,7 +4932,7 @@
 			)
 		)
 		(property "Value" "1N5819HW"
-			(at 76.2 35.56 0)
+			(at 73.66 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4957,7 +4940,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:D_SOD-123"
-			(at 83.185 35.56 0)
+			(at 80.645 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4966,7 +4949,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/datasheet/download/1N5819HW.pdf"
-			(at 85.598 35.306 0)
+			(at 83.058 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4975,7 +4958,7 @@
 			)
 		)
 		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-			(at 85.598 35.306 0)
+			(at 83.058 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4984,7 +4967,7 @@
 			)
 		)
 		(property "MPN" "1N5819HW-7-F "
-			(at 83.82 35.56 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4993,7 +4976,7 @@
 			)
 		)
 		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 85.598 35.306 0)
+			(at 83.058 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5002,7 +4985,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 83.82 35.56 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,7 +4994,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 87.122 35.56 0)
+			(at 84.582 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5020,7 +5003,7 @@
 			)
 		)
 		(property "LCSC Part # " "C82544 "
-			(at 83.82 35.56 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5029,7 +5012,7 @@
 			)
 		)
 		(property "LCSC MPN " "1N5819HW-7-F "
-			(at 83.82 35.56 0)
+			(at 81.28 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5038,7 +5021,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
-			(at 85.598 35.306 0)
+			(at 83.058 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,7 +6660,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 78.74 21.59 0)
+		(at 76.2 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6685,7 +6668,7 @@
 		(dnp no)
 		(uuid "5b7ddfab-5ecc-4d4e-9fda-6ebe40cdd6ca")
 		(property "Reference" "#PWR07"
-			(at 78.74 25.4 0)
+			(at 76.2 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6694,7 +6677,7 @@
 			)
 		)
 		(property "Value" "+VEXT"
-			(at 78.74 17.78 0)
+			(at 76.2 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6702,7 +6685,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6711,7 +6694,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6720,7 +6703,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6729,7 +6712,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6737,7 +6720,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6745,7 +6728,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6753,7 +6736,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +6744,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6769,7 +6752,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6777,7 +6760,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 78.74 21.59 0)
+			(at 76.2 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7186,7 +7169,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:DIODE SCHOTTKY 1N5819WS SOD-123 DIODES INC")
-		(at 101.6 34.29 90)
+		(at 101.6 44.45 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7194,7 +7177,7 @@
 		(dnp no)
 		(uuid "609c5703-0506-4021-b5d6-cba90bb4618d")
 		(property "Reference" "D2"
-			(at 99.06 34.29 0)
+			(at 99.06 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7202,7 +7185,7 @@
 			)
 		)
 		(property "Value" "1N5819HW"
-			(at 104.14 34.29 0)
+			(at 104.14 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7210,7 +7193,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:D_SOD-123"
-			(at 106.045 34.29 0)
+			(at 106.045 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7219,7 +7202,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/datasheet/download/1N5819HW.pdf"
-			(at 108.458 34.036 0)
+			(at 108.458 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7228,7 +7211,7 @@
 			)
 		)
 		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-			(at 108.458 34.036 0)
+			(at 108.458 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7237,7 +7220,7 @@
 			)
 		)
 		(property "MPN" "1N5819HW-7-F "
-			(at 106.68 34.29 0)
+			(at 106.68 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7246,7 +7229,7 @@
 			)
 		)
 		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 108.458 34.036 0)
+			(at 108.458 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7255,7 +7238,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 106.68 34.29 0)
+			(at 106.68 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7264,7 +7247,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 109.982 34.29 0)
+			(at 109.982 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7273,7 +7256,7 @@
 			)
 		)
 		(property "LCSC Part # " "C82544 "
-			(at 106.68 34.29 0)
+			(at 106.68 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7282,7 +7265,7 @@
 			)
 		)
 		(property "LCSC MPN " "1N5819HW-7-F "
-			(at 106.68 34.29 0)
+			(at 106.68 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7291,7 +7274,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
-			(at 108.458 34.036 0)
+			(at 108.458 44.196 0)
 			(effects
 				(font
 					(size 1.27 1.27)
