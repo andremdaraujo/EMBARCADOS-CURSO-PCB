@@ -628,7 +628,7 @@
 				)
 			)
 		)
-		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K"
+		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -671,7 +671,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP 0805 10uH 16V AVX"
+			(property "Description" "CAP 0805 10uF 16V AVX"
 				(at 0 -9.398 0)
 				(effects
 					(font
@@ -761,7 +761,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_0_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -787,7 +787,7 @@
 					)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_1_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -4799,7 +4799,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 114.3 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -4844,7 +4844,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 114.3 131.318 0)
 			(effects
 				(font
@@ -5701,7 +5701,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 254 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5745,7 +5745,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 254 131.318 0)
 			(effects
 				(font
@@ -6985,7 +6985,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 228.6 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -7030,7 +7030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 228.6 131.318 0)
 			(effects
 				(font
@@ -8719,7 +8719,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 127 69.85 0)
 		(mirror y)
 		(unit 1)
@@ -8764,7 +8764,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 127 79.248 0)
 			(effects
 				(font
@@ -9040,7 +9040,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 203.2 121.92 0)
 		(mirror y)
 		(unit 1)
@@ -9085,7 +9085,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 203.2 131.318 0)
 			(effects
 				(font
@@ -9492,7 +9492,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 139.7 121.92 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9536,7 +9536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 139.7 131.318 0)
 			(effects
 				(font
@@ -10141,7 +10141,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 190.5 69.85 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10185,7 +10185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 190.5 79.248 0)
 			(effects
 				(font

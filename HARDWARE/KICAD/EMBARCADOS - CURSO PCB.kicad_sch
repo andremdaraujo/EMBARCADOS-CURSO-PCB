@@ -89,6 +89,82 @@
 		)
 	)
 	(sheet
+		(at 97.79 87.63)
+		(size 41.91 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6145c3a7-bcf4-4534-931d-bf3c6674fe6b")
+		(property "Sheetname" "INTERFACE"
+			(at 97.79 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "INTERFACE.kicad_sch"
+			(at 97.79 123.7746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 93.98)
+		(size 39.37 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9b5c5d79-aa85-43d6-bc66-deb2192346a3")
+		(property "Sheetname" "ANALOG"
+			(at 33.02 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ANALOG.kicad_sch"
+			(at 33.02 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 97.79 25.4)
 		(size 40.64 30.48)
 		(fields_autoplaced yes)

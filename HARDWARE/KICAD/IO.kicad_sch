@@ -584,7 +584,7 @@
 				)
 			)
 		)
-		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K"
+		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -627,7 +627,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP 0805 10uH 16V AVX"
+			(property "Description" "CAP 0805 10uF 16V AVX"
 				(at 0 -9.398 0)
 				(effects
 					(font
@@ -717,7 +717,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_0_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -743,7 +743,7 @@
 					)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_1_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -5157,6 +5157,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 137.16) (xy 187.96 137.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11662e09-5b78-4316-b900-cba66d5ea131")
+	)
+	(wire
+		(pts
 			(xy 185.42 77.47) (xy 204.47 77.47)
 		)
 		(stroke
@@ -5187,6 +5197,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 142.24) (xy 187.96 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "150ec54e-65ac-4029-9217-82d0b20b86d7")
+	)
+	(wire
+		(pts
 			(xy 96.52 124.46) (xy 88.9 124.46)
 		)
 		(stroke
@@ -5214,6 +5234,16 @@
 			(type default)
 		)
 		(uuid "1a63b597-cf27-4d9b-b762-fc8977f0ea23")
+	)
+	(wire
+		(pts
+			(xy 157.48 134.62) (xy 187.96 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eec34ad-7bdc-411d-9c61-ac1c521bb232")
 	)
 	(wire
 		(pts
@@ -5877,6 +5907,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 139.7) (xy 187.96 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "989f07b1-2b27-4ab7-9f9a-fb1469ffbf2a")
+	)
+	(wire
+		(pts
 			(xy 110.49 26.67) (xy 118.11 26.67)
 		)
 		(stroke
@@ -6337,6 +6377,16 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 154.94) (xy 187.96 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5dc1c34-e0fd-4e1a-8f17-f26e20f7c58b")
+	)
+	(wire
+		(pts
 			(xy 170.18 116.84) (xy 187.96 116.84)
 		)
 		(stroke
@@ -6364,19 +6414,6 @@
 			(type default)
 		)
 		(uuid "fc786c86-1c64-48c7-afb5-415d48e5cf41")
-	)
-	(text "BOTÃO BOOT0\n"
-		(exclude_from_sim no)
-		(at 233.68 132.08 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
-		)
-		(uuid "4b747266-15c3-4b90-9958-e6577bb96ff9")
 	)
 	(label "SWCLK CONN"
 		(at 184.15 116.84 180)
@@ -6653,28 +6690,6 @@
 			)
 		)
 	)
-	(global_label "BOOT0"
-		(shape input)
-		(at 228.6 127 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "193b4af2-708a-4d87-82a9-c7182a4e4d95")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 237.6933 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "USB D+"
 		(shape bidirectional)
 		(at 119.38 59.69 0)
@@ -6693,6 +6708,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NEOPIXEL DOUT"
+		(shape input)
+		(at 157.48 154.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "21a567e8-16dd-4d85-bc39-6e32937d60f6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 139.5572 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6807,6 +6844,28 @@
 			)
 		)
 	)
+	(global_label "PC2"
+		(shape bidirectional)
+		(at 157.48 137.16 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4ca90c60-6e45-467f-9f5b-e5906a8cce47")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.634 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "I2C SCL 5V"
 		(shape input)
 		(at 157.48 149.86 180)
@@ -6864,6 +6923,28 @@
 		(uuid "6105e5c8-5299-48e2-9339-c57a42aeebca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 147.5173 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC3"
+		(shape bidirectional)
+		(at 157.48 134.62 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "65ab26e9-23ec-41aa-950d-0e611f23e6ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.634 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7159,6 +7240,28 @@
 			)
 		)
 	)
+	(global_label "PC1"
+		(shape bidirectional)
+		(at 157.48 139.7 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ca1cb1c0-ed02-44ef-8f26-7e92ef30f25c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.634 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "PWM BLUE"
 		(shape output)
 		(at 96.52 147.32 0)
@@ -7287,6 +7390,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC0"
+		(shape bidirectional)
+		(at 157.48 142.24 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef39371e-db88-40f5-934f-a5a7762baf14")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 149.634 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -10082,7 +10207,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 224.79 26.67 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10124,7 +10249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 234.188 26.67 0)
 			(effects
 				(font
@@ -10539,7 +10664,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 83.82 26.67 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10581,7 +10706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 93.218 26.67 0)
 			(effects
 				(font

@@ -686,7 +686,7 @@
 				)
 			)
 		)
-		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K"
+		(symbol "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K"
 			(pin_numbers hide)
 			(pin_names
 				(offset 0.254) hide)
@@ -729,7 +729,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "CAP 0805 10uH 16V AVX"
+			(property "Description" "CAP 0805 10uF 16V AVX"
 				(at 0 -9.398 0)
 				(effects
 					(font
@@ -819,7 +819,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_0_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_0_1"
 				(polyline
 					(pts
 						(xy -1.524 -0.508) (xy 1.524 -0.508)
@@ -845,7 +845,7 @@
 					)
 				)
 			)
-			(symbol "CAP 0805 10uH 16V AVX KGM21AR71C106K_1_1"
+			(symbol "CAP 0805 10uF 16V AVX KGM21AR71C106K_1_1"
 				(pin passive line
 					(at 0 2.54 270)
 					(length 2.032)
@@ -5553,7 +5553,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 81.28) (xy 128.27 81.28)
+			(xy 96.52 81.28) (xy 128.27 81.28)
 		)
 		(stroke
 			(width 0)
@@ -6143,7 +6143,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 86.36) (xy 128.27 86.36)
+			(xy 96.52 86.36) (xy 128.27 86.36)
 		)
 		(stroke
 			(width 0)
@@ -6173,7 +6173,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 78.74) (xy 128.27 78.74)
+			(xy 96.52 78.74) (xy 128.27 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6913,7 +6913,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 83.82) (xy 128.27 83.82)
+			(xy 96.52 83.82) (xy 128.27 83.82)
 		)
 		(stroke
 			(width 0)
@@ -7024,17 +7024,6 @@
 			(justify left bottom)
 		)
 		(uuid "17e3f125-7664-402c-9826-b13d24bce6a7")
-	)
-	(label "MCU PC3"
-		(at 127 86.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "21966b7a-1538-47b1-b71b-fdbe8f8c9d9c")
 	)
 	(label "LSE OUT"
 		(at 127 68.58 180)
@@ -7223,17 +7212,6 @@
 		)
 		(uuid "c404d435-5c41-4edf-906f-020d33171260")
 	)
-	(label "MCU PC1"
-		(at 127 81.28 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "c58b84a3-e186-4b46-a02a-35f457ab3e7b")
-	)
 	(label "MCU PC13"
 		(at 127 63.5 180)
 		(fields_autoplaced yes)
@@ -7255,28 +7233,6 @@
 			(justify left bottom)
 		)
 		(uuid "d7378b88-e8bb-4b32-b6f4-16c99c7d7d08")
-	)
-	(label "MCU PC0"
-		(at 127 78.74 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "e3f90b5a-e640-4b15-ae73-bd77be242697")
-	)
-	(label "MCU PC2"
-		(at 127 83.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "f3619f57-3172-4d31-adb5-10961bffbb5d")
 	)
 	(global_label "PWM BUZZER"
 		(shape output)
@@ -7357,6 +7313,28 @@
 		(uuid "1ad90c54-2f00-445d-8379-2686e6a28616")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 89.9667 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC2"
+		(shape bidirectional)
+		(at 96.52 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1bc0dfcf-126f-4f06-84e2-56238b31a8b7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.674 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7938,6 +7916,50 @@
 			)
 		)
 	)
+	(global_label "PC1"
+		(shape bidirectional)
+		(at 96.52 81.28 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bf42ef18-06fe-4707-a7f2-6579888f670c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.674 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC0"
+		(shape bidirectional)
+		(at 96.52 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c1d02af4-7aa4-494f-a8af-caabdd7546f8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.674 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BOOT0"
 		(shape input)
 		(at 205.74 71.12 0)
@@ -7978,6 +8000,28 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "PC3"
+		(shape bidirectional)
+		(at 96.52 86.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d957dfc7-a760-4a0e-a854-da5ab2a45e63")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.674 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -8322,70 +8366,6 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 81.28 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "08d5223e-bb5a-4335-b52c-35ac3ff27cd7")
-		(property "Reference" "TP3"
-			(at 100.33 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC1"
-			(at 105.41 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 113.03 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f5861090-d6a8-4ce7-b266-b3ee27716f75")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
 		(at 69.85 186.69 0)
 		(unit 1)
@@ -8709,134 +8689,6 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "C19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 86.36 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "16dc67bf-a572-4050-b742-acaf5c2eb7d2")
-		(property "Reference" "TP5"
-			(at 100.33 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC3"
-			(at 105.41 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 113.03 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7650f060-9893-4e46-b0fd-536a632db207")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 78.74 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1adbbecd-d02d-44d5-bf59-e3ef3fc1fe69")
-		(property "Reference" "TP2"
-			(at 100.33 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC0"
-			(at 105.41 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 113.03 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb739ff3-7f59-4dc5-afb3-ff2bc3bc2c68")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -10927,7 +10779,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 146.05 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10971,7 +10823,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 146.05 187.198 0)
 			(effects
 				(font
@@ -11569,70 +11421,6 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "#PWR043")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 83.82 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "72193899-c449-4b2e-9c92-9372e40786f9")
-		(property "Reference" "TP4"
-			(at 100.33 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC2"
-			(at 105.41 83.82 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 113.03 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d1ea43a7-601d-4c55-815e-833867d6b24a")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -12663,136 +12451,6 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "#PWR032")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 1K 1% VISHAY CRCW06031K00FK ")
-		(at 189.23 124.46 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "95ecfd30-abba-4f4d-8ce7-d5a69a635c84")
-		(property "Reference" "R19"
-			(at 184.15 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1K 1%"
-			(at 195.58 123.19 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
-			(at 189.484 123.444 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300411821.pdf"
-			(at 203.2 123.698 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "RES 0603 1K 1% VISHAY"
-			(at 205.486 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MPN" "CRCW06031K00FK "
-			(at 200.66 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "VISHAY "
-			(at 212.09 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "3D Model" "KiCad"
-			(at 216.408 124.968 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Notes" "-"
-			(at 218.948 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part # " "C21190 "
-			(at 214.122 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC MPN " "0603WAF1001T5E "
-			(at 209.55 124.206 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC MANUFACTURER " "UNI-ROYAL "
-			(at 208.026 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2dbc4196-39e1-402f-8e6d-60843be115ea")
-		)
-		(pin "2"
-			(uuid "c5a5af8f-2ed2-45f1-bfb2-6a3d088a74e8")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -13953,7 +13611,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 95.25 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13997,7 +13655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 95.25 187.198 0)
 			(effects
 				(font
@@ -14149,7 +13807,7 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uH 16V AVX KGM21AR71C106K")
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0805 10uF 16V AVX KGM21AR71C106K")
 		(at 69.85 177.8 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14193,7 +13851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP 0805 10uH 16V AVX"
+		(property "Description" "CAP 0805 10uF 16V AVX"
 			(at 69.85 187.198 0)
 			(effects
 				(font
@@ -16086,6 +15744,136 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "C18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 51R 1% VISHAY CRCW060351R0FK ")
+		(at 189.23 124.46 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8b35df2-8bb8-4e83-9bed-8c0ddb285196")
+		(property "Reference" "R19"
+			(at 184.15 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "51R 1%"
+			(at 195.58 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
+			(at 189.484 123.444 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300411821.pdf"
+			(at 203.2 123.698 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 0603 51R 1% VISHAY"
+			(at 205.486 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW060351R0FK "
+			(at 200.66 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "VISHAY "
+			(at 212.09 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 216.408 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 218.948 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C23197 "
+			(at 214.122 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "0603WAF510JT5E "
+			(at 209.55 124.206 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "UNI-ROYAL "
+			(at 208.026 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e0dedd34-0f7d-4772-8f12-412a503f2a82")
+		)
+		(pin "1"
+			(uuid "e606bde3-3337-4f25-ba45-c017a7e59790")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "R19")
 					(unit 1)
 				)
 			)

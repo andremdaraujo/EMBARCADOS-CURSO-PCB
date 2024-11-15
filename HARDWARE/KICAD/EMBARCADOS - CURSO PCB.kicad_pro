@@ -613,6 +613,14 @@
     [
       "5c5c1b35-8adb-4bed-8f60-c08a0db2168d",
       "IO"
+    ],
+    [
+      "9b5c5d79-aa85-43d6-bc66-deb2192346a3",
+      "ANALOG"
+    ],
+    [
+      "6145c3a7-bcf4-4534-931d-bf3c6674fe6b",
+      "INTERFACE"
     ]
   ],
   "text_variables": {}
