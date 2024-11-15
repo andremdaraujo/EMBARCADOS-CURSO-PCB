@@ -3315,12 +3315,6 @@
 		(uuid "1ffa964f-2366-4dad-848c-ace1008acec7")
 	)
 	(junction
-		(at 50.8 66.04)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "237a61f8-7053-4c64-9aed-1f882f30e635")
-	)
-	(junction
 		(at 190.5 57.15)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3434,16 +3428,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 66.04) (xy 62.23 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0989d364-a507-427e-92dc-91f5a1b93cf1")
-	)
-	(wire
-		(pts
 			(xy 127 185.42) (xy 127 187.96)
 		)
 		(stroke
@@ -3471,6 +3455,16 @@
 			(type default)
 		)
 		(uuid "0f26ed8a-6372-4e4a-84d5-0ae8fbff15c8")
+	)
+	(wire
+		(pts
+			(xy 139.7 54.61) (xy 139.7 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11722e86-60ae-4fab-80c5-3ee7bd0583ec")
 	)
 	(wire
 		(pts
@@ -3521,16 +3515,6 @@
 			(type default)
 		)
 		(uuid "1a2deda7-1a31-4abd-bb78-dfc4d7b2c564")
-	)
-	(wire
-		(pts
-			(xy 228.6 116.84) (xy 238.76 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1a798dca-40c4-4271-9cb4-4bbc66f0a03e")
 	)
 	(wire
 		(pts
@@ -3874,6 +3858,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 38.1) (xy 101.6 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "693d5535-aedf-46c9-87e2-5865578ddd13")
+	)
+	(wire
+		(pts
 			(xy 50.8 172.72) (xy 50.8 177.8)
 		)
 		(stroke
@@ -4084,6 +4078,16 @@
 	)
 	(wire
 		(pts
+			(xy 228.6 116.84) (xy 238.76 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7c95827-4024-470c-8cc9-60b93c090a44")
+	)
+	(wire
+		(pts
 			(xy 139.7 111.76) (xy 139.7 116.84)
 		)
 		(stroke
@@ -4244,16 +4248,6 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 63.5) (xy 62.23 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f07e027d-1f94-4072-a2da-482c75df2f07")
-	)
-	(wire
-		(pts
 			(xy 165.1 67.31) (xy 162.56 67.31)
 		)
 		(stroke
@@ -4292,18 +4286,15 @@
 		)
 		(uuid "fb40308a-ca52-47c9-a10c-8b7283133003")
 	)
-	(text "INCLUIR TEST POINTS"
-		(exclude_from_sim no)
-		(at 101.6 146.05 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
+	(wire
+		(pts
+			(xy 76.2 156.21) (xy 76.2 165.1)
 		)
-		(uuid "37627c3e-8552-4ac4-b5b1-9543e8935f30")
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe014ffd-9681-407d-b24d-415e69e186b9")
 	)
 	(text "BOOST OUT = 1.25 * (1 + R1/R2)"
 		(exclude_from_sim no)
@@ -4317,19 +4308,6 @@
 			)
 		)
 		(uuid "c697a04a-ab16-4112-b791-f5db4e801534")
-	)
-	(text "INCLUIR MPN E MANUF.\nINCLUIR RANGE DE ENTRADA\n"
-		(exclude_from_sim no)
-		(at 41.91 83.82 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
-		)
-		(uuid "f37727da-3e72-4b00-87ab-93fb17f65970")
 	)
 	(label "BOOST IN"
 		(at 140.97 57.15 0)
@@ -4924,7 +4902,7 @@
 		(dnp no)
 		(uuid "1d468a7b-7adb-4b41-88bb-45d9dd7193b3")
 		(property "Reference" "D1"
-			(at 78.74 44.45 0)
+			(at 73.66 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4932,7 +4910,7 @@
 			)
 		)
 		(property "Value" "1N5819HW"
-			(at 73.66 44.45 0)
+			(at 78.74 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5437,10 +5415,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2e184dcb-8d4b-4128-965b-751177908b7d")
 		(property "Reference" "BT1"
-			(at 55.88 118.8479 0)
+			(at 55.88 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5449,7 +5426,7 @@
 			)
 		)
 		(property "Value" "CR2032"
-			(at 55.88 121.3879 0)
+			(at 55.88 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5485,21 +5462,21 @@
 			)
 		)
 		(property "MPN" "79527141"
-			(at 50.8 136.398 0)
+			(at 55.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "Manufacturer" "WÜRTH ELEKTRONIK "
-			(at 50.8 136.398 0)
+			(at 55.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify left)
 			)
 		)
 		(property "3D Model" "https://www.we-online.com/components/products/download/79527141%20%28rev1%29.igs"
@@ -5832,7 +5809,7 @@
 				)
 			)
 		)
-		(property "Value" "DC BARREL JACK"
+		(property "Value" "3V-7V"
 			(at 40.64 73.66 0)
 			(effects
 				(font
@@ -5868,21 +5845,21 @@
 			)
 		)
 		(property "MPN" "694108301002"
-			(at 40.386 77.47 0)
+			(at 44.45 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify right)
 			)
 		)
 		(property "Manufacturer" "WÜRTH ELEKTRONIK "
-			(at 40.386 77.47 0)
+			(at 45.72 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
+				(justify right)
 			)
 		)
 		(property "3D Model" "https://www.we-online.com/components/products/download/Download_IGES_694108301002%20%28rev1%29.iges"
@@ -8506,74 +8483,9 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 62.23 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "88c665cb-3748-44cd-a4ab-b11056198117")
-		(property "Reference" "#FLG01"
-			(at 62.23 61.595 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 62.23 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 62.23 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "be7e1229-111b-4a98-9475-f09eae7819af")
-		)
-		(instances
-			(project ""
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
-					(reference "#FLG01")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:DIODE SCHOTTKY 1N5819WS SOD-123 DIODES INC")
-		(at 171.45 57.15 180)
+		(at 171.45 57.15 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8597,7 +8509,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:D_SOD-123"
-			(at 171.45 52.705 0)
+			(at 171.45 61.595 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8606,7 +8518,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/datasheet/download/1N5819HW.pdf"
-			(at 171.196 50.292 0)
+			(at 171.196 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8615,7 +8527,7 @@
 			)
 		)
 		(property "Description" "40V 600mV@1A 1A SOD-323 Schottky Barrier Diodes, SOD-323"
-			(at 171.196 50.292 0)
+			(at 171.196 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8624,7 +8536,7 @@
 			)
 		)
 		(property "MPN" "1N5819HW-7-F "
-			(at 171.45 52.07 0)
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8633,7 +8545,7 @@
 			)
 		)
 		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 171.196 50.292 0)
+			(at 171.196 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8642,7 +8554,7 @@
 			)
 		)
 		(property "3D Model" "KiCad"
-			(at 171.45 52.07 0)
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8651,7 +8563,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 171.45 48.768 0)
+			(at 171.45 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8660,7 +8572,7 @@
 			)
 		)
 		(property "LCSC Part # " "C82544 "
-			(at 171.45 52.07 0)
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8669,7 +8581,7 @@
 			)
 		)
 		(property "LCSC MPN " "1N5819HW-7-F "
-			(at 171.45 52.07 0)
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8678,7 +8590,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
-			(at 171.196 50.292 0)
+			(at 171.196 64.008 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9410,6 +9322,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 139.7 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bc410106-7d3c-430f-8117-c7aa90be13bd")
+		(property "Reference" "#FLG010"
+			(at 139.7 52.705 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 139.7 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 139.7 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d0068e5a-a606-4de3-818f-791cb97f12f0")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
+					(reference "#FLG010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
 		(at 50.8 73.66 0)
 		(unit 1)
@@ -9855,6 +9833,127 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
 					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 101.6 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d33fdfb0-1e0d-480b-a097-21392e535317")
+		(property "Reference" "#PWR0105"
+			(at 101.6 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VBUSF"
+			(at 101.6 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 101.6 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bc469b1-6f4a-4669-b583-13d6df05ccbe")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -10710,6 +10809,127 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
 					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 76.2 156.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e8f48cad-dbbc-49d2-948b-94333a149a6a")
+		(property "Reference" "#PWR0106"
+			(at 76.2 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+VBUSF"
+			(at 76.2 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 76.2 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8908ed60-1826-477c-aad6-179d05f0f5a2")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/25e9c17a-dec3-4329-9bcf-5cd51d1774f7"
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)

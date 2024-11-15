@@ -621,6 +621,10 @@
     [
       "6145c3a7-bcf4-4534-931d-bf3c6674fe6b",
       "INTERFACE"
+    ],
+    [
+      "f534a825-b21c-4738-ba21-86f09d9b870e",
+      "AUXILIAR"
     ]
   ],
   "text_variables": {}

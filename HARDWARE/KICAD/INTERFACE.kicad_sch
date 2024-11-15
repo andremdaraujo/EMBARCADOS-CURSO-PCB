@@ -3155,6 +3155,12 @@
 		(uuid "473d8706-7487-473d-b8fa-fac115089137")
 	)
 	(junction
+		(at 50.8 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f512e6f-d5e9-4e27-9e4e-ca209b09f2d5")
+	)
+	(junction
 		(at 135.89 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3227,10 +3233,32 @@
 		(uuid "d67f4b7d-daf9-4969-9916-ab1fa6a51612")
 	)
 	(junction
+		(at 152.4 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f1c8cdc7-83cd-4fa1-bc72-44c91d2fb076")
+	)
+	(junction
 		(at 101.6 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7b9d32e-334f-4d32-950d-5c1e2ff181eb")
+	)
+	(junction
+		(at 127 165.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fe25e2e4-537c-4233-aa3c-1d04c85d3779")
+	)
+	(wire
+		(pts
+			(xy 152.4 165.1) (xy 154.94 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02238bf6-1df5-40e9-affa-e36dbc583017")
 	)
 	(wire
 		(pts
@@ -3281,6 +3309,16 @@
 			(type default)
 		)
 		(uuid "0b0221a9-f9a2-437d-aaa9-abcc14b9238d")
+	)
+	(wire
+		(pts
+			(xy 127 177.8) (xy 127 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19ca4460-206b-425e-8b03-f5f332c8dc52")
 	)
 	(wire
 		(pts
@@ -3381,6 +3419,16 @@
 			(type default)
 		)
 		(uuid "30145170-976b-443e-9a4f-d5fd0dab2e5f")
+	)
+	(wire
+		(pts
+			(xy 152.4 165.1) (xy 152.4 168.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "325e7f0a-baba-4032-8e6a-905f10bbfeaf")
 	)
 	(wire
 		(pts
@@ -3524,6 +3572,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 176.53) (xy 152.4 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ec950a8-3882-4676-b04d-66e4a83f3a3d")
+	)
+	(wire
+		(pts
 			(xy 135.89 48.26) (xy 135.89 74.93)
 		)
 		(stroke
@@ -3601,6 +3659,16 @@
 			(type default)
 		)
 		(uuid "6ac1b2dc-3eee-4c47-a69d-e6635ea5932d")
+	)
+	(wire
+		(pts
+			(xy 127 161.29) (xy 127 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6bb505cd-0b17-4996-8486-68c724a01f6e")
 	)
 	(wire
 		(pts
@@ -3784,6 +3852,16 @@
 	)
 	(wire
 		(pts
+			(xy 46.99 49.53) (xy 50.8 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "991a7a9d-f558-4f9f-b63c-58a0237bcc2a")
+	)
+	(wire
+		(pts
 			(xy 50.8 114.3) (xy 50.8 116.84)
 		)
 		(stroke
@@ -3791,6 +3869,16 @@
 			(type default)
 		)
 		(uuid "9b8463c6-0b33-40a6-8a24-ecf412efa00b")
+	)
+	(wire
+		(pts
+			(xy 127 149.86) (xy 127 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9db3a2d1-757b-4c7f-9cbf-1577a55ab4cc")
 	)
 	(wire
 		(pts
@@ -3874,6 +3962,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 162.56) (xy 152.4 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6f92b89-8049-46dd-9a4c-735a3c86d38e")
+	)
+	(wire
+		(pts
 			(xy 215.9 71.12) (xy 228.6 71.12)
 		)
 		(stroke
@@ -3901,6 +3999,36 @@
 			(type default)
 		)
 		(uuid "c0f1d020-cd9a-4ea1-809e-3685358c71e5")
+	)
+	(wire
+		(pts
+			(xy 127 165.1) (xy 127 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c145cb76-85ff-4bc3-9e49-b8d42a250d68")
+	)
+	(wire
+		(pts
+			(xy 50.8 49.53) (xy 50.8 55.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c69fca10-f10e-402a-a4d0-ec20612a6476")
+	)
+	(wire
+		(pts
+			(xy 38.1 52.07) (xy 38.1 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca673911-56f5-4e94-8533-8a312f778a86")
 	)
 	(wire
 		(pts
@@ -3974,7 +4102,17 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 49.53) (xy 50.8 55.88)
+			(xy 38.1 49.53) (xy 41.91 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de509859-0247-4cbe-befb-8866904a79ea")
+	)
+	(wire
+		(pts
+			(xy 50.8 44.45) (xy 50.8 49.53)
 		)
 		(stroke
 			(width 0)
@@ -4044,6 +4182,26 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 149.86) (xy 152.4 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3de6400-6085-4ea8-ba43-4f41259c2d39")
+	)
+	(wire
+		(pts
+			(xy 127 165.1) (xy 129.54 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ae12c8-5328-4527-9410-cc023e1828e5")
+	)
+	(wire
+		(pts
 			(xy 50.8 101.6) (xy 50.8 104.14)
 		)
 		(stroke
@@ -4071,32 +4229,6 @@
 			(type default)
 		)
 		(uuid "fe2d81d1-7c39-40ed-bdd0-87dedf57eca3")
-	)
-	(text "BOTÃO BOOT0\n"
-		(exclude_from_sim no)
-		(at 30.48 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
-		)
-		(uuid "96cfc6db-6092-49b1-a02c-a028097d9e81")
-	)
-	(text "BOTÃO BOOT0\n"
-		(exclude_from_sim no)
-		(at 41.91 175.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(color 255 0 0 1)
-			)
-		)
-		(uuid "e0b2d695-3084-4716-826b-975b4a0730c0")
 	)
 	(label "BUZZER DRAIN"
 		(at 228.6 53.34 90)
@@ -4132,23 +4264,23 @@
 		)
 	)
 	(global_label "NRST"
-		(shape input)
-		(at 41.91 162.56 180)
+		(shape output)
+		(at 129.54 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "22aa122f-1dff-4022-bc74-74864c29efa3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 34.1472 162.56 0)
+			(at 137.3028 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4286,8 +4418,8 @@
 		)
 	)
 	(global_label "BOOT0"
-		(shape input)
-		(at 36.83 170.18 0)
+		(shape output)
+		(at 154.94 165.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4297,7 +4429,7 @@
 		)
 		(uuid "61b8318d-3c27-4e1b-934a-1951bd765f3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.9233 170.18 0)
+			(at 164.0333 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4798,6 +4930,73 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
 					(reference "#PWR079")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
+		(at 127 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "14646e90-60d6-40e7-8bea-e508a67efa17")
+		(property "Reference" "#PWR0100"
+			(at 127 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 127 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 127 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e72b5178-957e-4a27-8ff1-19d95e4f7c93")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -5367,6 +5566,127 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 152.4 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2badfbb8-6493-4e78-8cf4-ae52cf40c8ba")
+		(property "Reference" "#PWR0104"
+			(at 152.4 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 152.4 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 152.4 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bbaa0dc4-68d0-4574-bd17-d178066b816e")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "#PWR0104")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
 		(at 142.24 43.18 90)
 		(unit 1)
@@ -5491,6 +5811,139 @@
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
 					(reference "C43")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 10K 1% VISHAY CRCW060310K0FK ")
+		(at 152.4 172.72 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2ff98154-ad92-49e4-878b-0967ffa8ebda")
+		(property "Reference" "R55"
+			(at 154.94 171.4499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K 1%"
+			(at 154.94 173.9899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
+			(at 153.416 172.974 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300411821.pdf"
+			(at 153.162 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 0603 10K 1% VISHAY"
+			(at 152.654 188.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW060310K0FK "
+			(at 152.654 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "VISHAY "
+			(at 152.654 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 151.892 199.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 152.4 202.438 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C25804 "
+			(at 152.654 197.612 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "0603WAF1002T5E "
+			(at 152.654 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "UNI-ROYAL "
+			(at 152.4 191.516 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0d15748e-e8a6-44d4-8c48-23530cd41745")
+		)
+		(pin "2"
+			(uuid "314ae6c5-2c78-407b-8a32-5584f22d9b63")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -5889,6 +6342,73 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
+		(at 152.4 180.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3aa51dff-20e7-49d8-992a-45f2301a2473")
+		(property "Reference" "#PWR0103"
+			(at 152.4 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.4 185.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 152.4 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 152.4 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 152.4 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "cbc57407-d58e-4fda-b930-7aaf236fc36b")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "#PWR0103")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 10K 1% VISHAY CRCW060310K0FK ")
 		(at 228.6 107.95 0)
 		(unit 1)
@@ -6150,6 +6670,136 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
 					(reference "#PWR090")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
+		(at 44.45 49.53 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "4d2c396b-8df8-4b1d-8e88-e354cad28467")
+		(property "Reference" "C45"
+			(at 44.45 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF 50V"
+			(at 44.45 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
+			(at 44.45 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+			(at 50.038 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 0603 100nF 50V AVX"
+			(at 53.848 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM15BR71H104K "
+			(at 63.754 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KYOCERA/AVX "
+			(at 61.722 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 66.04 49.784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 67.818 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663 "
+			(at 59.944 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "CC0603KRX7R9BB104 "
+			(at 55.626 49.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "YAGEO "
+			(at 57.912 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "3f364332-7895-41f6-b7bf-86c6fa4e7981")
+		)
+		(pin "1"
+			(uuid "6f7a421e-56f5-44ea-ae67-781723836ad1")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "C45")
 					(unit 1)
 				)
 			)
@@ -6904,6 +7554,144 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:SWITCH TACTILE C&K PTS526SM20SMTR21 LFS")
+		(at 152.4 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7822ee95-9a5c-4818-83da-4b8b1be64215")
+		(property "Reference" "SW9"
+			(at 153.67 156.2099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "BOOT"
+			(at 153.67 158.7499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C&K PTS526SM20SMTR21 LFS"
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+			(at 147.32 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PTS SERIES MICROMINIATURE TACT SWITCHES"
+			(at 159.512 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PTS526SM20SMTR21 LFS "
+			(at 166.37 163.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "LITTELFUSE/C&K "
+			(at 162.56 161.29 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "https://www.ckswitches.com/products/switches/product-details/Tactile/PTS526/PTS526SM20SMTR21%20LFS/ "
+			(at 163.068 157.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 164.846 156.972 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "-"
+			(at 164.592 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "-"
+			(at 164.592 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "-"
+			(at 164.592 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "85220af5-7e98-46d0-8a84-a304bb7eb62c")
+		)
+		(pin "3"
+			(uuid "2fdeef7a-fedc-4db4-9169-35f8b5408d31")
+		)
+		(pin "1"
+			(uuid "ce2fdf7a-2984-4a07-a8ff-ee279ff74d87")
+		)
+		(pin "4"
+			(uuid "b3926bb1-a810-4a22-8407-0988207d5017")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "SW9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:SPEAKER MURATA PKM13EPYH4000-A0")
 		(at 241.3 41.91 0)
 		(unit 1)
@@ -7568,6 +8356,127 @@
 		)
 	)
 	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:+5V")
+		(at 127 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8c74d462-21ff-4e17-9fcb-93fba4c1ce5d")
+		(property "Reference" "#PWR099"
+			(at 127 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 127 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "3D Model" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Notes" ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part # " ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MPN " ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " ""
+			(at 127 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "71c0339d-e0bf-4492-83c3-e7580b6cdc25")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "#PWR099")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:LED RGB (NEOPIXEL/WS2812B) WÜRTH ELEKTRONIK 1315050930002 ")
 		(at 50.8 63.5 0)
 		(unit 1)
@@ -8226,7 +9135,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:+5V")
-		(at 50.8 49.53 0)
+		(at 50.8 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8234,7 +9143,7 @@
 		(dnp no)
 		(uuid "b004ddc0-c85c-48cb-8702-e408bf2bdf70")
 		(property "Reference" "#PWR080"
-			(at 50.8 53.34 0)
+			(at 50.8 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8243,7 +9152,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 50.8 45.72 0)
+			(at 50.8 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +9160,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8260,7 +9169,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8269,7 +9178,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8278,7 +9187,7 @@
 			)
 		)
 		(property "MPN" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8286,7 +9195,7 @@
 			)
 		)
 		(property "Manufacturer" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8294,7 +9203,7 @@
 			)
 		)
 		(property "3D Model" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8302,7 +9211,7 @@
 			)
 		)
 		(property "Notes" ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8310,7 +9219,7 @@
 			)
 		)
 		(property "LCSC Part # " ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8318,7 +9227,7 @@
 			)
 		)
 		(property "LCSC MPN " ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8326,7 +9235,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " ""
-			(at 50.8 49.53 0)
+			(at 50.8 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8886,6 +9795,73 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
+		(at 38.1 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e8437793-3798-4517-931b-61b5c33f9db0")
+		(property "Reference" "#PWR0102"
+			(at 38.1 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 38.1 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 38.1 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "884f6a8e-ea73-42b9-9d0c-632dad65e3bd")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
 		(at 203.2 130.81 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9188,6 +10164,144 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
 					(reference "#PWR089")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:SWITCH TACTILE C&K PTS526SM20SMTR21 LFS")
+		(at 127 172.72 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f04cdbd1-20e2-4bef-9fae-917487b99b1c")
+		(property "Reference" "SW8"
+			(at 128.27 171.4499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "~{RST}"
+			(at 128.27 173.9899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C&K PTS526SM20SMTR21 LFS"
+			(at 121.92 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.ckswitches.com/media/2780/pts526.pdf"
+			(at 121.92 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "PTS SERIES MICROMINIATURE TACT SWITCHES"
+			(at 134.112 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "PTS526SM20SMTR21 LFS "
+			(at 140.97 179.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "LITTELFUSE/C&K "
+			(at 137.16 176.53 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "https://www.ckswitches.com/products/switches/product-details/Tactile/PTS526/PTS526SM20SMTR21%20LFS/ "
+			(at 137.668 172.974 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 139.446 172.212 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "-"
+			(at 139.192 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "-"
+			(at 139.192 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "-"
+			(at 139.192 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8f5c336f-2786-4563-82d7-f9dda9f04415")
+		)
+		(pin "3"
+			(uuid "a0c408c2-8d0a-469c-b9b7-94ac375f2f6b")
+		)
+		(pin "1"
+			(uuid "d283afe8-8252-4c71-b4ea-8bfaa09eb063")
+		)
+		(pin "4"
+			(uuid "28320792-0252-4fe2-83cf-843a3ca3b494")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -9533,6 +10647,139 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
 					(reference "#PWR092")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:RES 0603 10K 1% VISHAY CRCW060310K0FK ")
+		(at 127 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fac0d6ea-6f97-487c-b918-2a2c273b7daa")
+		(property "Reference" "R54"
+			(at 129.54 156.2099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K 1%"
+			(at 129.54 158.7499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:R_0603_1608Metric"
+			(at 128.016 157.734 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300411821.pdf"
+			(at 127.762 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 0603 10K 1% VISHAY"
+			(at 127.254 173.736 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW060310K0FK "
+			(at 127.254 168.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "VISHAY "
+			(at 127.254 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 126.492 184.658 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 127 187.198 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C25804 "
+			(at 127.254 182.372 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "0603WAF1002T5E "
+			(at 127.254 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "UNI-ROYAL "
+			(at 127 176.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d97afe33-0f8f-4695-8aa7-540323a808a6")
+		)
+		(pin "2"
+			(uuid "733621ea-f82f-4aca-8161-f1ed478bbd20")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
+					(reference "R54")
 					(unit 1)
 				)
 			)

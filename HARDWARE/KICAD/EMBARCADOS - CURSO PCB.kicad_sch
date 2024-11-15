@@ -13,8 +13,8 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 33.02 25.4)
-		(size 39.37 30.48)
+		(at 38.1 25.4)
+		(size 63.5 50.8)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -25,7 +25,7 @@
 		)
 		(uuid "25e9c17a-dec3-4329-9bcf-5cd51d1774f7")
 		(property "Sheetname" "POWER"
-			(at 33.02 24.6884 0)
+			(at 38.1 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34,7 +34,7 @@
 			)
 		)
 		(property "Sheetfile" "POWER.kicad_sch"
-			(at 33.02 56.4646 0)
+			(at 38.1 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -51,8 +51,8 @@
 		)
 	)
 	(sheet
-		(at 160.02 25.4)
-		(size 41.91 30.48)
+		(at 190.5 25.4)
+		(size 63.5 50.8)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -63,7 +63,7 @@
 		)
 		(uuid "5c5c1b35-8adb-4bed-8f60-c08a0db2168d")
 		(property "Sheetname" "IO"
-			(at 160.02 24.6884 0)
+			(at 190.5 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,7 +72,7 @@
 			)
 		)
 		(property "Sheetfile" "IO.kicad_sch"
-			(at 160.02 56.4646 0)
+			(at 190.5 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -89,8 +89,8 @@
 		)
 	)
 	(sheet
-		(at 97.79 87.63)
-		(size 41.91 35.56)
+		(at 114.3 88.9)
+		(size 63.5 50.8)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -101,7 +101,7 @@
 		)
 		(uuid "6145c3a7-bcf4-4534-931d-bf3c6674fe6b")
 		(property "Sheetname" "INTERFACE"
-			(at 97.79 86.9184 0)
+			(at 114.3 88.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -110,7 +110,7 @@
 			)
 		)
 		(property "Sheetfile" "INTERFACE.kicad_sch"
-			(at 97.79 123.7746 0)
+			(at 114.3 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -127,8 +127,8 @@
 		)
 	)
 	(sheet
-		(at 33.02 93.98)
-		(size 39.37 33.02)
+		(at 38.1 88.9)
+		(size 63.5 50.8)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -139,7 +139,7 @@
 		)
 		(uuid "9b5c5d79-aa85-43d6-bc66-deb2192346a3")
 		(property "Sheetname" "ANALOG"
-			(at 33.02 93.2684 0)
+			(at 38.1 88.1884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -148,7 +148,7 @@
 			)
 		)
 		(property "Sheetfile" "ANALOG.kicad_sch"
-			(at 33.02 127.5846 0)
+			(at 38.1 140.2846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -165,8 +165,8 @@
 		)
 	)
 	(sheet
-		(at 97.79 25.4)
-		(size 40.64 30.48)
+		(at 114.3 25.4)
+		(size 63.5 50.8)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -177,7 +177,7 @@
 		)
 		(uuid "c29651ae-6018-447b-aeb5-0320701650ee")
 		(property "Sheetname" "MCU"
-			(at 97.79 24.6884 0)
+			(at 114.3 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -186,7 +186,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 97.79 56.4646 0)
+			(at 114.3 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -198,6 +198,44 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 88.9)
+		(size 63.5 50.8)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f534a825-b21c-4738-ba21-86f09d9b870e")
+		(property "Sheetname" "AUXILIAR"
+			(at 190.5 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "AUXILIAR.kicad_sch"
+			(at 190.5 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad"
+					(page "7")
 				)
 			)
 		)

@@ -4950,6 +4950,12 @@
 		(uuid "d447ed04-84d4-4848-a9c9-14410eedfdc5")
 	)
 	(junction
+		(at 76.2 92.71)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d4bb3607-1448-4163-a26e-5374e03370a0")
+	)
+	(junction
 		(at 53.34 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5123,6 +5129,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 101.6) (xy 76.2 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "11c8ff22-49c3-4f4f-a4d3-4ade44334444")
+	)
+	(wire
+		(pts
 			(xy 46.99 43.18) (xy 53.34 43.18)
 		)
 		(stroke
@@ -5270,6 +5286,16 @@
 			(type default)
 		)
 		(uuid "2485e235-11e2-4fd2-b66b-9a9d4e6b4960")
+	)
+	(wire
+		(pts
+			(xy 76.2 92.71) (xy 87.63 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24be17ab-34c6-4c79-97f9-766981a9d608")
 	)
 	(wire
 		(pts
@@ -5510,6 +5536,16 @@
 			(type default)
 		)
 		(uuid "5063c5cc-b7a3-49a8-98f7-82586b6335d5")
+	)
+	(wire
+		(pts
+			(xy 87.63 92.71) (xy 87.63 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5066b60d-16bb-4848-bb54-54702ed48b1a")
 	)
 	(wire
 		(pts
@@ -6353,6 +6389,16 @@
 	)
 	(wire
 		(pts
+			(xy 87.63 76.2) (xy 128.27 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae38891a-9cb8-412e-98c5-d059b0f22d19")
+	)
+	(wire
+		(pts
 			(xy 163.83 127) (xy 185.42 127)
 		)
 		(stroke
@@ -6413,7 +6459,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 76.2) (xy 128.27 76.2)
+			(xy 73.66 92.71) (xy 76.2 92.71)
 		)
 		(stroke
 			(width 0)
@@ -6863,6 +6909,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 92.71) (xy 76.2 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed67a9db-b3e8-45cb-a8e8-8b22c5ee788c")
+	)
+	(wire
+		(pts
 			(xy 228.6 48.26) (xy 231.14 48.26)
 		)
 		(stroke
@@ -7280,7 +7336,7 @@
 	)
 	(global_label "NRST"
 		(shape input)
-		(at 96.52 76.2 180)
+		(at 73.66 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7290,7 +7346,7 @@
 		)
 		(uuid "19ad6801-3519-4372-8202-2911d84a423e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.7572 76.2 0)
+			(at 65.8972 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8427,6 +8483,138 @@
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "#PWR037")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
+		(at 76.2 99.06 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0eb1948a-3382-4a7c-ada2-55891d2e55a6")
+		(property "Reference" "C44"
+			(at 73.66 100.33 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "100nF 50V"
+			(at 78.74 104.14 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "EMBARCADOS - CURSO PCB:C_0603_1608Metric"
+			(at 76.2 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
+			(at 76.2 93.472 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 0603 100nF 50V AVX"
+			(at 76.2 89.662 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "KGM15BR71H104K "
+			(at 76.2 79.756 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KYOCERA/AVX "
+			(at 75.946 81.788 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "3D Model" "KiCad"
+			(at 76.454 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Notes" "-"
+			(at 76.2 75.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663 "
+			(at 76.2 83.566 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MPN " "CC0603KRX7R9BB104 "
+			(at 75.692 87.884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC MANUFACTURER " "YAGEO "
+			(at 75.946 85.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "cd882c89-9435-4f55-bfbd-f99741b0a2b8")
+		)
+		(pin "1"
+			(uuid "32d43db4-8cc8-4a31-93fb-8f5d173fde04")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -9658,6 +9846,73 @@
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
+		(at 76.2 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "394d6b6b-31b6-4839-9f00-ec11edfe5c4d")
+		(property "Reference" "#PWR0101"
+			(at 76.2 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 76.2 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 76.2 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ef294ff3-aa37-4d1a-b224-0dfa844f515b")
+		)
+		(instances
+			(project "EMBARCADOS - CURSO PCB"
+				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
