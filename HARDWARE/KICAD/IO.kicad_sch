@@ -5367,7 +5367,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 59.69) (xy 119.38 59.69)
+			(xy 116.84 59.69) (xy 130.81 59.69)
 		)
 		(stroke
 			(width 0)
@@ -5837,6 +5837,16 @@
 	)
 	(wire
 		(pts
+			(xy 110.49 26.67) (xy 118.11 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "860d9bad-02e1-4c70-b66e-c562ef2bc91b")
+	)
+	(wire
+		(pts
 			(xy 115.57 104.14) (xy 115.57 157.48)
 		)
 		(stroke
@@ -5914,16 +5924,6 @@
 			(type default)
 		)
 		(uuid "989f07b1-2b27-4ab7-9f9a-fb1469ffbf2a")
-	)
-	(wire
-		(pts
-			(xy 110.49 26.67) (xy 118.11 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98a2fc8c-8010-4a76-a2bb-019dff80e24d")
 	)
 	(wire
 		(pts
@@ -6287,7 +6287,7 @@
 	)
 	(wire
 		(pts
-			(xy 116.84 57.15) (xy 119.38 57.15)
+			(xy 116.84 57.15) (xy 130.81 57.15)
 		)
 		(stroke
 			(width 0)
@@ -6459,6 +6459,17 @@
 		)
 		(uuid "296d3b35-e94d-43eb-a6a6-1901f8185552")
 	)
+	(label "VBUS T FLT"
+		(at 116.84 26.67 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify right bottom)
+		)
+		(uuid "45fe648e-a907-49d3-9a35-b9001ab6de5e")
+	)
 	(label "SWDIO CONN"
 		(at 184.15 114.3 180)
 		(fields_autoplaced yes)
@@ -6469,6 +6480,17 @@
 			(justify right bottom)
 		)
 		(uuid "88de183d-05e1-44a5-9565-0b7c8b9d9853")
+	)
+	(label "RX CONN"
+		(at 184.15 127 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify right bottom)
+		)
+		(uuid "911b6fc2-8f88-4611-a86b-ccb7d9c74acc")
 	)
 	(label "USB DATA FLT +"
 		(at 95.25 59.69 0)
@@ -6692,7 +6714,7 @@
 	)
 	(global_label "USB D+"
 		(shape bidirectional)
-		(at 119.38 59.69 0)
+		(at 130.81 59.69 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6702,7 +6724,7 @@
 		)
 		(uuid "1be2380f-2067-4ead-994f-818ee2eb8956")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0965 59.69 0)
+			(at 142.5265 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7044,7 +7066,7 @@
 	)
 	(global_label "USB D-"
 		(shape bidirectional)
-		(at 119.38 57.15 0)
+		(at 130.81 57.15 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7054,7 +7076,7 @@
 		)
 		(uuid "761c6455-ad00-4265-95da-b67de4de4004")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0965 57.15 0)
+			(at 142.5265 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
