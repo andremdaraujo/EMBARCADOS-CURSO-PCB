@@ -435,7 +435,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -1632,7 +1632,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 170.18 0)
 			(effects
 				(font
@@ -1826,7 +1826,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 154.94 0)
 			(effects
 				(font
@@ -2324,7 +2324,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 43.18 0)
 			(effects
 				(font
@@ -2512,7 +2512,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 144.78 0)
 			(effects
 				(font
@@ -2579,7 +2579,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 93.98 0)
 			(effects
 				(font
@@ -2773,7 +2773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 68.58 0)
 			(effects
 				(font
@@ -2840,7 +2840,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 144.78 0)
 			(effects
 				(font
@@ -3402,7 +3402,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 43.18 0)
 			(effects
 				(font
@@ -3722,7 +3722,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 170.18 0)
 			(effects
 				(font
@@ -3910,7 +3910,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 68.58 0)
 			(effects
 				(font
@@ -3977,7 +3977,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 160.02 0)
 			(effects
 				(font
@@ -4044,7 +4044,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 66.04 119.38 0)
 			(effects
 				(font
@@ -4179,7 +4179,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 93.98 0)
 			(effects
 				(font
@@ -4373,7 +4373,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 165.1 0)
 			(effects
 				(font
@@ -4508,7 +4508,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 104.14 119.38 0)
 			(effects
 				(font

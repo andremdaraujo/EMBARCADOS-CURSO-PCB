@@ -958,7 +958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
 			(at 5.08 0 0)
 			(effects
 				(font
