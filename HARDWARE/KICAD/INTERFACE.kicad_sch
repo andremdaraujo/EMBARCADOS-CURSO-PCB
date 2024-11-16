@@ -2713,6 +2713,8 @@
 						)
 					)
 				)
+			)
+			(symbol "SWITCH TACTILE C&K PTS526SM20SMTR21 LFS_1_1"
 				(pin passive line
 					(at 5.08 0 180)
 					(length 2.54)
@@ -2723,45 +2725,7 @@
 							)
 						)
 					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(symbol "SWITCH TACTILE C&K PTS526SM20SMTR21 LFS_1_1"
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54) hide
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54) hide
-					(name "B"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -6190,14 +6154,8 @@
 		(pin "2"
 			(uuid "df4bf970-55de-4ed1-8846-e894c9401883")
 		)
-		(pin "3"
-			(uuid "6b099a07-1357-4c8a-8904-6da30a3ab1ad")
-		)
 		(pin "1"
 			(uuid "8714fe2d-e57c-47d4-a65c-eac4653ae78b")
-		)
-		(pin "4"
-			(uuid "84c926bf-b592-40b3-ab3d-ec2e6b9e51e2")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -6925,14 +6883,8 @@
 		(pin "2"
 			(uuid "edd50aab-3171-483b-9ccf-0000711cd1dc")
 		)
-		(pin "3"
-			(uuid "3dfb29f0-4e7e-499a-81ee-86b903368ef8")
-		)
 		(pin "1"
 			(uuid "f4946b94-8230-4c07-8f9e-85f69cdd096e")
-		)
-		(pin "4"
-			(uuid "be017261-7333-458e-968e-f4dd0e85ba00")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -7405,14 +7357,8 @@
 		(pin "2"
 			(uuid "71d7ec87-489e-44ed-9ad8-551006f30672")
 		)
-		(pin "3"
-			(uuid "a9269948-da13-4ba3-a8a3-c8605a9fb624")
-		)
 		(pin "1"
 			(uuid "531cba7a-eb86-4bb0-b4c2-8bf9cf8a38dc")
-		)
-		(pin "4"
-			(uuid "c5a2d8eb-53a4-46df-b14d-788da49bbda9")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -7673,14 +7619,8 @@
 		(pin "2"
 			(uuid "85220af5-7e98-46d0-8a84-a304bb7eb62c")
 		)
-		(pin "3"
-			(uuid "2fdeef7a-fedc-4db4-9169-35f8b5408d31")
-		)
 		(pin "1"
 			(uuid "ce2fdf7a-2984-4a07-a8ff-ee279ff74d87")
-		)
-		(pin "4"
-			(uuid "b3926bb1-a810-4a22-8407-0988207d5017")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -8977,14 +8917,8 @@
 		(pin "2"
 			(uuid "485be7c7-677c-41e1-b41e-b59c857b522e")
 		)
-		(pin "3"
-			(uuid "7c399923-6d80-443f-9fdf-c029da22e3f4")
-		)
 		(pin "1"
 			(uuid "8cca5c24-2184-4036-ac82-51904933763c")
-		)
-		(pin "4"
-			(uuid "9453ebaa-3dd2-441f-bbb4-2017a3a553c5")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -9115,14 +9049,8 @@
 		(pin "2"
 			(uuid "d4bc68b2-ecd6-4241-bb41-11867a239be8")
 		)
-		(pin "3"
-			(uuid "7f061852-babe-44a4-96c2-7aee88088ff2")
-		)
 		(pin "1"
 			(uuid "06c1eef7-abc6-407d-bd74-5268a1b0d637")
-		)
-		(pin "4"
-			(uuid "0901cabb-866b-41c5-aef9-ae0d42355632")
 		)
 		(instances
 			(project ""
@@ -9775,14 +9703,8 @@
 		(pin "2"
 			(uuid "56e4823e-b8b0-4e22-a262-97d818a47bb4")
 		)
-		(pin "3"
-			(uuid "f4d7ad8f-c4f5-4325-b14d-623f6d2a740b")
-		)
 		(pin "1"
 			(uuid "ed1d2e19-ed92-4225-9b74-59b1bdd5d2b6")
-		)
-		(pin "4"
-			(uuid "c08f9154-a597-4f54-b40d-20c53b45f6b8")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -10289,14 +10211,8 @@
 		(pin "2"
 			(uuid "8f5c336f-2786-4563-82d7-f9dda9f04415")
 		)
-		(pin "3"
-			(uuid "a0c408c2-8d0a-469c-b9b7-94ac375f2f6b")
-		)
 		(pin "1"
 			(uuid "d283afe8-8252-4c71-b4ea-8bfaa09eb063")
-		)
-		(pin "4"
-			(uuid "28320792-0252-4fe2-83cf-843a3ca3b494")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
@@ -10427,14 +10343,8 @@
 		(pin "2"
 			(uuid "0123be4b-bdfe-452e-bce3-d2ff38107a81")
 		)
-		(pin "3"
-			(uuid "5ee41525-93dc-4661-9459-9f9693c6483c")
-		)
 		(pin "1"
 			(uuid "829d3f4c-fcde-4995-bc96-e7afa11b73f2")
-		)
-		(pin "4"
-			(uuid "7eae829a-a59c-44c5-97b0-1128a039f5b7")
 		)
 		(instances
 			(project "EMBARCADOS - CURSO PCB"

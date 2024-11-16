@@ -260,28 +260,32 @@
 			)
 		)
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at -3 -1.85)
 		(size 1 0.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
 		(uuid "4c1e76ac-c77c-4b23-943e-af5b0c16faf8")
 	)
-	(pad "1" smd rect
+	(pad "1" smd roundrect
 		(at 3 -1.85)
 		(size 1 0.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
 		(uuid "5a992331-f088-4f7d-ac9d-ae99667aad40")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at -3 1.85)
 		(size 1 0.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
 		(uuid "2c132b12-4b80-467a-8fea-7eeecfeaa93d")
 	)
-	(pad "2" smd rect
+	(pad "2" smd roundrect
 		(at 3 1.85)
 		(size 1 0.7)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(roundrect_rratio 0.25)
 		(uuid "43542d1b-8e0e-4bb0-a542-7c51c2334055")
 	)
 	(model "C:/Users/Andre/Desktop/EMBARCADOS - CURSO PCB/HARDWARE/3D MODELS/C&K PTS526SM20SMTR21LFS.igs"
