@@ -3708,7 +3708,7 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 125.73) (xy 50.8 128.27)
+			(xy 50.8 125.73) (xy 50.8 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4296,7 +4296,7 @@
 		)
 		(uuid "fe014ffd-9681-407d-b24d-415e69e186b9")
 	)
-	(text "BOOST OUT = 1.25 * (1 + R1/R2)"
+	(text "BOOST OUT = 1.25 * (1 + R7/R8)\n+VBOOST = 7.125V"
 		(exclude_from_sim no)
 		(at 176.53 88.9 0)
 		(effects
@@ -7079,7 +7079,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
-		(at 50.8 128.27 0)
+		(at 50.8 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7088,7 +7088,7 @@
 		(fields_autoplaced yes)
 		(uuid "601e1a75-7964-4f1b-b8b1-d0a2b8a0e6a9")
 		(property "Reference" "#PWR04"
-			(at 50.8 134.62 0)
+			(at 50.8 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7097,7 +7097,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 50.8 133.35 0)
+			(at 50.8 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7106,7 +7106,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 50.8 128.27 0)
+			(at 50.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7115,7 +7115,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 50.8 128.27 0)
+			(at 50.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7124,7 +7124,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 50.8 128.27 0)
+			(at 50.8 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9346,6 +9346,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" ""
