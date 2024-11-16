@@ -7834,7 +7834,7 @@
 	)
 	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:IND CMC 1206 USB 2.0 WÜRTH ELEKTRONIK 744232090 ")
-		(at 110.49 58.42 0)
+		(at 110.49 49.53 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -7843,7 +7843,7 @@
 		(dnp no)
 		(uuid "0aefb241-68eb-4cc4-89a0-5007e5871952")
 		(property "Reference" "L2"
-			(at 110.49 63.5 0)
+			(at 110.49 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7851,7 +7851,7 @@
 			)
 		)
 		(property "Value" "USB 2.0"
-			(at 110.109 63.5 0)
+			(at 110.109 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7860,7 +7860,7 @@
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:WE-CNSW SMT Common Mode Line Filter"
-			(at 110.49 58.42 0)
+			(at 110.49 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7869,7 +7869,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/744232090.pdf"
-			(at 111.506 47.244 0)
+			(at 111.506 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7878,7 +7878,7 @@
 			)
 		)
 		(property "Description" "IND CMC 1206 USB 2.0"
-			(at 110.744 43.942 0)
+			(at 110.744 35.052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7887,7 +7887,7 @@
 			)
 		)
 		(property "MPN" "744232090 "
-			(at 110.49 50.8 0)
+			(at 110.49 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7895,7 +7895,7 @@
 			)
 		)
 		(property "Manufacturer" "WÜRTH ELEKTRONIK "
-			(at 110.49 53.34 0)
+			(at 110.49 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7903,7 +7903,7 @@
 			)
 		)
 		(property "3D Model" "https://www.we-online.com/components/products/download/WE-CNSW_1206_CNSW%20%28rev1%29.igs"
-			(at 111.506 47.244 0)
+			(at 111.506 38.354 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7912,7 +7912,7 @@
 			)
 		)
 		(property "Notes" "-"
-			(at 110.236 33.02 0)
+			(at 110.236 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7921,7 +7921,7 @@
 			)
 		)
 		(property "LCSC Part # " "-"
-			(at 109.982 32.512 0)
+			(at 109.982 23.622 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7930,7 +7930,7 @@
 			)
 		)
 		(property "LCSC MPN " "-"
-			(at 110.744 33.528 0)
+			(at 110.744 24.638 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7939,7 +7939,7 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "-"
-			(at 110.744 31.242 0)
+			(at 110.744 22.352 0)
 			(effects
 				(font
 					(size 1.27 1.27)
