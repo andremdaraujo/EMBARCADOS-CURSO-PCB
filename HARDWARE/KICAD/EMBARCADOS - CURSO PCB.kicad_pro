@@ -185,7 +185,10 @@
       "track_widths": [
         0.0,
         0.156464,
-        0.381
+        0.3,
+        0.381,
+        0.6,
+        0.7
       ],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
@@ -489,7 +492,7 @@
         "name": "+3.3V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 153, 0)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -506,7 +509,7 @@
         "name": "+3.3VA",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 192, 0)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -523,7 +526,7 @@
         "name": "+3VBAT",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(221, 133, 0)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -540,7 +543,7 @@
         "name": "+5V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 0, 0)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -557,7 +560,7 @@
         "name": "+5VA",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(194, 0, 0)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -574,7 +577,7 @@
         "name": "+VBOOST",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(255, 0, 255)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -591,7 +594,7 @@
         "name": "+VBUS",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 0, 132)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -608,7 +611,7 @@
         "name": "+VCORE",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(192, 128, 255)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -625,7 +628,7 @@
         "name": "+VEXT",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(72, 0, 72)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -642,7 +645,24 @@
         "name": "+VSEL",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(194, 0, 194)",
-        "track_width": 0.2,
+        "track_width": 0.7,
+        "via_diameter": 0.7,
+        "via_drill": 0.3,
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "BOOST",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -659,7 +679,7 @@
         "name": "GND",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(132, 132, 132)",
-        "track_width": 0.2,
+        "track_width": 0.7,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -676,7 +696,7 @@
         "name": "I2C 3.3V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 128, 255)",
-        "track_width": 0.2,
+        "track_width": 0.156464,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -693,7 +713,7 @@
         "name": "I2C 5V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 96, 192)",
-        "track_width": 0.2,
+        "track_width": 0.156464,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -710,7 +730,7 @@
         "name": "SPI",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgb(0, 64, 128)",
-        "track_width": 0.2,
+        "track_width": 0.156464,
         "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
@@ -735,9 +755,9 @@
       {
         "bus_width": 12,
         "clearance": 0.2,
-        "diff_pair_gap": 0.25,
+        "diff_pair_gap": 0.1778,
         "diff_pair_via_gap": 0.25,
-        "diff_pair_width": 0.2,
+        "diff_pair_width": 0.15113,
         "line_style": 0,
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
@@ -831,6 +851,10 @@
       {
         "netclass": "SWD",
         "pattern": "BOOT0"
+      },
+      {
+        "netclass": "BOOST",
+        "pattern": "*BOOST *"
       }
     ]
   },
