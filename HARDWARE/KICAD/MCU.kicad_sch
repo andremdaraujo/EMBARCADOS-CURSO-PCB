@@ -188,108 +188,6 @@
 				)
 			)
 		)
-		(symbol "EMBARCADOS - CURSO PCB:AUX TEST POINT"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0.762) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "TP"
-				(at 0 6.858 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "TestPoint"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 5.08 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "test point"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "test point tp"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Pin* Test*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "AUX TEST POINT_0_1"
-				(circle
-					(center 0 3.302)
-					(radius 0.762)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "AUX TEST POINT_1_1"
-				(pin passive line
-					(at 0 0 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K "
 			(pin_numbers hide)
 			(pin_names
@@ -4997,15 +4895,33 @@
 		(color 0 0 0 0)
 		(uuid "f864ed92-9239-4e09-9324-37e4fda32347")
 	)
-	(wire
-		(pts
-			(xy 163.83 91.44) (xy 179.07 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "007f4136-e778-4afe-a8ce-3b6c3346c1c5")
+	(no_connect
+		(at 163.83 78.74)
+		(uuid "125b52cb-f8fd-4d5b-960f-6a1ad2f520ea")
+	)
+	(no_connect
+		(at 128.27 134.62)
+		(uuid "21cf458f-2ebf-48c6-9b22-52e215239d56")
+	)
+	(no_connect
+		(at 163.83 81.28)
+		(uuid "30fc9130-f225-4dde-9189-45f318d3e8f1")
+	)
+	(no_connect
+		(at 163.83 86.36)
+		(uuid "45d0ebbe-7500-4080-b5bf-a291f80377f5")
+	)
+	(no_connect
+		(at 128.27 63.5)
+		(uuid "86418b47-c994-4c71-9272-4b4f236f7ddf")
+	)
+	(no_connect
+		(at 163.83 88.9)
+		(uuid "8e384fba-74a5-419d-b91d-b78136e8e341")
+	)
+	(no_connect
+		(at 163.83 91.44)
+		(uuid "d1c56e52-55be-4169-a547-1b162d3584eb")
 	)
 	(wire
 		(pts
@@ -5406,16 +5322,6 @@
 			(type default)
 		)
 		(uuid "3a6b95ab-7e1d-4b4e-91c1-21be785a4141")
-	)
-	(wire
-		(pts
-			(xy 163.83 88.9) (xy 179.07 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c9efa99-bec4-4b94-9ae4-a10b69b1aa0e")
 	)
 	(wire
 		(pts
@@ -6599,16 +6505,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 86.36) (xy 179.07 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c3478491-eae1-4dde-909e-0e366aa10897")
-	)
-	(wire
-		(pts
 			(xy 95.25 180.34) (xy 95.25 184.15)
 		)
 		(stroke
@@ -6656,16 +6552,6 @@
 			(type default)
 		)
 		(uuid "cbeca945-6183-4670-a705-b2c305e9dad4")
-	)
-	(wire
-		(pts
-			(xy 113.03 63.5) (xy 128.27 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cd42abaa-e921-4572-a83e-8b1cc4affebe")
 	)
 	(wire
 		(pts
@@ -6829,16 +6715,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 134.62) (xy 128.27 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e264aae0-227d-4b7f-84d6-054a8ad7629f")
-	)
-	(wire
-		(pts
 			(xy 128.27 88.9) (xy 125.73 88.9)
 		)
 		(stroke
@@ -6949,26 +6825,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 81.28) (xy 179.07 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f54e55dc-73cc-4bcf-9306-5928324e4cb2")
-	)
-	(wire
-		(pts
-			(xy 163.83 78.74) (xy 179.07 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f5d6c398-d8fc-473d-b626-4a103fa25374")
-	)
-	(wire
-		(pts
 			(xy 96.52 83.82) (xy 128.27 83.82)
 		)
 		(stroke
@@ -7048,28 +6904,6 @@
 		)
 		(uuid "081e78dd-0812-41b6-ba67-a1e5d49dfa9d")
 	)
-	(label "MCU PB10"
-		(at 120.65 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "0d3a0f97-eecb-4504-9fc1-b09e74b102d8")
-	)
-	(label "MCU PB5"
-		(at 170.18 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "1697e1f1-1764-4f2c-9fc8-9f0d10acade1")
-	)
 	(label "MCU PB8"
 		(at 170.18 68.58 0)
 		(fields_autoplaced yes)
@@ -7147,17 +6981,6 @@
 		)
 		(uuid "5d80dc79-d3cc-4801-a31d-36ea82474671")
 	)
-	(label "MCU PC12"
-		(at 170.18 88.9 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "7251f692-61f0-4f91-a1a9-9a5fc4478f26")
-	)
 	(label "HSE 1"
 		(at 54.61 83.82 0)
 		(fields_autoplaced yes)
@@ -7191,17 +7014,6 @@
 		)
 		(uuid "91f3ed9a-f08e-42bb-9137-86fef5fa2a65")
 	)
-	(label "MCU PD2"
-		(at 170.18 86.36 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "9d827d7a-53e6-4216-bb96-f9b9d027bfd2")
-	)
 	(label "MCU PC6"
 		(at 170.18 132.08 0)
 		(fields_autoplaced yes)
@@ -7212,17 +7024,6 @@
 			(justify left bottom)
 		)
 		(uuid "a5c0502f-cbb6-48fb-8936-2dc0211f930e")
-	)
-	(label "MCU PB4"
-		(at 170.18 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "aace0665-9f61-4725-8455-ceab0073fa95")
 	)
 	(label "MCU PC8"
 		(at 170.18 127 0)
@@ -7267,28 +7068,6 @@
 			(justify left bottom)
 		)
 		(uuid "c404d435-5c41-4edf-906f-020d33171260")
-	)
-	(label "MCU PC13"
-		(at 127 63.5 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify right bottom)
-		)
-		(uuid "ca484412-b149-4ac2-bd7c-08bd0841430b")
-	)
-	(label "MCU PC11"
-		(at 170.18 91.44 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 0.635 0.635)
-			)
-			(justify left bottom)
-		)
-		(uuid "d7378b88-e8bb-4b32-b6f4-16c99c7d7d08")
 	)
 	(global_label "PWM BUZZER"
 		(shape output)
@@ -8358,70 +8137,6 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 63.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0869b307-51e3-4a92-8466-681de9951f4e")
-		(property "Reference" "TP1"
-			(at 99.06 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC13"
-			(at 105.41 63.5 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 113.03 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e30fbc28-a306-400e-9f43-bc31a5ed8a6a")
-		)
-		(instances
-			(project ""
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:POWER GND")
 		(at 69.85 186.69 0)
 		(unit 1)
@@ -8497,7 +8212,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0eb1948a-3382-4a7c-ada2-55891d2e55a6")
-		(property "Reference" "C44"
+		(property "Reference" "C28"
 			(at 73.66 100.33 90)
 			(effects
 				(font
@@ -8614,7 +8329,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C44")
+					(reference "C28")
 					(unit 1)
 				)
 			)
@@ -8629,7 +8344,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f5ecf92-edbc-4a08-804f-f22d8a9eca72")
-		(property "Reference" "R23"
+		(property "Reference" "R14"
 			(at 224.79 48.26 90)
 			(effects
 				(font
@@ -8746,7 +8461,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R23")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -8761,7 +8476,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "12ba4038-63e8-4e31-aea7-493133b75805")
-		(property "Reference" "C19"
+		(property "Reference" "C32"
 			(at 44.45 81.28 90)
 			(effects
 				(font
@@ -8876,7 +8591,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C19")
+					(reference "C32")
 					(unit 1)
 				)
 			)
@@ -8891,7 +8606,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "20e86c34-df8a-4e5b-a0f7-4ffcb627a0b6")
-		(property "Reference" "FB2"
+		(property "Reference" "FB4"
 			(at 82.55 167.64 90)
 			(effects
 				(font
@@ -9006,7 +8721,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "FB2")
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -9021,7 +8736,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22259c74-fcbe-4b69-9bc8-1a955cfbac2f")
-		(property "Reference" "R14"
+		(property "Reference" "R23"
 			(at 184.15 67.31 90)
 			(effects
 				(font
@@ -9136,7 +8851,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R14")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -9151,7 +8866,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "22bd62ac-c3ac-4d30-af03-aef0130fb45b")
-		(property "Reference" "C8"
+		(property "Reference" "C43"
 			(at 40.64 179.07 90)
 			(effects
 				(font
@@ -9268,7 +8983,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C8")
+					(reference "C43")
 					(unit 1)
 				)
 			)
@@ -9404,7 +9119,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2cf3a07d-0809-436c-9c20-5d3f789db36b")
-		(property "Reference" "R21"
+		(property "Reference" "R17"
 			(at 199.39 48.26 90)
 			(effects
 				(font
@@ -9521,7 +9236,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R21")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -9724,7 +9439,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "39346595-62af-41b6-a17e-a915c6362c21")
-		(property "Reference" "Q1"
+		(property "Reference" "Q3"
 			(at 213.36 43.18 90)
 			(effects
 				(font
@@ -9845,7 +9560,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "Q1")
+					(reference "Q3")
 					(unit 1)
 				)
 			)
@@ -9927,7 +9642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3dc976c3-ad67-43f7-8221-45247b736961")
-		(property "Reference" "Y1"
+		(property "Reference" "Y2"
 			(at 59.69 73.66 90)
 			(effects
 				(font
@@ -10048,7 +9763,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "Y1")
+					(reference "Y2")
 					(unit 1)
 				)
 			)
@@ -10064,7 +9779,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3e21449c-bc9b-41eb-84fe-7c683a175bcf")
-		(property "Reference" "C23"
+		(property "Reference" "C7"
 			(at 236.22 24.13 90)
 			(effects
 				(font
@@ -10181,71 +9896,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 179.07 91.44 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "430ebd74-c6dc-43ec-b6f6-ad088a096a3d")
-		(property "Reference" "TP11"
-			(at 191.77 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC11"
-			(at 186.69 91.44 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 179.07 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b8b1078f-b388-4dbf-9f37-c984761c9e31")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP11")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -10327,7 +9978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "51184a5e-c501-4b11-8f91-171c460bae48")
-		(property "Reference" "R24"
+		(property "Reference" "R19"
 			(at 227.33 48.26 90)
 			(effects
 				(font
@@ -10444,7 +10095,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R24")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -10459,7 +10110,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5488440f-39bc-40ee-a0b5-61f4b9e0f49a")
-		(property "Reference" "U4"
+		(property "Reference" "U7"
 			(at 146.05 54.61 0)
 			(effects
 				(font
@@ -10761,7 +10412,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "U4")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -10776,7 +10427,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a0e49ba-2d13-434a-a8ba-3731b71bc527")
-		(property "Reference" "R13"
+		(property "Reference" "R25"
 			(at 184.15 74.93 90)
 			(effects
 				(font
@@ -10891,7 +10542,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R13")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -11042,7 +10693,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "60d7c815-1fde-481d-9be6-47eb308d8f92")
-		(property "Reference" "C20"
+		(property "Reference" "C44"
 			(at 143.51 179.07 90)
 			(effects
 				(font
@@ -11159,71 +10810,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 179.07 86.36 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "66ec1282-4054-4fc5-9090-7ebf0da6e96c")
-		(property "Reference" "TP9"
-			(at 191.77 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PD2"
-			(at 186.69 86.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 179.07 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 91.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "692b7723-6f66-433a-b5a0-ea4fe6fbf1a7")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP9")
+					(reference "C44")
 					(unit 1)
 				)
 			)
@@ -11238,7 +10825,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "695f609e-00c7-4f18-b7fd-60fe56ddbce4")
-		(property "Reference" "C14"
+		(property "Reference" "C33"
 			(at 101.6 179.07 90)
 			(effects
 				(font
@@ -11355,7 +10942,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C14")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -11370,7 +10957,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "6c6b1517-8eeb-49f8-9b3f-a0515c624895")
-		(property "Reference" "C22"
+		(property "Reference" "C8"
 			(at 193.04 24.13 90)
 			(effects
 				(font
@@ -11487,7 +11074,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C22")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -11690,7 +11277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "790555bb-2e1c-4aa8-807e-721835d297c3")
-		(property "Reference" "R22"
+		(property "Reference" "R18"
 			(at 201.93 48.26 90)
 			(effects
 				(font
@@ -11807,7 +11394,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R22")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -11822,7 +11409,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a1ed33c-1b00-4694-9124-f79747ca755d")
-		(property "Reference" "R10"
+		(property "Reference" "R37"
 			(at 184.15 133.35 90)
 			(effects
 				(font
@@ -11937,7 +11524,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R10")
+					(reference "R37")
 					(unit 1)
 				)
 			)
@@ -12073,7 +11660,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "83e6c3c6-eaa8-4e5b-9867-f500f17797a0")
-		(property "Reference" "R12"
+		(property "Reference" "R45"
 			(at 184.15 140.97 90)
 			(effects
 				(font
@@ -12188,7 +11775,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R12")
+					(reference "R45")
 					(unit 1)
 				)
 			)
@@ -12270,7 +11857,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "877dc882-9a48-47d2-a2ba-5874e53cced6")
-		(property "Reference" "R15"
+		(property "Reference" "R22"
 			(at 184.15 64.77 90)
 			(effects
 				(font
@@ -12385,7 +11972,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R15")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -12467,7 +12054,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8f23472d-ab23-4e54-b9a0-163872644317")
-		(property "Reference" "C15"
+		(property "Reference" "C24"
 			(at 118.11 179.07 90)
 			(effects
 				(font
@@ -12584,7 +12171,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C15")
+					(reference "C24")
 					(unit 1)
 				)
 			)
@@ -12787,7 +12374,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9910dc54-75d7-443c-85a2-502e02965a0c")
-		(property "Reference" "C17"
+		(property "Reference" "C16"
 			(at 44.45 53.34 90)
 			(effects
 				(font
@@ -12902,7 +12489,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C17")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -12917,7 +12504,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9ade7191-3bb2-447f-81b2-5ee88220cf3b")
-		(property "Reference" "C10"
+		(property "Reference" "C27"
 			(at 58.42 179.07 90)
 			(effects
 				(font
@@ -13034,7 +12621,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C10")
+					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -13292,7 +12879,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a411b07b-df83-4fb1-b964-8a315c04bc97")
-		(property "Reference" "R9"
+		(property "Reference" "R32"
 			(at 66.04 82.55 90)
 			(effects
 				(font
@@ -13407,7 +12994,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R9")
+					(reference "R32")
 					(unit 1)
 				)
 			)
@@ -13423,7 +13010,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a87390a7-0f7b-42db-9dda-59ab5be331c3")
-		(property "Reference" "Y2"
+		(property "Reference" "Y1"
 			(at 57.15 48.2599 90)
 			(effects
 				(font
@@ -13540,7 +13127,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "Y2")
+					(reference "Y1")
 					(unit 1)
 				)
 			)
@@ -13555,7 +13142,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b86f54a7-59df-4d8b-bdb8-a1edc376cd63")
-		(property "Reference" "R17"
+		(property "Reference" "R35"
 			(at 184.15 128.27 90)
 			(effects
 				(font
@@ -13670,7 +13257,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R17")
+					(reference "R35")
 					(unit 1)
 				)
 			)
@@ -13874,7 +13461,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c6205046-8f65-4fd6-b782-1bb8a99d89f7")
-		(property "Reference" "C13"
+		(property "Reference" "C34"
 			(at 92.71 179.07 90)
 			(effects
 				(font
@@ -13991,71 +13578,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 113.03 134.62 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d7ef33b7-4a83-47c9-96a4-b8da066a1aca")
-		(property "Reference" "TP6"
-			(at 100.33 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PB10"
-			(at 105.41 134.62 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 113.03 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 113.03 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 113.03 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "64f07197-6ed3-43da-acfc-248a9ae628ec")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP6")
+					(reference "C34")
 					(unit 1)
 				)
 			)
@@ -14070,7 +13593,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8bd5861-0914-4704-81e3-e957913efa5b")
-		(property "Reference" "C12"
+		(property "Reference" "C41"
 			(at 67.31 179.07 90)
 			(effects
 				(font
@@ -14187,7 +13710,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C12")
+					(reference "C41")
 					(unit 1)
 				)
 			)
@@ -14202,7 +13725,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8dc3a59-41d6-4b94-bbc7-389995fa409c")
-		(property "Reference" "R18"
+		(property "Reference" "R34"
 			(at 184.15 125.73 90)
 			(effects
 				(font
@@ -14317,7 +13840,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R18")
+					(reference "R34")
 					(unit 1)
 				)
 			)
@@ -14453,7 +13976,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e16e2ddd-8b6a-40ea-9422-cef41713fec8")
-		(property "Reference" "R16"
+		(property "Reference" "R36"
 			(at 184.15 130.81 90)
 			(effects
 				(font
@@ -14568,7 +14091,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R16")
+					(reference "R36")
 					(unit 1)
 				)
 			)
@@ -14696,70 +14219,6 @@
 		)
 	)
 	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 179.07 88.9 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e30ba014-7c38-41b5-89c0-0c553748598c")
-		(property "Reference" "TP10"
-			(at 191.77 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PC12"
-			(at 186.69 88.9 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 179.07 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9dcdb78a-c8ac-4b21-80a0-b56a7b6899d2")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EMBARCADOS - CURSO PCB:CAP 0603 100nF 50V AVX KGM15BR71H104K ")
 		(at 154.94 177.8 180)
 		(unit 1)
@@ -14768,7 +14227,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6ef2e52-5496-4580-8066-f01b27b7c5e1")
-		(property "Reference" "C21"
+		(property "Reference" "C42"
 			(at 152.4 179.07 90)
 			(effects
 				(font
@@ -14885,135 +14344,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C21")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 179.07 81.28 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e8227f3f-f253-44e2-88e8-0ebabe24abc5")
-		(property "Reference" "TP8"
-			(at 191.77 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PB4"
-			(at 186.69 81.28 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 179.07 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ff37f9cc-7bc0-48de-add8-0861df3547cb")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "EMBARCADOS - CURSO PCB:AUX TEST POINT")
-		(at 179.07 78.74 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ea74a2cb-8846-42d9-a899-bf95bf5be77a")
-		(property "Reference" "TP7"
-			(at 191.77 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PB5"
-			(at 186.69 78.74 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "EMBARCADOS - CURSO PCB:TestPoint_Keystone_5000-5004_Miniature"
-			(at 179.07 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 179.07 83.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "test point"
-			(at 179.07 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9096a796-7af4-42a8-8cb4-307469986623")
-		)
-		(instances
-			(project "EMBARCADOS - CURSO PCB"
-				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "TP7")
+					(reference "C42")
 					(unit 1)
 				)
 			)
@@ -15095,7 +14426,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eaeaf5c6-dcc4-490f-970b-523f57449a7d")
-		(property "Reference" "R20"
+		(property "Reference" "R26"
 			(at 184.15 95.25 90)
 			(effects
 				(font
@@ -15210,7 +14541,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R20")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -15225,7 +14556,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eb2c4c67-8b31-4e29-9d71-5ce468424d8a")
-		(property "Reference" "C11"
+		(property "Reference" "C18"
 			(at 31.75 179.07 90)
 			(effects
 				(font
@@ -15342,7 +14673,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C11")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -15357,7 +14688,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ee6920df-150e-4114-8359-0653b8a42845")
-		(property "Reference" "C9"
+		(property "Reference" "C40"
 			(at 49.53 179.07 90)
 			(effects
 				(font
@@ -15474,7 +14805,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C9")
+					(reference "C40")
 					(unit 1)
 				)
 			)
@@ -15556,7 +14887,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f01764f5-d578-4508-82fc-29ba8a848815")
-		(property "Reference" "R11"
+		(property "Reference" "R42"
 			(at 184.15 138.43 90)
 			(effects
 				(font
@@ -15671,7 +15002,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R11")
+					(reference "R42")
 					(unit 1)
 				)
 			)
@@ -15686,7 +15017,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f3f2fc77-2f93-4ca7-9584-250e259fdcc8")
-		(property "Reference" "C16"
+		(property "Reference" "C17"
 			(at 44.45 40.64 90)
 			(effects
 				(font
@@ -15801,7 +15132,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C16")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -15883,7 +15214,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5c6c304-7a32-4ccd-a12b-0ac7d794a270")
-		(property "Reference" "C18"
+		(property "Reference" "C26"
 			(at 44.45 68.58 90)
 			(effects
 				(font
@@ -15998,7 +15329,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "C18")
+					(reference "C26")
 					(unit 1)
 				)
 			)
@@ -16013,7 +15344,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f8b35df2-8bb8-4e83-9bed-8c0ddb285196")
-		(property "Reference" "R19"
+		(property "Reference" "R33"
 			(at 184.15 123.19 90)
 			(effects
 				(font
@@ -16128,7 +15459,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R19")
+					(reference "R33")
 					(unit 1)
 				)
 			)

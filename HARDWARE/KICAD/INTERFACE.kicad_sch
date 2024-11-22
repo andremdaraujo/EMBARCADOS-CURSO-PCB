@@ -4709,7 +4709,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "04421318-0dde-46b6-8492-7fd17628cf7d")
-		(property "Reference" "R45"
+		(property "Reference" "R11"
 			(at 226.06 40.64 0)
 			(effects
 				(font
@@ -4826,7 +4826,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R45")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -4976,7 +4976,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1883cf4a-3b90-4e61-b8cc-8b6ff4029347")
-		(property "Reference" "R49"
+		(property "Reference" "R50"
 			(at 104.14 106.6799 0)
 			(effects
 				(font
@@ -5093,7 +5093,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R49")
+					(reference "R50")
 					(unit 1)
 				)
 			)
@@ -5659,7 +5659,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2f43a79e-03be-4433-8a1b-771b2f0beb90")
-		(property "Reference" "C43"
+		(property "Reference" "C13"
 			(at 142.24 40.64 90)
 			(effects
 				(font
@@ -5774,7 +5774,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "C43")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -5790,7 +5790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ff98154-ad92-49e4-878b-0967ffa8ebda")
-		(property "Reference" "R55"
+		(property "Reference" "R16"
 			(at 154.94 171.4499 0)
 			(effects
 				(font
@@ -5907,7 +5907,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R55")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -6043,7 +6043,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "31a509f6-e34c-4092-b973-d9ac2b655021")
-		(property "Reference" "SW4"
+		(property "Reference" "SW6"
 			(at 128.27 120.6499 90)
 			(effects
 				(font
@@ -6160,7 +6160,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW4")
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -6176,7 +6176,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "387d463c-f1ba-45ae-9a16-f761b1d224a4")
-		(property "Reference" "R48"
+		(property "Reference" "R55"
 			(at 78.74 106.6799 0)
 			(effects
 				(font
@@ -6293,7 +6293,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R48")
+					(reference "R55")
 					(unit 1)
 				)
 			)
@@ -6642,7 +6642,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4d2c396b-8df8-4b1d-8e88-e354cad28467")
-		(property "Reference" "C45"
+		(property "Reference" "C2"
 			(at 44.45 46.99 90)
 			(effects
 				(font
@@ -6757,7 +6757,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "C45")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -6772,7 +6772,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "52bc6a76-13ac-4881-9fe3-470ead0e0f84")
-		(property "Reference" "SW6"
+		(property "Reference" "SW7"
 			(at 204.47 120.6499 90)
 			(effects
 				(font
@@ -6889,7 +6889,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW6")
+					(reference "SW7")
 					(unit 1)
 				)
 			)
@@ -7041,7 +7041,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "692dd14a-b563-4dcf-bfed-de643da7a901")
-		(property "Reference" "Q3"
+		(property "Reference" "Q1"
 			(at 232.41 57.15 0)
 			(effects
 				(font
@@ -7164,7 +7164,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "Q3")
+					(reference "Q1")
 					(unit 1)
 				)
 			)
@@ -7246,7 +7246,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "754c307b-543b-452a-a02c-e2dbbd85dd02")
-		(property "Reference" "SW7"
+		(property "Reference" "SW8"
 			(at 229.87 120.6499 90)
 			(effects
 				(font
@@ -7363,7 +7363,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW7")
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -7378,7 +7378,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "77afcb72-b4e6-4241-881b-6065fa5e59f4")
-		(property "Reference" "C42"
+		(property "Reference" "C11"
 			(at 142.24 30.48 90)
 			(effects
 				(font
@@ -7493,7 +7493,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "C42")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -7508,7 +7508,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7822ee95-9a5c-4818-83da-4b8b1be64215")
-		(property "Reference" "SW9"
+		(property "Reference" "SW2"
 			(at 153.67 156.2099 90)
 			(effects
 				(font
@@ -7625,7 +7625,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW9")
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -7773,7 +7773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c883c1d-d357-44a5-843d-496a6f3db24b")
-		(property "Reference" "R51"
+		(property "Reference" "R54"
 			(at 154.94 106.6799 0)
 			(effects
 				(font
@@ -7890,7 +7890,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R51")
+					(reference "R54")
 					(unit 1)
 				)
 			)
@@ -8039,7 +8039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83ec70eb-421a-4a64-bc37-bac368c19619")
-		(property "Reference" "R50"
+		(property "Reference" "R51"
 			(at 129.54 106.6799 0)
 			(effects
 				(font
@@ -8156,7 +8156,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R50")
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -8172,7 +8172,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86323900-527c-476e-ae1b-7fe93986e5f1")
-		(property "Reference" "R47"
+		(property "Reference" "R49"
 			(at 53.34 106.6799 0)
 			(effects
 				(font
@@ -8289,7 +8289,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R47")
+					(reference "R49")
 					(unit 1)
 				)
 			)
@@ -8425,7 +8425,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "96bf291d-edcf-4f58-b61d-eb9df753e3cd")
-		(property "Reference" "D5"
+		(property "Reference" "D2"
 			(at 46.99 55.88 0)
 			(effects
 				(font
@@ -8549,7 +8549,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "D5")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -8938,7 +8938,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a38430e7-0076-42f3-a6b3-1bd07b8da632")
-		(property "Reference" "SW1"
+		(property "Reference" "SW3"
 			(at 52.07 120.6499 90)
 			(effects
 				(font
@@ -9055,7 +9055,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW1")
+					(reference "SW3")
 					(unit 1)
 				)
 			)
@@ -9326,7 +9326,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1ce5500-4a44-4601-8dcb-4e9dca37ef66")
-		(property "Reference" "R46"
+		(property "Reference" "R12"
 			(at 214.63 63.5 0)
 			(effects
 				(font
@@ -9443,7 +9443,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R46")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -9592,7 +9592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e48e2279-5ce9-4a18-8e5d-f92ebea78261")
-		(property "Reference" "SW2"
+		(property "Reference" "SW9"
 			(at 77.47 120.6499 90)
 			(effects
 				(font
@@ -9709,7 +9709,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW2")
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -10100,7 +10100,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f04cdbd1-20e2-4bef-9fae-917487b99b1c")
-		(property "Reference" "SW8"
+		(property "Reference" "SW1"
 			(at 128.27 171.4499 90)
 			(effects
 				(font
@@ -10217,7 +10217,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW8")
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -10232,7 +10232,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f4126589-d88f-4c8d-bb34-d9c554242da0")
-		(property "Reference" "SW3"
+		(property "Reference" "SW4"
 			(at 102.87 120.6499 90)
 			(effects
 				(font
@@ -10349,7 +10349,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "SW3")
+					(reference "SW4")
 					(unit 1)
 				)
 			)
@@ -10572,7 +10572,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fac0d6ea-6f97-487c-b918-2a2c273b7daa")
-		(property "Reference" "R54"
+		(property "Reference" "R15"
 			(at 129.54 156.2099 0)
 			(effects
 				(font
@@ -10689,7 +10689,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R54")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -10704,7 +10704,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fc3ed248-25ba-4363-b89e-4b5267cc3107")
-		(property "Reference" "C41"
+		(property "Reference" "C3"
 			(at 222.25 30.48 90)
 			(effects
 				(font
@@ -10819,7 +10819,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "C41")
+					(reference "C3")
 					(unit 1)
 				)
 			)
