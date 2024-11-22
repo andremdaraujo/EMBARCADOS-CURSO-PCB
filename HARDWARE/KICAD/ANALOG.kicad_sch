@@ -8118,13 +8118,12 @@
 				)
 			)
 		)
-		(property "Value" "CONN 02x05 ODD EVEN"
-			(at 38.1 92.71 0)
+		(property "Value" "ANALOG"
+			(at 38.1 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "EMBARCADOS - CURSO PCB:PinSocket_2x05_P2.54mm_Horizontal"
