@@ -60842,7 +60842,7 @@
 			(justify right)
 		)
 	)
-	(gr_text "PORTAL EMBARCADOS\nProjeto de PCB para\nSistemas Embarcados\nRev.00 2024/11/16\nEng. André A. M. Araujo\n"
+	(gr_text "PORTAL EMBARCADOS\nProjeto de PCB para\nSistemas Embarcados\nRev.00 2024/11/16\nEng. André A. M. Araújo\n"
 		(at 175.46 140.115625 0)
 		(layer "F.SilkS")
 		(uuid "684979f8-80f1-4cac-bec5-13c381203d35")
