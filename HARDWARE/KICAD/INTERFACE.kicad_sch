@@ -5790,7 +5790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ff98154-ad92-49e4-878b-0967ffa8ebda")
-		(property "Reference" "R16"
+		(property "Reference" "R18"
 			(at 154.94 171.4499 0)
 			(effects
 				(font
@@ -5907,7 +5907,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R16")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -10574,7 +10574,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fac0d6ea-6f97-487c-b918-2a2c273b7daa")
-		(property "Reference" "R15"
+		(property "Reference" "R17"
 			(at 129.54 156.2099 0)
 			(effects
 				(font
@@ -10691,7 +10691,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/6145c3a7-bcf4-4534-931d-bf3c6674fe6b"
-					(reference "R15")
+					(reference "R17")
 					(unit 1)
 				)
 			)

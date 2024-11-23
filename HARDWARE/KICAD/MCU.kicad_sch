@@ -9119,7 +9119,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2cf3a07d-0809-436c-9c20-5d3f789db36b")
-		(property "Reference" "R17"
+		(property "Reference" "R15"
 			(at 199.39 48.26 90)
 			(effects
 				(font
@@ -9236,7 +9236,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R17")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -11277,7 +11277,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "790555bb-2e1c-4aa8-807e-721835d297c3")
-		(property "Reference" "R18"
+		(property "Reference" "R16"
 			(at 201.93 48.26 90)
 			(effects
 				(font
@@ -11394,7 +11394,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/c29651ae-6018-447b-aeb5-0320701650ee"
-					(reference "R18")
+					(reference "R16")
 					(unit 1)
 				)
 			)
