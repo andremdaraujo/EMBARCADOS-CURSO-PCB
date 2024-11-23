@@ -2306,7 +2306,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f65ad52-8226-41e7-842b-74e4f0556042")
-		(property "Reference" "TP8"
+		(property "Reference" "TP6"
 			(at 71.12 36.8299 90)
 			(effects
 				(font
@@ -2357,7 +2357,7 @@
 		(instances
 			(project ""
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP8")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -2494,7 +2494,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "545a96c0-2e38-4014-bbd1-a8e14699681b")
-		(property "Reference" "TP1"
+		(property "Reference" "TP8"
 			(at 71.12 138.4299 90)
 			(effects
 				(font
@@ -2545,7 +2545,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP1")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -2561,7 +2561,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57499197-d799-4a5b-a299-62efbae05c30")
-		(property "Reference" "TP6"
+		(property "Reference" "TP5"
 			(at 71.12 87.6299 90)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP6")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -2755,7 +2755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "671497ae-e38c-49cf-8f53-2a6fce52e7f6")
-		(property "Reference" "TP7"
+		(property "Reference" "TP9"
 			(at 109.22 62.2299 90)
 			(effects
 				(font
@@ -2806,7 +2806,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP7")
+					(reference "TP9")
 					(unit 1)
 				)
 			)
@@ -3384,7 +3384,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9fad5240-a3f2-4736-b01e-07c9d87f6ca9")
-		(property "Reference" "TP11"
+		(property "Reference" "TP10"
 			(at 109.22 36.8299 90)
 			(effects
 				(font
@@ -3435,7 +3435,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP11")
+					(reference "TP10")
 					(unit 1)
 				)
 			)
@@ -3892,7 +3892,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6c1f038-537f-4cfa-a969-938da2efa2dc")
-		(property "Reference" "TP10"
+		(property "Reference" "TP11"
 			(at 71.12 62.2299 90)
 			(effects
 				(font
@@ -3943,7 +3943,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP10")
+					(reference "TP11")
 					(unit 1)
 				)
 			)
@@ -3959,7 +3959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8cdd706-e762-4968-a939-62a9b7a9a5c0")
-		(property "Reference" "TP5"
+		(property "Reference" "TP4"
 			(at 109.22 153.6699 90)
 			(effects
 				(font
@@ -4010,7 +4010,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP5")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -4161,7 +4161,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d38c708f-df1e-49ed-86fb-c1ba4cf0dfab")
-		(property "Reference" "TP4"
+		(property "Reference" "TP1"
 			(at 109.22 87.6299 90)
 			(effects
 				(font
@@ -4212,7 +4212,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP4")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -4490,7 +4490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efadb5dd-7d38-44ed-bc80-3c11fc390d7c")
-		(property "Reference" "TP9"
+		(property "Reference" "TP7"
 			(at 109.22 113.0299 90)
 			(effects
 				(font
@@ -4541,7 +4541,7 @@
 		(instances
 			(project "EMBARCADOS - CURSO PCB"
 				(path "/d5268f1b-b782-4609-86ee-ff462c2ec1ad/f534a825-b21c-4738-ba21-86f09d9b870e"
-					(reference "TP9")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
