@@ -1,0 +1,29 @@
+Drill report for EMBARCADOS - CURSO PCB.kicad_pcb
+Created on 2024-11-24T12:22:45-0300
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  L1 - TOP (SIG-PWR)        front
+    L2 :  L2 - GND                  in1
+    L3 :  L3 - GND                  in2
+    L4 :  L4 - BOTTOM (SIG-PWR)     back
+
+
+Drill file 'EMBARCADOS - CURSO PCB-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.300mm  0.0118"  (441 holes)
+    T2  0.600mm  0.0236"  (4 holes)  (with 4 slots)
+    T3  0.700mm  0.0276"  (6 holes)
+    T4  1.000mm  0.0394"  (108 holes)  (with 3 slots)
+
+    Total plated holes count 559
+
+
+Drill file 'EMBARCADOS - CURSO PCB-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  0.650mm  0.0256"  (2 holes)
+    T2  3.200mm  0.1260"  (8 holes)
+
+    Total unplated holes count 10

@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "8.0.6"
+    },
+    "CreationDate": "2024-11-24T17:50:58-03:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "EMBARCADOS - CURSO PCB",
+      "GUID": "454d4241-5243-4414-944f-53202d204355",
+      "Revision": "00"
+    },
+    "Size": {
+      "X": 100.05,
+      "Y": 82.05
+    },
+    "LayerNumber": 4,
+    "BoardThickness": 1.5888,
+    "Finish": "HAL SnPb",
+    "ImpedanceControlled": true
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.1511,
+      "TrackToRegion": 0.25,
+      "RegionToRegion": 0.25
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "TrackToRegion": 0.25,
+      "RegionToRegion": 0.25
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "EMBARCADOS - CURSO PCB-L1 - TOP (SIG-PWR).gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-L2 - GND.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-L3 - GND.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-L4 - BOTTOM (SIG-PWR).gbr",
+      "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-User_Dimensions.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-User_Comments.gbr",
+      "FileFunction": "Other,User",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EMBARCADOS - CURSO PCB-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.01,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "L1 - TOP (SIG-PWR)"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.0994,
+      "Material": "FR4",
+      "DielectricConstant": "4.1",
+      "Name": "L1 - TOP (SIG-PWR)/L2 - GND",
+      "Notes": "Type: dielectric layer 1 (from L1 - TOP (SIG-PWR) to L2 - GND)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0175,
+      "Name": "L2 - GND"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 1.265,
+      "Material": "FR4",
+      "DielectricConstant": "4.6",
+      "Name": "L2 - GND/L3 - GND",
+      "Notes": "Type: dielectric layer 2 (from L2 - GND to L3 - GND)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0175,
+      "Name": "L3 - GND"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.0994,
+      "Material": "FR4",
+      "DielectricConstant": "4.1",
+      "Name": "L3 - GND/L4 - BOTTOM (SIG-PWR)",
+      "Notes": "Type: dielectric layer 3 (from L3 - GND to L4 - BOTTOM (SIG-PWR))"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "L4 - BOTTOM (SIG-PWR)"
+    },
+    {
+      "Type": "SolderMask",
+      "Thickness": 0.01,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}
