@@ -870,7 +870,7 @@
       "plot": "FABRICATION/",
       "pos_files": "FABRICATION/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "EMBARCADOS - CURSO PCB.step",
       "svg": "",
       "vrml": ""
     },
