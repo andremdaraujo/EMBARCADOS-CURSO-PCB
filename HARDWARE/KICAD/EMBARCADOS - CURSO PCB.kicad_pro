@@ -867,7 +867,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "FABRICATION/",
+      "plot": "FABRICATION/PDF/",
       "pos_files": "FABRICATION/",
       "specctra_dsn": "",
       "step": "EMBARCADOS - CURSO PCB.step",

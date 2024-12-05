@@ -4296,7 +4296,7 @@
 		)
 		(uuid "fe014ffd-9681-407d-b24d-415e69e186b9")
 	)
-	(text "BOOST OUT = 1.25 * (1 + R7/R8)\n+VBOOST = 7.125V"
+	(text "BOOST OUT = 1.25 * (1 + R3/R2)\n+VBOOST = 7.125V"
 		(exclude_from_sim no)
 		(at 176.53 88.9 0)
 		(effects
@@ -4304,7 +4304,7 @@
 				(size 1.27 1.27)
 				(thickness 0.254)
 				(bold yes)
-				(color 255 0 0 1)
+				(color 0 0 0 1)
 			)
 		)
 		(uuid "c697a04a-ab16-4112-b791-f5db4e801534")
