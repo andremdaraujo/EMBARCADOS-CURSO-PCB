@@ -276,7 +276,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part #" "C14663 "
+			(property "LCSC Part # " "C14663 "
 				(at 0 -15.494 0)
 				(effects
 					(font
@@ -474,7 +474,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part #" "C15850 "
+			(property "LCSC Part # " "C15850 "
 				(at 0 -15.494 0)
 				(effects
 					(font
@@ -2603,7 +2603,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part # " "-"
+			(property "LCSC Part # " "C318884"
 				(at 0 -12.192 0)
 				(effects
 					(font
@@ -2612,7 +2612,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC MPN " "-"
+			(property "LCSC MPN " "TS-1187A-B-A-B"
 				(at 0 -12.192 0)
 				(effects
 					(font
@@ -2621,7 +2621,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC MANUFACTURER " "-"
+			(property "LCSC MANUFACTURER " "XKB Connection"
 				(at 0 -12.192 0)
 				(effects
 					(font
@@ -5738,15 +5738,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 157.734 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 153.416 42.672 0)
 			(effects
@@ -5758,6 +5749,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 155.702 42.926 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 157.734 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6124,7 +6124,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 139.192 121.92 0)
 			(effects
 				(font
@@ -6133,7 +6133,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 139.192 121.92 0)
 			(effects
 				(font
@@ -6142,7 +6142,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 139.192 121.92 0)
 			(effects
 				(font
@@ -6860,15 +6860,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 59.944 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 55.626 49.022 0)
 			(effects
@@ -6880,6 +6871,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 57.912 49.276 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 59.944 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6992,7 +6992,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 215.392 121.92 0)
 			(effects
 				(font
@@ -7001,7 +7001,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 215.392 121.92 0)
 			(effects
 				(font
@@ -7010,7 +7010,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 215.392 121.92 0)
 			(effects
 				(font
@@ -7329,7 +7329,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 240.792 121.92 0)
 			(effects
 				(font
@@ -7338,7 +7338,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 240.792 121.92 0)
 			(effects
 				(font
@@ -7347,7 +7347,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 240.792 121.92 0)
 			(effects
 				(font
@@ -7459,15 +7459,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 157.734 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 153.416 32.512 0)
 			(effects
@@ -7479,6 +7470,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 155.702 32.766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 157.734 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7591,7 +7591,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 164.592 157.48 0)
 			(effects
 				(font
@@ -7600,7 +7600,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 164.592 157.48 0)
 			(effects
 				(font
@@ -7609,7 +7609,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 164.592 157.48 0)
 			(effects
 				(font
@@ -8889,7 +8889,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 164.592 121.92 0)
 			(effects
 				(font
@@ -8898,7 +8898,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 164.592 121.92 0)
 			(effects
 				(font
@@ -8907,7 +8907,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 164.592 121.92 0)
 			(effects
 				(font
@@ -9021,7 +9021,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 62.992 121.92 0)
 			(effects
 				(font
@@ -9030,7 +9030,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 62.992 121.92 0)
 			(effects
 				(font
@@ -9039,7 +9039,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 62.992 121.92 0)
 			(effects
 				(font
@@ -9675,7 +9675,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 88.392 121.92 0)
 			(effects
 				(font
@@ -9684,7 +9684,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 88.392 121.92 0)
 			(effects
 				(font
@@ -9693,7 +9693,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 88.392 121.92 0)
 			(effects
 				(font
@@ -10183,7 +10183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 139.192 172.72 0)
 			(effects
 				(font
@@ -10192,7 +10192,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 139.192 172.72 0)
 			(effects
 				(font
@@ -10201,7 +10201,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 139.192 172.72 0)
 			(effects
 				(font
@@ -10315,7 +10315,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 113.792 121.92 0)
 			(effects
 				(font
@@ -10324,7 +10324,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 113.792 121.92 0)
 			(effects
 				(font
@@ -10333,7 +10333,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 113.792 121.92 0)
 			(effects
 				(font
@@ -10785,15 +10785,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 237.744 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 233.426 32.512 0)
 			(effects
@@ -10805,6 +10796,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 235.712 32.766 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 237.744 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)

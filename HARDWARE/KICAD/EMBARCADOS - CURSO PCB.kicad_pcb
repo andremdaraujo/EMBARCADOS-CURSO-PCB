@@ -110,8 +110,8 @@
 		(aux_axis_origin 150.02 71.740625)
 		(grid_origin 150.02 71.740625)
 		(pcbplotparams
-			(layerselection 0x00013fc_ffffffff)
-			(plot_on_all_layers_selection 0x0002000_00000000)
+			(layerselection 0x003f3fc_ffffffff)
+			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
 			(usegerberattributes yes)
@@ -140,11 +140,11 @@
 			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(subtractmaskfromsilk yes)
-			(outputformat 4)
+			(outputformat 1)
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "FABRICATION/PDF/")
+			(outputdirectory "FABRICATION/GERBER/")
 		)
 	)
 	(net 0 "")
@@ -424,6 +424,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b85c30d3-f3a0-4970-84b5-376301497ba6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " "HANXIA "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "11abf0b6-64f8-4605-88d2-0415699906e0")
 			(effects
 				(font
 					(size 1 1)
@@ -1203,6 +1216,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3f5d2c9f-24bf-4533-ab9e-097f22ed9882")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/fc7cbe7f-4b95-481b-aa22-3c58edacbb8c")
 		(sheetname "ANALOG")
@@ -1507,6 +1533,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8249414-2a17-431d-8ab9-927e0a9d5f48")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6145c3a7-bcf4-4534-931d-bf3c6674fe6b/4d2c396b-8df8-4b1d-8e88-e354cad28467")
 		(sheetname "INTERFACE")
@@ -1804,6 +1843,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5e08b228-c1d6-475a-8c53-35f2608e5e9f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9b7799f9-2449-4ec8-8022-e56e21f03ffe")
 			(effects
 				(font
 					(size 1 1)
@@ -3028,6 +3080,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "323dda17-cf08-437e-902c-458ff5c66506")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/ee6920df-150e-4114-8359-0653b8a42845")
 		(sheetname "MCU")
@@ -4236,6 +4301,19 @@
 				)
 			)
 		)
+		(property "Manufacturer" "DIODES INCORPORATED "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2e377f90-445b-48c0-b29a-0a503ab9f2b5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D*SOD?323*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/609c5703-0506-4021-b5d6-cba90bb4618d")
 		(sheetname "POWER")
@@ -5363,6 +5441,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f29bfa00-358e-41cd-8814-f9de20eea510")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/c6205046-8f65-4fd6-b782-1bb8a99d89f7")
 		(sheetname "MCU")
@@ -5964,6 +6055,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "76e38d77-2ffd-477d-8e90-b79fb16fd047")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC MPN " "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1364608a-23d1-4ed6-aad7-90d294dc8f8a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " "-"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "598fb2f7-95f2-477d-93e8-59d435bcbd63")
 			(effects
 				(font
 					(size 1 1)
@@ -9155,6 +9272,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C327005 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6d0bcdb3-173c-4a37-83bc-c563e1338805")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5c5c1b35-8adb-4bed-8f60-c08a0db2168d/746df167-10f5-4990-beb7-845542d8484c")
 		(sheetname "IO")
@@ -9970,6 +10100,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3f5e58b6-aa0d-4e80-b9ef-3931349c641a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "94c65034-e2d8-473b-80e2-2e7f8edab733")
 			(effects
 				(font
 					(size 1 1)
@@ -10855,6 +10998,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d2e669a7-c376-4a91-9601-ed0e3949a7ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/891c30a7-d76b-4caa-a307-6e4829a58e85")
 		(sheetname "ANALOG")
@@ -11152,6 +11308,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a523aec6-4060-4bd0-a286-3cc740d391ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5fa56d77-2561-4e9d-869f-cc2358e0c220")
 			(effects
 				(font
 					(size 1 1)
@@ -14139,6 +14308,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fd7117a4-abf1-4fe5-a686-30a715d0e4f8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/eb2c4c67-8b31-4e29-9d71-5ce468424d8a")
 		(sheetname "MCU")
@@ -14856,6 +15038,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ed983359-cc0d-4f58-9e35-5745dbf934ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/c21f4d13-ffd4-437f-b430-2cfbe42c4818")
 		(sheetname "POWER")
@@ -15153,6 +15348,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e242e9e1-754b-4b40-a5a7-f76c9d919fbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "e25d8c35-2f5b-4f14-a61f-9eca3190d495")
 			(effects
 				(font
 					(size 1 1)
@@ -16528,6 +16736,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0ef39752-d1c4-44fb-9f7d-e13994822b58")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/4b6ddec0-406b-4901-9ac0-eaab8d9e990c")
 		(sheetname "POWER")
@@ -17136,6 +17357,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "84536d27-4b2f-42c3-8bd6-16fe151e4dd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/ef597187-4d76-4587-89b2-246fea62695b")
 		(sheetname "ANALOG")
@@ -17737,6 +17971,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "11d466ad-443a-4cd2-817d-286bacaa9cf2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf8e4410-96a9-4b56-ac00-e56f8ea5e242")
 			(effects
 				(font
 					(size 1 1)
@@ -18765,6 +19012,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3dbf0926-6bd9-4ba1-8270-e649dade8119")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "571f6e77-69bc-4978-a834-f10183ac4789")
 			(effects
 				(font
 					(size 1 1)
@@ -20408,6 +20668,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1528871a-7e3c-46a6-821c-a18b474cab8d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5c5c1b35-8adb-4bed-8f60-c08a0db2168d/ceefd768-540e-4be6-afe6-4381a236d00e")
 		(sheetname "IO")
@@ -20712,6 +20985,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "525da8f8-71a1-4102-9f18-3f16fa8bc0e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/158d3eee-5327-45fe-8446-b78815a291c9")
 		(sheetname "POWER")
@@ -21009,6 +21295,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a08fa1a9-bd2b-447f-be62-b8b07577ce46")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f61f1d5d-6efc-4d55-a084-09b11eddabe5")
 			(effects
 				(font
 					(size 1 1)
@@ -24610,6 +24909,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C1634 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "602eb806-64f9-4768-94b1-72631f0a76a1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/9910dc54-75d7-443c-85a2-502e02965a0c")
 		(sheetname "MCU")
@@ -25900,6 +26212,32 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "323e507e-3030-4af2-9a20-ffb323fb5a30")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC MPN " "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9763fa43-84ca-4637-90ff-2b3d8b26727a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC MANUFACTURER " "-"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9d8ce4a5-fd56-443d-ab5a-b2b22f76a4ca")
 			(effects
 				(font
 					(size 1 1)
@@ -30288,6 +30626,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "54b5ed41-11a2-47d4-847c-83ddfd1475cc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ef6a217-c99d-43b7-839b-0a2a0eb3ce24")
 			(effects
 				(font
 					(size 1 1)
@@ -35655,6 +36006,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C1634 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa5db0a6-1358-4ff4-86d6-cb5f007d713b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/12ba4038-63e8-4e31-aea7-493133b75805")
 		(sheetname "MCU")
@@ -36869,6 +37233,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4b49b970-28d8-4a43-9179-e3d84f32cbd8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/67b9b34a-777e-4f6c-ae93-4d03654a20b9")
 		(sheetname "ANALOG")
@@ -37173,6 +37550,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "915344c1-4c53-403b-a2a6-9b9498156bc2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/d8bd5861-0914-4704-81e3-e957913efa5b")
 		(sheetname "MCU")
@@ -37470,6 +37860,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0b2b13c5-c27f-4834-992d-f5640ff0e581")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8d2743a4-ae5c-40be-aaf8-6a73bb8092b8")
 			(effects
 				(font
 					(size 1 1)
@@ -40189,6 +40592,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "78683fdf-dc9f-4ac2-91d2-944c7ddc2064")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/22bd62ac-c3ac-4d30-af03-aef0130fb45b")
 		(sheetname "MCU")
@@ -40970,6 +41386,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2e3c2707-0c53-4076-b40a-5dc4361ccb14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C1634 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5ab12140-6e5d-4920-9703-8e4d95655b73")
 			(effects
 				(font
 					(size 1 1)
@@ -42208,6 +42637,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "807a2532-772f-422a-bbc2-b0635d04bd0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9146c162-a8ae-47de-be5b-1ac264ea2b3b")
 			(effects
 				(font
 					(size 1 1)
@@ -43851,6 +44293,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "24f157a5-e64f-4bd3-9412-61755f920f1c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/5df8b9f2-200f-45bb-b6d2-1d0c8c40745c")
 		(sheetname "POWER")
@@ -44148,6 +44603,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d3d21598-f5de-4b8a-9edc-2ff64f3a0284")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8fd36ce3-208b-46ba-ad6d-b96dee9c3b15")
 			(effects
 				(font
 					(size 1 1)
@@ -44459,6 +44927,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac708f54-ac33-49ff-bb97-97136c58e2fc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/5c5c1b35-8adb-4bed-8f60-c08a0db2168d/a0493a45-6bbc-41e2-9763-f251591c8a58")
 		(sheetname "IO")
@@ -44763,6 +45244,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C1634 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "87d67cf4-0c4a-4b07-b943-21bb5265a08d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/f5c6c304-7a32-4ccd-a12b-0ac7d794a270")
 		(sheetname "MCU")
@@ -45060,6 +45554,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a6e8e737-a9c9-4398-abc4-aeebda1218ef")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c850279f-4563-44ec-9dc7-c710275c2994")
 			(effects
 				(font
 					(size 1 1)
@@ -46054,6 +46561,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b7f70716-cdf8-4d55-82ba-1f57abc4cdbb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dd271893-4faf-4121-9c64-8ebd284cc585")
 			(effects
 				(font
 					(size 1 1)
@@ -47078,6 +47598,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b2239fb3-c27c-4163-a1db-40a58140bf1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/695f609e-00c7-4f18-b7fd-60fe56ddbce4")
 		(sheetname "MCU")
@@ -47382,6 +47915,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4e2798a2-63dd-4505-9e4c-e96d7db8a865")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/92d1bbca-32e9-4b3b-8cce-53479dd3ac73")
 		(sheetname "POWER")
@@ -47679,6 +48225,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23113db7-17df-4a53-a11d-8cb4f5fca853")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7ba818b3-f322-4cae-90f8-29af9c30bd6f")
 			(effects
 				(font
 					(size 1 1)
@@ -49288,6 +49847,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "07e7b66d-251d-4cf7-9c2f-c772437f98b6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/398eabab-c646-48ee-a0ad-8001a95bf1f1")
 		(sheetname "ANALOG")
@@ -49585,6 +50157,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ff29ab6f-eb2c-4b01-8b7e-b06936fa4454")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "914f9a68-eef5-41df-a650-348ec9ca0839")
 			(effects
 				(font
 					(size 1 1)
@@ -50200,6 +50785,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "382ea052-eaa8-4b35-89b5-22f954b91f69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/9b5c5d79-aa85-43d6-bc66-deb2192346a3/59d67a81-1bcf-42f4-855d-b8fdf1616a7f")
 		(sheetname "ANALOG")
@@ -50497,6 +51095,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "04847e34-0d76-4202-876b-692821b0adc9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fbd2e4a-99ec-42de-971b-87732234f871")
 			(effects
 				(font
 					(size 1 1)
@@ -52182,6 +52793,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0bbc649b-cc3d-405b-b326-93b7232f071b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/3e21449c-bc9b-41eb-84fe-7c683a175bcf")
 		(sheetname "MCU")
@@ -53087,6 +53711,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "68c490a1-f4ff-44f8-a399-39b60cf3abc7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e83d39e-8bc6-485e-83b9-8b526590652f")
 			(effects
 				(font
 					(size 1 1)
@@ -55256,6 +55893,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ab460df3-6fbf-408e-918a-564c3dfa33bc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/c29651ae-6018-447b-aeb5-0320701650ee/60d7c815-1fde-481d-9be6-47eb308d8f92")
 		(sheetname "MCU")
@@ -55553,6 +56203,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d331e891-10dc-42a2-9c2c-fe2c1d2ab66d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "22207f93-8dc2-4299-9d4f-e33b9c857dea")
 			(effects
 				(font
 					(size 1 1)
@@ -56206,7 +56869,7 @@
 				)
 			)
 		)
-		(property "LCSC MPN " "0603WAF1002T5E "
+		(property "LCSC MPN " "0603WAF4702T5E"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -57260,6 +57923,19 @@
 				)
 			)
 		)
+		(property "LCSC Part # " "C15850 "
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bc482d77-7cbe-445f-9397-61059bcdce0c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/25e9c17a-dec3-4329-9bcf-5cd51d1774f7/aa452fc7-7466-409f-bcca-2b6c9018aa32")
 		(sheetname "POWER")
@@ -57917,6 +58593,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "85997651-d8ef-475c-9c48-8acd3fbbc1a4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9f0f58c9-3c92-4316-8ea8-f4f0e7b67449")
 			(effects
 				(font
 					(size 1 1)

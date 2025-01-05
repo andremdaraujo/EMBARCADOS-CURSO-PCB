@@ -1384,7 +1384,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
+		(property "LCSC Part # " "C14663 "
 			(at 0 -15.494 0)
 			(effects
 				(font
@@ -1582,7 +1582,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1634 "
+		(property "LCSC Part # " "C1634 "
 			(at 0 -15.494 0)
 			(effects
 				(font
@@ -1780,7 +1780,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C327005 "
+		(property "LCSC Part # " "C327005 "
 			(at 0 -15.494 0)
 			(effects
 				(font
@@ -1978,7 +1978,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
+		(property "LCSC Part # " "C15850 "
 			(at 0 -15.494 0)
 			(effects
 				(font
@@ -3589,7 +3589,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN" "-"
+		(property "LCSC MPN " "-"
 			(at 9.398 -40.132 0)
 			(effects
 				(font
@@ -3598,7 +3598,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER" "-"
+		(property "LCSC MANUFACTURER " "-"
 			(at 9.144 -39.624 0)
 			(effects
 				(font
@@ -5183,7 +5183,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER" "HANXIA "
+		(property "LCSC MANUFACTURER " "HANXIA "
 			(at 1.27 -25.146 0)
 			(effects
 				(font
@@ -6921,7 +6921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactrer" "DIODES INCORPORATED "
+		(property "Manufacturer" "DIODES INCORPORATED "
 			(at 0.254 -6.858 0)
 			(effects
 				(font
@@ -14323,7 +14323,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "C25804 "
+		(property "LCSC Part # " "C25819"
 			(at 0.254 -24.892 0)
 			(effects
 				(font
@@ -14332,7 +14332,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "0603WAF1002T5E "
+		(property "LCSC MPN " "0603WAF4702T5E"
 			(at 0.254 -20.32 0)
 			(effects
 				(font
@@ -15499,7 +15499,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "-"
+		(property "LCSC Part # " "C318884"
 			(at 0 -12.192 0)
 			(effects
 				(font
@@ -15508,7 +15508,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "-"
+		(property "LCSC MPN " "TS-1187A-B-A-B"
 			(at 0 -12.192 0)
 			(effects
 				(font
@@ -15517,7 +15517,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MANUFACTURER " "-"
+		(property "LCSC MANUFACTURER " "XKB Connection"
 			(at 0 -12.192 0)
 			(effects
 				(font

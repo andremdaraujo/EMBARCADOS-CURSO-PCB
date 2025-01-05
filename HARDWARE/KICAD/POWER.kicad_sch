@@ -716,7 +716,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part #" "C15850 "
+			(property "LCSC Part # " "C15850 "
 				(at 0 -15.494 0)
 				(effects
 					(font
@@ -1167,7 +1167,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufactrer" "DIODES INCORPORATED "
+			(property "Manufacturer" "DIODES INCORPORATED "
 				(at 0.254 -6.858 0)
 				(effects
 					(font
@@ -3053,7 +3053,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part # " "C25804 "
+			(property "LCSC Part # " "C25819"
 				(at 0.254 -24.892 0)
 				(effects
 					(font
@@ -3062,7 +3062,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC MPN " "0603WAF1002T5E "
+			(property "LCSC MPN " "0603WAF4702T5E"
 				(at 0.254 -20.32 0)
 				(effects
 					(font
@@ -4850,15 +4850,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 114.3 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 113.792 133.096 0)
 			(effects
@@ -4870,6 +4861,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 114.046 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 114.3 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4953,15 +4953,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 83.058 44.196 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "3D Model" "KiCad"
 			(at 81.28 44.45 0)
 			(effects
@@ -4999,6 +4990,15 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
+			(at 83.058 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED "
 			(at 83.058 44.196 0)
 			(effects
 				(font
@@ -5750,15 +5750,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 254 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 254.508 133.096 0)
 			(effects
@@ -5770,6 +5761,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 254.254 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 254 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7035,15 +7035,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 228.6 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 228.092 133.096 0)
 			(effects
@@ -7055,6 +7046,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 228.346 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 228.6 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7205,15 +7205,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 108.458 44.196 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "3D Model" "KiCad"
 			(at 106.68 44.45 0)
 			(effects
@@ -7251,6 +7242,15 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
+			(at 108.458 44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED "
 			(at 108.458 44.196 0)
 			(effects
 				(font
@@ -8544,15 +8544,6 @@
 				(hide yes)
 			)
 		)
-		(property "Manufactrer" "DIODES INCORPORATED "
-			(at 171.196 64.008 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "3D Model" "KiCad"
 			(at 171.45 62.23 0)
 			(effects
@@ -8590,6 +8581,15 @@
 			)
 		)
 		(property "LCSC MANUFACTURER " "DIODES INCORPORATED "
+			(at 171.196 64.008 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "DIODES INCORPORATED "
 			(at 171.196 64.008 0)
 			(effects
 				(font
@@ -8704,15 +8704,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 127 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 126.492 81.026 0)
 			(effects
@@ -8724,6 +8715,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 126.746 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 127 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9025,15 +9025,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 203.2 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 202.692 133.096 0)
 			(effects
@@ -9045,6 +9036,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 202.946 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 203.2 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9543,15 +9543,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 139.7 137.414 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 140.208 133.096 0)
 			(effects
@@ -9563,6 +9554,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 139.954 135.382 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 139.7 137.414 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10313,15 +10313,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 190.5 85.344 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 191.008 81.026 0)
 			(effects
@@ -10333,6 +10324,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 190.754 83.312 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 190.5 85.344 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10643,7 +10643,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part # " "C25804 "
+		(property "LCSC Part # " "C25819"
 			(at 178.054 88.392 0)
 			(effects
 				(font
@@ -10652,7 +10652,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC MPN " "0603WAF1002T5E "
+		(property "LCSC MPN " "0603WAF4702T5E"
 			(at 178.054 83.82 0)
 			(effects
 				(font

@@ -276,7 +276,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part #" "C14663 "
+			(property "LCSC Part # " "C14663 "
 				(at 0 -15.494 0)
 				(effects
 					(font
@@ -474,7 +474,7 @@
 					(hide yes)
 				)
 			)
-			(property "LCSC Part #" "C15850 "
+			(property "LCSC Part # " "C15850 "
 				(at 0 -15.494 0)
 				(effects
 					(font
@@ -4633,15 +4633,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 147.574 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 143.256 29.972 0)
 			(effects
@@ -4653,6 +4644,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 145.542 30.226 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 147.574 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5378,15 +5378,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 139.7 69.596 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 139.192 73.914 0)
 			(effects
@@ -5398,6 +5389,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 139.446 71.628 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 139.7 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5509,15 +5509,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 213.106 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 217.424 85.852 0)
 			(effects
@@ -5529,6 +5520,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 215.138 86.106 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 213.106 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5957,15 +5957,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 38.1 25.146 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 37.592 29.464 0)
 			(effects
@@ -5977,6 +5968,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 37.846 27.178 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 38.1 25.146 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6217,15 +6217,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 139.7 145.796 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 139.192 150.114 0)
 			(effects
@@ -6237,6 +6228,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 139.446 147.828 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 139.7 145.796 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6414,15 +6414,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 139.7 108.966 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 139.192 113.284 0)
 			(effects
@@ -6434,6 +6425,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 139.446 110.998 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 139.7 108.966 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6865,15 +6865,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 147.574 106.68 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 143.256 106.172 0)
 			(effects
@@ -6885,6 +6876,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 145.542 106.426 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 147.574 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7337,15 +7337,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 139.7 31.496 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 139.192 35.814 0)
 			(effects
@@ -7357,6 +7348,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 139.446 33.528 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 139.7 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8343,15 +8343,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 147.574 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 143.256 68.072 0)
 			(effects
@@ -8363,6 +8354,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 145.542 68.326 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 147.574 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8671,15 +8671,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 29.21 56.134 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 28.702 51.816 0)
 			(effects
@@ -8691,6 +8682,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 28.956 54.102 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 29.21 56.134 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8804,15 +8804,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C15850 "
-			(at 213.106 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CL21A106KAYNNNE "
 			(at 217.424 75.692 0)
 			(effects
@@ -8824,6 +8815,15 @@
 		)
 		(property "LCSC MANUFACTURER " "SAMSUNG "
 			(at 215.138 75.946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C15850 "
+			(at 213.106 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9131,15 +9131,6 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C14663 "
-			(at 147.574 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC MPN " "CC0603KRX7R9BB104 "
 			(at 143.256 144.272 0)
 			(effects
@@ -9151,6 +9142,15 @@
 		)
 		(property "LCSC MANUFACTURER " "YAGEO "
 			(at 145.542 144.526 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part # " "C14663 "
+			(at 147.574 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)

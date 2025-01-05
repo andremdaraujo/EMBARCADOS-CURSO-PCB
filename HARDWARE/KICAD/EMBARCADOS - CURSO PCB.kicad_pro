@@ -867,7 +867,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "FABRICATION/PDF/",
+      "plot": "FABRICATION/GERBER/",
       "pos_files": "FABRICATION/",
       "specctra_dsn": "",
       "step": "EMBARCADOS - CURSO PCB.step",
@@ -943,32 +943,14 @@
         },
         {
           "group_by": false,
-          "label": "LCSC MANUFACTURER",
-          "name": "LCSC MANUFACTURER",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "LCSC MANUFACTURER ",
           "name": "LCSC MANUFACTURER ",
           "show": true
         },
         {
           "group_by": false,
-          "label": "LCSC MPN",
-          "name": "LCSC MPN",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "LCSC MPN ",
           "name": "LCSC MPN ",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "LCSC Part #",
-          "name": "LCSC Part #",
           "show": true
         },
         {
@@ -981,12 +963,6 @@
           "group_by": false,
           "label": "MPN",
           "name": "MPN",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Manufactrer",
-          "name": "Manufactrer",
           "show": true
         },
         {
