@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "EMBARCADOS - CURSO PCB")
-		(date "2025-01-05")
-		(rev "01")
+		(date "2025-02-09")
+		(rev "02")
 		(company "Mechatronix Lab")
 		(comment 1 "Eng. André A. M. Araújo")
 	)
@@ -1037,9 +1037,9 @@
 			)
 			(symbol "LED RGB (NEOPIXEL/WS2812B) WÜRTH ELEKTRONIK 1315050930002 _1_1"
 				(pin power_in line
-					(at 0 7.62 270)
+					(at 0 -7.62 90)
 					(length 2.54)
-					(name "VDD"
+					(name "VSS"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1054,10 +1054,10 @@
 						)
 					)
 				)
-				(pin output line
-					(at 7.62 0 180)
+				(pin input line
+					(at -7.62 0 0)
 					(length 2.54)
-					(name "DOUT"
+					(name "DIN"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1073,9 +1073,9 @@
 					)
 				)
 				(pin power_in line
-					(at 0 -7.62 90)
+					(at 0 7.62 270)
 					(length 2.54)
-					(name "VSS"
+					(name "VDD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1090,10 +1090,10 @@
 						)
 					)
 				)
-				(pin input line
-					(at -7.62 0 0)
+				(pin output line
+					(at 7.62 0 180)
 					(length 2.54)
-					(name "DIN"
+					(name "DOUT"
 						(effects
 							(font
 								(size 1.27 1.27)
